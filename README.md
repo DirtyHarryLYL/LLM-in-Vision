@@ -1,5 +1,5 @@
 # LLM-in_Vision
-Recent LLM (Large Language Models)-based CV and related works. Welcome to comment/contribute!
+Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
 ### 2023.3
 
