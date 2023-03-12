@@ -3,6 +3,20 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.3
 
+<!-- - (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) Can an **Embodied** Agent Find Your “Cat-shaped Mug”? LLM-Based Zero-Shot Object Navigation, [[Paper]](https://arxiv.org/pdf/2303.03480.pdf), [[Project]](https://gamma.umd.edu/LGX/)
+
 - (arXiv 2023.3) Visual **ChatGPT**: Talking, Drawing and Editing with Visual Foundation Models, [[Paper]](https://arxiv.org/abs/2303.04671), [[Code]](https://github.com/microsoft/visual-chatgpt)
 
 - (arXiv 2023.3) PaLM-E: An **Embodied** Multimodal Language Model, [[Paper]](https://palm-e.github.io/assets/palm-e.pdf), [[Project]](https://palm-e.github.io/)
