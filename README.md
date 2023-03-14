@@ -11,9 +11,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) **ChatGPT** Asks, **BLIP-2** Answers: Automatic Questioning Towards Enriched **Visual Descriptions**, [[Paper]](https://arxiv.org/pdf/2303.06594.pdf), [[Code]](https://github.com/Vision-CAIR/ChatCaptioner)
 
 - (arXiv 2023.3) Can an **Embodied** Agent Find Your “Cat-shaped Mug”? LLM-Based Zero-Shot Object Navigation, [[Paper]](https://arxiv.org/pdf/2303.03480.pdf), [[Project]](https://gamma.umd.edu/LGX/)
 
