@@ -15,9 +15,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) Audio Visual Language Maps for Robot **Navigation**, [[Paper]](https://arxiv.org/pdf/2303.07522.pdf), [[Project]](https://avlmaps.github.io/)
 
 - (arXiv 2023.3) ViperGPT: Visual Inference via **Python** Execution for **Reasoning**, [[Paper]](https://arxiv.org/pdf/2303.08128.pdf)
 
