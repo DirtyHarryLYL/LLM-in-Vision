@@ -34,3 +34,5 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2022.7
 
 - (arXiv 2022.7) Language Models are General-Purpose **Interfaces**, [[Paper]](https://arxiv.org/pdf/2206.06336.pdf), [[Code]](https://github.com/microsoft/unilm)
+
+- (arXiv 2022.7) LM-Nav: Robotic **Navigation** with Large Pre-Trained Models of Language, Vision, and Action, [[Paper]](https://arxiv.org/pdf/2207.04429.pdf), [[Project]](https://sites.google.com/view/lmnav)
