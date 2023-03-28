@@ -13,9 +13,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) Learning **video** embedding space with Natural Language Supervision, [[Paper]](https://arxiv.org/pdf/2303.14584.pdf)
 
 - (arXiv 2023.3) Audio Visual Language Maps for Robot **Navigation**, [[Paper]](https://arxiv.org/pdf/2303.07522.pdf), [[Project]](https://avlmaps.github.io/)
 
