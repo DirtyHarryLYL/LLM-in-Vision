@@ -7,9 +7,21 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.4) Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions, [[Paper]](https://arxiv.org/pdf/2304.04227.pdf), [[Code]](https://github.com/Vision-CAIR/ChatCaptioner)
+- (arXiv 2023.4) OpenAGI: When LLM Meets Domain **Experts**, [[Paper]](https://arxiv.org/pdf/2304.04370.pdf), [[Code]](https://github.com/agiresearch/OpenAGI)
+
+- (arXiv 2023.4) **Video** ChatCaptioner: Towards the Enriched Spatiotemporal **Descriptions**, [[Paper]](https://arxiv.org/pdf/2304.04227.pdf), [[Code]](https://github.com/Vision-CAIR/ChatCaptioner)
 
 ### 2023.3
 
