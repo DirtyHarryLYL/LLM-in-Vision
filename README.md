@@ -9,9 +9,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) **HuggingGPT**: Solving AI Tasks with ChatGPT and its Friends in Hugging Face, [[Paper]](https://arxiv.org/pdf/2303.17580.pdf), [[Code]](https://github.com/microsoft/JARVIS)
 
 - (arXiv 2023.4) ERRA: An **Embodied** Representation and Reasoning Architecture for **Long-horizon** Language-conditioned **Manipulation** Tasks, [[Paper]](https://arxiv.org/pdf/2304.02251.pdf), [[Code]](https://robotll.github.io/ERRA/)
 
