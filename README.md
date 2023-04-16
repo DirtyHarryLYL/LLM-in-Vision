@@ -35,7 +35,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) Errors are Useful Prompts: Instruction Guided **Task Programming** with Verifier-Assisted Iterative Prompting, [[Paper]](https://arxiv.org/pdf/2303.14100.pdf), [[Project]](https://ac-rad.github.io/clairify/)
 
 - (arXiv 2023.3) **LLaMA**-**Adapter**: Efficient Fine-tuning of Language Models with Zero-init Attention, [[Paper]](https://arxiv.org/pdf/2303.16199.pdf), [[Code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
