@@ -35,9 +35,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) **LLaMA**-**Adapter**: Efficient Fine-tuning of Language Models with Zero-init Attention, [[Paper]](https://arxiv.org/pdf/2303.16199.pdf), [[Code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
 - (arXiv 2023.3) **MULTIMODAL** ANALOGICAL **REASONING** OVER KNOWLEDGE GRAPHS, [[Paper]](https://arxiv.org/pdf/2210.00312.pdf), [[Code]](https://github.com/zjunlp/MKG_Analogy)
 
