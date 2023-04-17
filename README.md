@@ -9,10 +9,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+- (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
- -->
+- (arXiv 2023.4) RAFT: **Reward** rAnked FineTuning for **Generative** Foundation Model Alignment, [[Paper]](https://arxiv.org/pdf/2304.06767.pdf), [[Code]]()
+
 - (arXiv 2023.4) **Multimodal** C4: An Open, Billion-scale Corpus of Images Interleaved With Text, [[Paper]](https://arxiv.org/pdf/2304.06939.pdf), [[Code]](https://github.com/allenai/mmc4)
 
 - (arXiv 2023.4) ViewRefer: Grasp the Multi-view Knowledge for **3D Visual Grounding** with GPT and Prototype Guidance, [[Paper]](https://arxiv.org/pdf/2303.16894.pdf), [[Code]](https://github.com/ZiyuGuo99/ViewRefer3D)
