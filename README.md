@@ -9,9 +9,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) LLM as A **Robotic Brain**: Unifying **Egocentric** Memory and Control, [[Paper]](https://arxiv.org/pdf/2304.09349.pdf)
 
 - (arXiv 2023.4) Chameleon: **Plug-and-Play** Compositional **Reasoning** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2304.09842.pdf), [[Project]](https://chameleon-llm.github.io/)
 
