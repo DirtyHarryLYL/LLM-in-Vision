@@ -11,9 +11,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) Chameleon: **Plug-and-Play** Compositional **Reasoning** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2304.09842.pdf), [[Project]](https://chameleon-llm.github.io/)
 
 - (arXiv 2023.4) Visual **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2304.08485.pdf), [[Project]](https://llava-vl.github.io/)
 
