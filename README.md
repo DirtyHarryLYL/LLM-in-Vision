@@ -9,7 +9,25 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) SINC: Spatial Composition of **3D** Human **Motions** for Simultaneous Action Generation, [[Paper]](https://arxiv.org/pdf/2304.10417.pdf), [[Project]](https://sinc.is.tue.mpg.de/)
 
 - (arXiv 2023.4) LLM as A **Robotic Brain**: Unifying **Egocentric** Memory and Control, [[Paper]](https://arxiv.org/pdf/2304.09349.pdf)
 
