@@ -61,11 +61,11 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) DialogPaint: A Dialog-based **Image Editing** Model, [[Paper]](https://arxiv.org/pdf/2303.10073.pdf), [[Code]]()
+
+- (arXiv 2023.3) MM-REACT : Prompting ChatGPT for **Multimodal Reasoning** and **Action**, [[Paper]](https://arxiv.org/pdf/2303.11381.pdf), [[Project]](https://multimodal-react.github.io/)
 
 - (arXiv 2023.3) eP-ALM: Efficient Perceptual **Augmentation** of Language Models, [[Paper]](https://arxiv.org/pdf/2303.11403.pdf), [[Code]](https://github.com/mshukor/eP-ALM)
 
