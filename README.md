@@ -61,9 +61,21 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.3) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.3) DialogPaint: A Dialog-based **Image Editing** Model, [[Paper]](https://arxiv.org/pdf/2303.10073.pdf), [[Code]]()
+- (arXiv 2023.3) MAtch, eXpand and Improve: Unsupervised Finetuning for **Zero-Shot Action Recognition** with Language Knowledge, [[Paper]](https://arxiv.org/pdf/2303.08914.pdf), [[Code]](https://github.com/wlin-at/MAXI)
+
+- (arXiv 2023.3) DialogPaint: A Dialog-based **Image Editing** Model, [[Paper]](https://arxiv.org/pdf/2303.10073.pdf)
 
 - (arXiv 2023.3) MM-REACT : Prompting ChatGPT for **Multimodal Reasoning** and **Action**, [[Paper]](https://arxiv.org/pdf/2303.11381.pdf), [[Project]](https://multimodal-react.github.io/)
 
