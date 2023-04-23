@@ -65,9 +65,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) Task and Motion **Planning** with Large Language Models for **Object Rearrangement**, [[Paper]](https://arxiv.org/pdf/2303.06247.pdf), [[Project]](https://sites.google.com/view/llm-grop)
 
 - (arXiv 2023.3) RE-MOVE: An Adaptive **Policy Design** Approach for Dynamic Environments via Language-Based Feedback, [[Paper]](https://arxiv.org/pdf/2303.07622.pdf), [[Project]](http://gamma.umd.edu/remove/)
 
