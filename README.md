@@ -70,8 +70,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
 
 - (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+ -->
+- (arXiv 2023.3) Chat with the Environment: **Interactive Multimodal Perception** using Large Language Models, [[Paper]](https://arxiv.org/pdf/2303.08268.pdf), [[Code]]()
 
 - (arXiv 2023.3) MAtch, eXpand and Improve: Unsupervised Finetuning for **Zero-Shot Action Recognition** with Language Knowledge, [[Paper]](https://arxiv.org/pdf/2303.08914.pdf), [[Code]](https://github.com/wlin-at/MAXI)
 
