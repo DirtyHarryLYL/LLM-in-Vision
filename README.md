@@ -19,11 +19,11 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) Graph-ToolFormer: To Empower LLMs with **Graph Reasoning** Ability via Prompt Augmented by ChatGPT, [[Paper]](https://arxiv.org/pdf/2304.11116.pdf), [[Code]](https://github.com/jwzhanggy/Graph_Toolformer)
+
+- (arXiv 2023.4) Can GPT-4 Perform **Neural Architecture Search**?, [[Paper]](https://arxiv.org/pdf/2304.10970.pdf), [[Code]](https://github.com/mingkai-zheng/GENIUS)
 
 - (arXiv 2023.4) MiniGPT-4: Enhancing **Vision-Language** Understanding with Advanced Large Language Models, [[Paper]](https://arxiv.org/pdf/2304.10592.pdf), [[Project]](https://minigpt-4.github.io/)
 
