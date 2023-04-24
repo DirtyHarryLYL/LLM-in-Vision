@@ -15,11 +15,11 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) ChatABL: **Abductive Learning** via Natural Language Interaction with ChatGPT, [[Paper]](https://arxiv.org/pdf/2304.11107.pdf), [[Code]]()
+
+- (arXiv 2023.4) **Robot**-Enabled Construction **Assembly** with Automated Sequence Planning based on ChatGPT: RoboGPT, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.11018.pdf)
 
 - (arXiv 2023.4) Graph-ToolFormer: To Empower LLMs with **Graph Reasoning** Ability via Prompt Augmented by ChatGPT, [[Paper]](https://arxiv.org/pdf/2304.11116.pdf), [[Code]](https://github.com/jwzhanggy/Graph_Toolformer)
 
