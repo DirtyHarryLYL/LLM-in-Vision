@@ -9,10 +9,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+- (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
- -->
+- (arXiv 2023.4) Multimodal Grounding for **Embodied AI** via **Augmented Reality** Headsets for Natural Language Driven Task Planning, [[Paper]](https://arxiv.org/pdf/2304.13676.pdf)
+
 - (arXiv 2023.4) mPLUG-Owl : **Modularization** Empowers Large Language Models with **Multimodality**, [[Paper]](https://arxiv.org/pdf/2304.14178.pdf), [[Code]](https://github.com/X-PLUG/mPLUG-Owl)
 
 - (arXiv 2023.4) ChatVideo: A Tracklet-centric Multimodal and Versatile **Video Understanding** System, [[Paper]](https://arxiv.org/pdf/2304.14407.pdf), [[Project]](https://www.wangjunke.info/ChatVideo/)
