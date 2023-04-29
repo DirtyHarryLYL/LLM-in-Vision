@@ -12,12 +12,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
+ -->
+- (arXiv 2023.4) mPLUG-Owl : **Modularization** Empowers Large Language Models with **Multimodality**, [[Paper]](https://arxiv.org/pdf/2304.14178.pdf), [[Code]](https://github.com/X-PLUG/mPLUG-Owl)
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
+- (arXiv 2023.4) ChatVideo: A Tracklet-centric Multimodal and Versatile **Video Understanding** System, [[Paper]](https://arxiv.org/pdf/2304.14407.pdf), [[Project]](https://www.wangjunke.info/ChatVideo/)
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
-
-- (arXiv 2023.4) ChatABL: **Abductive Learning** via Natural Language Interaction with ChatGPT, [[Paper]](https://arxiv.org/pdf/2304.11107.pdf), [[Code]]()
+- (arXiv 2023.4) ChatABL: **Abductive Learning** via Natural Language Interaction with ChatGPT, [[Paper]](https://arxiv.org/pdf/2304.11107.pdf)
 
 - (arXiv 2023.4) **Robot**-Enabled Construction **Assembly** with Automated Sequence Planning based on ChatGPT: RoboGPT, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.11018.pdf)
 
