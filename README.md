@@ -21,9 +21,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.4) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.4) LLaMA-Adapter V2: Parameter-**Efficient** **Visual Instruction** Model, [[Paper]](https://arxiv.org/pdf/2304.15010.pdf), [[Code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
 - (arXiv 2023.4) Multimodal Grounding for **Embodied AI** via **Augmented Reality** Headsets for Natural Language Driven Task Planning, [[Paper]](https://arxiv.org/pdf/2304.13676.pdf)
 
