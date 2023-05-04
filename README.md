@@ -9,9 +9,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Multimodal **Procedural Planning** via Dual Text-Image Prompting, [[Paper]](https://arxiv.org/pdf/2305.01795.pdf), [[Code]](https://github.com/YujieLu10/TIP)
 
 - (arXiv 2023.5) ArK: **Augmented Reality** with **Knowledge** Interactive Emergent Ability, [[Paper]](https://arxiv.org/pdf/2305.00970.pdf)
 
