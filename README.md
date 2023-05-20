@@ -7,7 +7,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Instruct2Act: Mapping Multi-modality Instructions to **Robotic Actions** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2305.11176.pdf), [[Code]](https://github.com/OpenGVLab/Instruct2Act)
 
 - (arXiv 2023.5) **Principle**-Driven Self-Alignment of Language Models from Scratch with **Minimal Human Supervision**, [[Paper]](https://arxiv.org/pdf/2305.03047.pdf), [[Project]](https://mitibmdemos.draco.res.ibm.com/dromedary)
 
