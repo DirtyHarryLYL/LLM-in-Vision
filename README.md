@@ -7,9 +7,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) OpenShape: Scaling Up **3D Shape Representation** Towards **Open-World** Understanding, [[Paper]](https://arxiv.org/pdf/2305.10764.pdf), [[Project]](https://colin97.github.io/OpenShape/)
 
 - (arXiv 2023.5) Towards A Foundation Model for Generalist **Robots**: Diverse **Skill Learning** at Scale via Automated Task and Scene Generation, [[Paper]](https://arxiv.org/pdf/2305.10455.pdf)
 
