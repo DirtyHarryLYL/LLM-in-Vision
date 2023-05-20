@@ -7,7 +7,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) LLMScore: Unveiling the Power of Large Language Models in **Text-to-Image Synthesis Evaluation**, [[Paper]](https://arxiv.org/pdf/2305.11116.pdf), [[Code]](https://github.com/YujieLu10/LLMScore)
+
+- (arXiv 2023.5) VisionLLM: Large Language Model is also an Open-Ended **Decoder** for **Vision**-Centric Tasks, [[Paper]](https://arxiv.org/pdf/2305.11175.pdf), [[Code]](https://github.com/OpenGVLab/VisionLLM)
 
 - (arXiv 2023.5) OpenShape: Scaling Up **3D Shape Representation** Towards **Open-World** Understanding, [[Paper]](https://arxiv.org/pdf/2305.10764.pdf), [[Project]](https://colin97.github.io/OpenShape/)
 
