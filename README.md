@@ -9,11 +9,11 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Towards A Foundation Model for Generalist **Robots**: Diverse **Skill Learning** at Scale via Automated Task and Scene Generation, [[Paper]](https://arxiv.org/pdf/2305.10455.pdf)
+
+- (arXiv 2023.5) An Android **Robot Head** as Embodied **Conversational** Agent, [[Paper]](https://arxiv.org/pdf/2305.10945.pdf)
 
 - (arXiv 2023.5) Instruct2Act: Mapping Multi-modality Instructions to **Robotic Actions** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2305.11176.pdf), [[Code]](https://github.com/OpenGVLab/Instruct2Act)
 
