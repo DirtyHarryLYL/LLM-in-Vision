@@ -15,9 +15,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) ArtGPT-4: **Artistic Vision-Language** Understanding with Adapter-enhanced MiniGPT-4, [[Paper]](https://arxiv.org/pdf/2305.07490.pdf), [[Code]](https://huggingface.co/Tyrannosaurus/ArtGPT-4)
 
 - (arXiv 2023.5) Evaluating **Object Hallucination** in Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2305.10355.pdf), [[Code]](https://github.com/RUCAIBox/POPE)
 
