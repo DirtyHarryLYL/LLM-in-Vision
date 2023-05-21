@@ -11,7 +11,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.5) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Evaluating **Object Hallucination** in Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2305.10355.pdf), [[Code]](https://github.com/RUCAIBox/POPE)
 
 - (arXiv 2023.5) LLMScore: Unveiling the Power of Large Language Models in **Text-to-Image Synthesis Evaluation**, [[Paper]](https://arxiv.org/pdf/2305.11116.pdf), [[Code]](https://github.com/YujieLu10/LLMScore)
 
