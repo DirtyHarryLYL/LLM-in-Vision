@@ -13,9 +13,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) EmbodiedGPT: Vision-Language Pre-Training via **Embodied** Chain of Thought, [[Paper]](https://arxiv.org/pdf/2305.15021.pdf), [[Project]](https://embodiedgpt.github.io/)
 
 - (arXiv 2023.5) ArtGPT-4: **Artistic Vision-Language** Understanding with Adapter-enhanced MiniGPT-4, [[Paper]](https://arxiv.org/pdf/2305.07490.pdf), [[Code]](https://huggingface.co/Tyrannosaurus/ArtGPT-4)
 
