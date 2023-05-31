@@ -11,9 +11,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Training **Diffusion** Models with **Reinforcement Learning**, [[Paper]](https://arxiv.org/pdf/2305.13301.pdf), [[Project]](https://rl-diffusion.github.io/)
 
 - (arXiv 2023.5) EmbodiedGPT: Vision-Language Pre-Training via **Embodied** Chain of Thought, [[Paper]](https://arxiv.org/pdf/2305.15021.pdf), [[Project]](https://embodiedgpt.github.io/)
 
