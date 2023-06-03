@@ -1,6 +1,18 @@
 # LLM-in_Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.6
+
+<!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.6) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.6) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) Dense and Aligned **Captions** (DAC) Promote **Compositional Reasoning** in VL Models, [[Paper]](https://arxiv.org/pdf/2305.19595.pdf)
+
 ### 2023.5
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]()
