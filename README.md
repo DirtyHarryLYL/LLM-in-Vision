@@ -21,9 +21,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) TidyBot: Personalized **Robot Assistance** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.05658.pdf), [[Project]](https://tidybot.cs.princeton.edu/)
 
 - (arXiv 2023.5) Training **Diffusion** Models with **Reinforcement Learning**, [[Paper]](https://arxiv.org/pdf/2305.13301.pdf), [[Project]](https://rl-diffusion.github.io/)
 
