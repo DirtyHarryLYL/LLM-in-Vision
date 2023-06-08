@@ -19,9 +19,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.5) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) VIMA: General **Robot Manipulation** with Multimodal Prompts, [[Paper]](https://arxiv.org/pdf/2210.03094.pdf), [[Project]](https://vimalabs.github.io/)
 
 - (arXiv 2023.5) TidyBot: Personalized **Robot Assistance** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.05658.pdf), [[Project]](https://tidybot.cs.princeton.edu/)
 
