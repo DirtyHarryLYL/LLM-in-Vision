@@ -7,9 +7,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.6) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.6) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) MIMIC-IT: **Multi-Modal** **In-Context** Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2306.05425.pdf), [[Code]](https://github.com/Luodian/Otter)
 
 - (arXiv 2023.6) Dense and Aligned **Captions** (DAC) Promote **Compositional Reasoning** in VL Models, [[Paper]](https://arxiv.org/pdf/2305.19595.pdf)
 
