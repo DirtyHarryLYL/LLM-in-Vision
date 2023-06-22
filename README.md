@@ -7,9 +7,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.6) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.6) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) SPRINT: SCALABLE **POLICY PRE-TRAINING** VIA LANGUAGE INSTRUCTION RELABELING, [[Paper]](https://arxiv.org/pdf/2306.11886.pdf), [[Project]](https://clvrai.github.io/sprint/)
 
 - (arXiv 2023.6) MotionGPT: Finetuned LLMs are General-Purpose **Motion Generators**, [[Paper]](https://arxiv.org/pdf/2306.10900.pdf), [[Project]](https://qiqiapink.github.io/MotionGPT/)
 
