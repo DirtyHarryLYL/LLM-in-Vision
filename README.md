@@ -169,6 +169,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.2) Internet Explorer: Targeted Representation Learning on the Open Web, [[Paper]](https://arxiv.org/pdf/2302.14051.pdf), [[Project]](https://internet-explorer-ssl.github.io/)
 
+### 2022.11
+
+- (arXiv 2022.11) Visual Programming: Compositional **visual reasoning** without training, [[Paper]](https://arxiv.org/pdf/2211.11559.pdf), [[Project]](https://prior.allenai.org/projects/visprog)
+
 ### 2022.7
 
 - (arXiv 2022.7) Language Models are General-Purpose **Interfaces**, [[Paper]](https://arxiv.org/pdf/2206.06336.pdf), [[Code]](https://github.com/microsoft/unilm)
