@@ -7,7 +7,11 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.6) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.6) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) SoftGPT: Learn Goal-oriented **Soft Object Manipulation** Skills by Generative Pre-trained Heterogeneous Graph Transformer, [[Paper]](https://arxiv.org/pdf/2306.12677.pdf)
 
 - (arXiv 2023.6) SPRINT: SCALABLE **POLICY PRE-TRAINING** VIA LANGUAGE INSTRUCTION RELABELING, [[Paper]](https://arxiv.org/pdf/2306.11886.pdf), [[Project]](https://clvrai.github.io/sprint/)
 
