@@ -167,7 +167,7 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.2
 
-- (arXiv 2023.2) ChatGPT for **Robotics**: Design Principles and Model Abilities, , [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf), [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
+- (arXiv 2023.2) ChatGPT for **Robotics**: Design Principles and Model Abilities, , [[Paper]](https://arxiv.org/pdf/2306.17582.pdf), [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
 
 - (arXiv 2023.2) Internet Explorer: Targeted Representation Learning on the Open Web, [[Paper]](https://arxiv.org/pdf/2302.14051.pdf), [[Project]](https://internet-explorer-ssl.github.io/)
 
