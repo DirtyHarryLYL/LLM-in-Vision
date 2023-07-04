@@ -1,13 +1,15 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.7
+
+<!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.7) Motion-X: A Large-scale 3D Expressive Whole-body Human **Motion Dataset**, [[Paper]](https://arxiv.org/pdf/2307.00818.pdf), [[Code]](https://github.com/IDEA-Research/Motion-X)
+
 ### 2023.6
 
-<!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.6) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+<!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
 
 - (arXiv 2023.6) Statler: State-Maintaining Language Models for **Embodied Reasoning**, [[Paper]](https://arxiv.org/pdf/2306.17840.pdf), [[Project]](https://statler-lm.github.io/)
 
