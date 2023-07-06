@@ -11,6 +11,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.6) OpenShape: Scaling Up **3D Shape Representation** Towards **Open-World** Understanding, [[Paper]](https://arxiv.org/pdf/2305.10764.pdf), [[Project]](https://colin97.github.io/OpenShape/)
+
 - (arXiv 2023.6) Statler: State-Maintaining Language Models for **Embodied Reasoning**, [[Paper]](https://arxiv.org/pdf/2306.17840.pdf), [[Project]](https://statler-lm.github.io/)
 
 - (arXiv 2023.6) CLARA: Classifying and Disambiguating User Commands for Reliable **Interactive Robotic** Agents, [[Paper]](https://arxiv.org/pdf/2306.10376.pdf)
