@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.7) Robots That Ask For Help: **Uncertainty** Alignment for Large Language Model **Planners**, [[Paper]](https://arxiv.org/pdf/2307.01928.pdf), [[Project]](https://robot-help.github.io/)
+
 - (arXiv 2023.7) Building Cooperative **Embodied Agents** Modularly with Large Language Models, [[Paper]](https://arxiv.org/pdf/2307.02485.pdf), [[Project]](https://vis-www.cs.umass.edu/Co-LLM-Agents/)
 
 - (arXiv 2023.7) **Embodied Task Planning** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2307.01848.pdf), [[Project]](https://gary3410.github.io/TaPA/)
