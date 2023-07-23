@@ -73,11 +73,7 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.4
 
-<!-- - (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.4) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
+<!-- - (arXiv 2023.4) , [[Paper]](), [[Code]]() -->
 
 - (arXiv 2023.4) LLaMA-Adapter V2: Parameter-**Efficient** **Visual Instruction** Model, [[Paper]](https://arxiv.org/pdf/2304.15010.pdf), [[Code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
@@ -128,6 +124,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.3
 
 <!-- - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.3) Open-World **Object Manipulation** using Pre-Trained Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2303.00905.pdf), [[Project]](https://robot-moo.github.io/)
 
 - (arXiv 2023.3) Grounded Decoding: Guiding Text Generation with Grounded Models for **Robot Control**, [[Paper]](https://arxiv.org/pdf/2303.00855.pdf), [[Project]](https://grounded-decoding.github.io/) 
 
