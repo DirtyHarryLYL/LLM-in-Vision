@@ -39,11 +39,7 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.5
 
-<!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.5) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+<!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
 
 - (arXiv 2023.5) VIMA: General **Robot Manipulation** with Multimodal Prompts, [[Paper]](https://arxiv.org/pdf/2210.03094.pdf), [[Project]](https://vimalabs.github.io/)
 
@@ -131,15 +127,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.3
 
-<!-- - (arXiv 2023.3) , [[Paper]](), [[Code]]()
+<!-- - (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.3) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.3) , [[Paper]](), [[Code]]() -->
+- (arXiv 2023.3) Grounded Decoding: Guiding Text Generation with Grounded Models for **Robot Control**, [[Paper]](https://arxiv.org/pdf/2303.00855.pdf), [[Project]](https://grounded-decoding.github.io/) 
 
 - (arXiv 2023.3) Task and Motion **Planning** with Large Language Models for **Object Rearrangement**, [[Paper]](https://arxiv.org/pdf/2303.06247.pdf), [[Project]](https://sites.google.com/view/llm-grop)
 
