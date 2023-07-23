@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.7) ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2307.09474.pdf), [[Project]](https://chatspot.streamlit.app/)
+
 - (arXiv 2023.7) TOWARDS A **UNIFIED AGENT** WITH FOUNDATION MODELS, [[Paper]](https://arxiv.org/pdf/2307.09668.pdf)
 
 - (arXiv 2023.7) Robots That Ask For Help: **Uncertainty** Alignment for Large Language Model **Planners**, [[Paper]](https://arxiv.org/pdf/2307.01928.pdf), [[Project]](https://robot-help.github.io/)
