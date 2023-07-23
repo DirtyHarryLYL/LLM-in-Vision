@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.7) Bootstrapping **Vision-Language** Learning with Decoupled Language Pre-training, [[Paper]](https://arxiv.org/pdf/2307.07063.pdf)
+
 - (arXiv 2023.7) BuboGPT: Enabling **Visual Grounding** in Multi-Modal LLMs, [[Paper]](https://arxiv.org/pdf/2307.08581.pdf), [[Project]](https://bubo-gpt.github.io/)
 
 - (arXiv 2023.7) ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2307.09474.pdf), [[Project]](https://chatspot.streamlit.app/)
