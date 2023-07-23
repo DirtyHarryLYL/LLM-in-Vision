@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.7) InternVid: A Large-scale **Video-Text Dataset** for Multimodal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2307.06942.pdf), [[Data]](https://arxiv.org/pdf/2307.06942.pdf)
+
 - (arXiv 2023.7) MBLIP: EFFICIENT BOOTSTRAPPING OF **MULTILINGUAL VISION-LLMS**, [[Paper]](https://arxiv.org/pdf/2307.06930.pdf), [[Code]](https://github.com/gregor-ge/mBLIP)
 
 - (arXiv 2023.7) Bootstrapping **Vision-Language** Learning with Decoupled Language Pre-training, [[Paper]](https://arxiv.org/pdf/2307.07063.pdf)
