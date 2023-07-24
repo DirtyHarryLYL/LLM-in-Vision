@@ -3,7 +3,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.7
 
-<!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
+<!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
+
+- (arXiv 2023.7) Generative **Pretraining** in **Multimodality**, [[Paper]](https://arxiv.org/pdf/2307.05222.pdf), [[Code]](https://github.com/baaivision/Emu)
 
 - (arXiv 2023.7) VoxPoser: Composable 3D Value Maps for **Robotic Manipulation** with Language Models, [[Paper]](https://arxiv.org/pdf/2307.05973.pdf), [[Project]](https://voxposer.github.io/)
 
