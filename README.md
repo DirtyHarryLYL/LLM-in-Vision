@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.7) VoxPoser: Composable 3D Value Maps for **Robotic Manipulation** with Language Models, [[Paper]](https://arxiv.org/pdf/2307.05973.pdf), [[Project]](https://voxposer.github.io/)
+
 - (arXiv 2023.7) VELMA: Verbalization Embodiment of LLM Agents for Vision and Language **Navigation** in Street View, [[Paper]](https://arxiv.org/pdf/2307.06082.pdf)
 
 - (arXiv 2023.7) SayPlan: Grounding Large Language Models using **3D Scene Graphs** for Scalable **Task Planning**, [[Paper]](https://arxiv.org/pdf/2307.06135.pdf), [[Project]](https://sayplan.github.io/)
