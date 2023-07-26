@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented **Grasping**, [[Paper]](https://arxiv.org/pdf/2307.13204.pdf), [[Project]](https://sites.google.com/view/graspgpt/)
+
 - (arXiv 2023.7) CARTIER: Cartographic lAnguage Reasoning Targeted at **Instruction Execution** for **Robots**, [[Paper]](https://arxiv.org/pdf/2307.11865.pdf)
 
 - (arXiv 2023.7) **3D-LLM**: Injecting the 3D World into Large Language Models, [[Paper]](https://arxiv.org/pdf/2307.12981.pdf), [[Project]](https://vis-www.cs.umass.edu/3dllm/)
