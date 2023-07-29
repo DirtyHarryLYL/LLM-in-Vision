@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) How Good is Google **Bard**’s **Visual Understanding**? An Empirical Study on Open Challenges, [[Paper]](https://arxiv.org/pdf/2307.15016.pdf), [[Project]](https://github.com/htqin/GoogleBard-VisUnderstand)
+
 - (arXiv 2023.7) RT-2: **Vision-Language-Action** Models Transfer Web Knowledge to **Robotic Control**, [[Paper]](https://robotics-transformer2.github.io/assets/rt2.pdf), [[Project]](https://robotics-transformer2.github.io/)
 
 - (arXiv 2023.7) Scaling Up and Distilling Down: Language-Guided **Robot Skill Acquisition**, [[Paper]](https://arxiv.org/pdf/2307.14535.pdf), [[Project]](https://www.cs.columbia.edu/~huy/scalingup/)
