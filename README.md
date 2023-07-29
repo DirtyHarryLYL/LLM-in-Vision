@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) Large Language Models as **General Pattern Machines**, [[Paper]](https://arxiv.org/pdf/2307.04721.pdf), [[Project]](https://general-pattern-machines.github.io/)
+
 - (arXiv 2023.7) How Good is Google **Bard**’s **Visual Understanding**? An Empirical Study on Open Challenges, [[Paper]](https://arxiv.org/pdf/2307.15016.pdf), [[Project]](https://github.com/htqin/GoogleBard-VisUnderstand)
 
 - (arXiv 2023.7) RT-2: **Vision-Language-Action** Models Transfer Web Knowledge to **Robotic Control**, [[Paper]](https://robotics-transformer2.github.io/assets/rt2.pdf), [[Project]](https://robotics-transformer2.github.io/)
