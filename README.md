@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) RT-2: **Vision-Language-Action** Models Transfer Web Knowledge to **Robotic Control**, [[Paper]](https://robotics-transformer2.github.io/assets/rt2.pdf), [[Project]](https://robotics-transformer2.github.io/)
+
+- (arXiv 2023.7) Scaling Up and Distilling Down: Language-Guided **Robot Skill Acquisition**, [[Paper]](https://arxiv.org/pdf/2307.14535.pdf), [[Project]](https://www.cs.columbia.edu/~huy/scalingup/)
+
 - (arXiv 2023.7) GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented **Grasping**, [[Paper]](https://arxiv.org/pdf/2307.13204.pdf), [[Project]](https://sites.google.com/view/graspgpt/)
 
 - (arXiv 2023.7) CARTIER: Cartographic lAnguage Reasoning Targeted at **Instruction Execution** for **Robots**, [[Paper]](https://arxiv.org/pdf/2307.11865.pdf)
