@@ -47,6 +47,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.7) **Embodied Task Planning** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2307.01848.pdf), [[Project]](https://gary3410.github.io/TaPA/)
 
+- (arXiv 2023.7) GPT4RoI: **Instruction Tuning** Large Language Model on **Region-of-Interest**, [[Paper]](https://arxiv.org/pdf/2307.03601.pdf), [[Code]](https://github.com/jshilong/GPT4RoI)
+
 - (arXiv 2023.7) Motion-X: A Large-scale 3D Expressive Whole-body Human **Motion Dataset**, [[Paper]](https://arxiv.org/pdf/2307.00818.pdf), [[Code]](https://github.com/IDEA-Research/Motion-X)
 
 ### 2023.6
