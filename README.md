@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex **Visual Reasoning** Tasks, [[Paper]](https://arxiv.org/pdf/2307.16395.pdf)
+
 - (arXiv 2023.7) MovieChat: From Dense Token to Sparse Memory for **Long Video Understanding**, [[Paper]](https://arxiv.org/pdf/2307.16449.pdf), [[Project]](https://rese1f.github.io/MovieChat/)
 
 - (arXiv 2023.7) Large Language Models as **General Pattern Machines**, [[Paper]](https://arxiv.org/pdf/2307.04721.pdf), [[Project]](https://general-pattern-machines.github.io/)
