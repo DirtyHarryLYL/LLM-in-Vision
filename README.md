@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) SEED-Bench: **Benchmarking** **Multimodal** LLMs with Generative Comprehension, [[Paper]](https://arxiv.org/pdf/2307.16125.pdf), [[Code]](https://github.com/AILab-CVC/SEED-Bench)
+
 - (arXiv 2023.7) AntGPT: Can Large Language Models Help **Long-term Action Anticipation** from Videos? [[Paper]](https://arxiv.org/pdf/2307.16368.pdf), [[Project]](https://brown-palm.github.io/AntGPT/)
 
 - (arXiv 2023.7) Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex **Visual Reasoning** Tasks, [[Paper]](https://arxiv.org/pdf/2307.16395.pdf)
