@@ -1,6 +1,12 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.8
+
+<!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
+
+- (arXiv 2023.8) LISA: REASONING **SEGMENTATION** VIA LARGE LANGUAGE MODEL, [[Paper]](https://arxiv.org/pdf/2308.00692.pdf), [[Code]](https://github.com/dvlab-research/LISA)
+
 ### 2023.7
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
