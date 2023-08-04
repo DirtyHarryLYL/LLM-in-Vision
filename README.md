@@ -85,9 +85,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.7) SPAE: Semantic **Pyramid** AutoEncoder for **Multimodal Generation** with Frozen LLMs, [[Paper]](https://arxiv.org/pdf/2306.17842.pdf), [[Code]](https://github.com/google-research/magvit/)
 
+- (arXiv 2023.7) KITE: Keypoint-Conditioned **Policies** for **Semantic Manipulation**, [[Paper]](https://arxiv.org/pdf/2306.16605.pdf), [[Project]](https://sites.google.com/view/kite-website/home)
+
 ### 2023.6
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) Towards Language Models That Can See: Computer **Vision** Through the LENS of Natural **Language**, [[Paper]](https://arxiv.org/pdf/2306.16410.pdf), [[Code]](https://arxiv.org/pdf/2306.16410.pdf)
+
+- (arXiv 2023.6) LLaVAR: Enhanced **Visual Instruction Tuning** for Text-Rich Image Understanding, [[Paper]](https://arxiv.org/pdf/2306.17107.pdf), [[Project]](https://llavar.github.io/)
 
 - (arXiv 2023.6) OpenShape: Scaling Up **3D Shape Representation** Towards **Open-World** Understanding, [[Paper]](https://arxiv.org/pdf/2305.10764.pdf), [[Project]](https://colin97.github.io/OpenShape/)
 
@@ -110,6 +116,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.5
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Prompting Large Language Models with Answer Heuristics for Knowledge-based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2303.01903.pdf), [[Code]](https://github.com/MILVLG/prophet)
 
 - (arXiv 2023.5) VIMA: General **Robot Manipulation** with Multimodal Prompts, [[Paper]](https://arxiv.org/pdf/2210.03094.pdf), [[Project]](https://vimalabs.github.io/)
 
