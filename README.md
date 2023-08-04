@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Learning to **Model** the **World** with Language, [[Paper]](https://arxiv.org/pdf/2308.01399.pdf), [[Project]](https://dynalang.github.io/)
+
+- (arXiv 2023.8) The All-Seeing Project: Towards Panoptic **Visual Recognition** and Understanding of the Open World, [[Paper]](https://arxiv.org/pdf/2308.01907.pdf), [[Code]](https://github.com/OpenGVLab/all-seeing)
+
+- (arXiv 2023.8) Multimodal **Neurons** in Pretrained Text-Only Transformers, [[Paper]](https://arxiv.org/pdf/2308.01544.pdf), [[Project]](https://mmns.csail.mit.edu/)
+
 - (arXiv 2023.8) LISA: REASONING **SEGMENTATION** VIA LARGE LANGUAGE MODEL, [[Paper]](https://arxiv.org/pdf/2308.00692.pdf), [[Code]](https://github.com/dvlab-research/LISA)
 
 ### 2023.7
@@ -65,9 +71,19 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.7) GPT4RoI: **Instruction Tuning** Large Language Model on **Region-of-Interest**, [[Paper]](https://arxiv.org/pdf/2307.03601.pdf), [[Code]](https://github.com/jshilong/GPT4RoI)
 
+- (arXiv 2023.7) JourneyDB: A Benchmark for **Generative Image Understanding**, [[Paper]](https://arxiv.org/pdf/2307.00716.pdf), [[Code]](https://journeydb.github.io/)
+
 - (arXiv 2023.7) DoReMi: Grounding Language Model by Detecting and Recovering from **Plan-Execution Misalignment**, [[Paper]](https://arxiv.org/pdf/2307.00329.pdf), [[Project]](https://sites.google.com/view/doremi-paper)
   
 - (arXiv 2023.7) Motion-X: A Large-scale 3D Expressive Whole-body Human **Motion Dataset**, [[Paper]](https://arxiv.org/pdf/2307.00818.pdf), [[Code]](https://github.com/IDEA-Research/Motion-X)
+
+- (arXiv 2023.7) Visual **Instruction Tuning** with Polite Flamingo, [[Paper]](https://arxiv.org/pdf/2307.01003.pdf), [[Code]](https://github.com/ChenDelong1999/polite_flamingo)
+
+- (arXiv 2023.7) Statler: State-Maintaining Language Models for **Embodied Reasoning**, [[Paper]](https://arxiv.org/pdf/2306.17840.pdf), [[Project]](https://statler-lm.github.io/)
+
+- (arXiv 2023.7) SCITUNE: Aligning Large Language Models with **Scientific Multimodal Instructions**, [[Paper]](https://arxiv.org/pdf/2307.01139.pdf)
+
+- (arXiv 2023.7) SPAE: Semantic **Pyramid** AutoEncoder for **Multimodal Generation** with Frozen LLMs, [[Paper]](https://arxiv.org/pdf/2306.17842.pdf), [[Code]](https://github.com/google-research/magvit/)
 
 ### 2023.6
 
