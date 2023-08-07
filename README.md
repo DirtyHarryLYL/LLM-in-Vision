@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) RegionBLIP: A Unified **Multi-modal Pre-training** Framework for Holistic and Regional Comprehension, [[Paper]](https://arxiv.org/pdf/2308.02299.pdf), [[Code]](https://github.com/mightyzau/RegionBLIP)
+
 - (arXiv 2023.8) Learning to **Model** the **World** with Language, [[Paper]](https://arxiv.org/pdf/2308.01399.pdf), [[Project]](https://dynalang.github.io/)
 
 - (arXiv 2023.8) The All-Seeing Project: Towards Panoptic **Visual Recognition** and Understanding of the Open World, [[Paper]](https://arxiv.org/pdf/2308.01907.pdf), [[Code]](https://github.com/OpenGVLab/all-seeing)
