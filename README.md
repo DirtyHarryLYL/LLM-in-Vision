@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) AgentBench: Evaluating LLMs as **Agents**, [[Paper]](https://arxiv.org/pdf/2308.03688.pdf), [[Project]](https://llmbench.ai/)
+
 - (arXiv 2023.8) Learning Concise and Descriptive **Attributes** for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2308.03685.pdf)
 
 - (arXiv 2023.8) Tiny LVLM-eHub: Early Multimodal Experiments with **Bard**, [[Paper]](https://arxiv.org/pdf/2308.03729.pdf), [[Project]](http://lvlm-ehub.opengvlab.com/)
@@ -24,6 +26,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.7
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
+
+- (arXiv 2023.7) Evaluating ChatGPT and GPT-4 for **Visual Programming**, [[Paper]](https://arxiv.org/pdf/2308.02522.pdf)
 
 - (arXiv 2023.7) SEED-Bench: **Benchmarking** **Multimodal** LLMs with Generative Comprehension, [[Paper]](https://arxiv.org/pdf/2307.16125.pdf), [[Code]](https://github.com/AILab-CVC/SEED-Bench)
 
