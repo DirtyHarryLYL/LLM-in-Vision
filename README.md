@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Learning Concise and Descriptive **Attributes** for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2308.03685.pdf)
+
 - (arXiv 2023.8) Tiny LVLM-eHub: Early Multimodal Experiments with **Bard**, [[Paper]](https://arxiv.org/pdf/2308.03729.pdf), [[Project]](http://lvlm-ehub.opengvlab.com/)
 
 - (arXiv 2023.8) MM-Vet: **Evaluating** Large **Multimodal** Models for Integrated Capabilities, [[Paper]](https://arxiv.org/pdf/2308.02490.pdf), [[Code]](https://github.com/yuweihao/MM-Vet)
