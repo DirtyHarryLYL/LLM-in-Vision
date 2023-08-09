@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Gentopia.AI: A **Collaborative Platform** for **Tool**-Augmented LLMs, [[Paper]](https://arxiv.org/pdf/2308.04030.pdf), [[Project]](https://github.com/Gentopia-AI)
+
 - (arXiv 2023.8) AgentBench: Evaluating LLMs as **Agents**, [[Paper]](https://arxiv.org/pdf/2308.03688.pdf), [[Project]](https://llmbench.ai/)
 
 - (arXiv 2023.8) Learning Concise and Descriptive **Attributes** for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2308.03685.pdf)
