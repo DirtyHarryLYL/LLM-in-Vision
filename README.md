@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Foundation Model based Open Vocabulary Task Planning and Executive System for General Purpose **Service Robots**, [[Paper]](https://arxiv.org/pdf/2308.03357.pdf)
+
 - (arXiv 2023.8) LayoutLLM-T2I: Eliciting **Layout** Guidance from LLM for **Text-to-Image** Generation, [[Paper]](https://arxiv.org/pdf/2308.05095.pdf), [[Project]](https://layoutllm-t2i.github.io/)
 
 - (arXiv 2023.8) OmniDataComposer: A Unified Data Structure for Multimodal **Data Fusion** and Infinite Data **Generation**, [[Paper]](https://arxiv.org/pdf/2308.04126.pdf)
