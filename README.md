@@ -39,6 +39,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.7) MME: A Comprehensive Evaluation **Benchmark** for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2306.13394.pdf), [[Code]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)
+
 - (arXiv 2023.7) Evaluating ChatGPT and GPT-4 for **Visual Programming**, [[Paper]](https://arxiv.org/pdf/2308.02522.pdf)
 
 - (arXiv 2023.7) SEED-Bench: **Benchmarking** **Multimodal** LLMs with Generative Comprehension, [[Paper]](https://arxiv.org/pdf/2307.16125.pdf), [[Code]](https://github.com/AILab-CVC/SEED-Bench)
