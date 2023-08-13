@@ -37,7 +37,11 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.7
 
-<!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()--> 
+<!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.7) DesCo: Learning Object **Recognition** with Rich Language Descriptions, [[Paper]](https://arxiv.org/pdf/2306.14060.pdf)
+
+- (arXiv 2023.7) KOSMOS-2: **Grounding** **Multimodal** Large Language Models to the World, [[Paper]](https://arxiv.org/pdf/2306.14824.pdf), [[Project]](https://thegenerality.com/agi/)
 
 - (arXiv 2023.7) MME: A Comprehensive Evaluation **Benchmark** for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2306.13394.pdf), [[Code]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)
 
@@ -116,6 +120,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.6
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) Aligning Large Multi-Modal Model with Robust **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2306.14565.pdf), [[Project]](https://fuxiaoliu.github.io/LRV/)
 
 - (arXiv 2023.6) Towards Language Models That Can See: Computer **Vision** Through the LENS of Natural **Language**, [[Paper]](https://arxiv.org/pdf/2306.16410.pdf), [[Code]](https://arxiv.org/pdf/2306.16410.pdf)
 
