@@ -127,6 +127,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.6) Improving Image **Captioning** Descriptiveness by Ranking and LLM-based Fusion, [[Paper]](https://arxiv.org/pdf/2306.11593.pdf), [[Code]](https://drive.google.com/drive/folders/1tXbJyvwrEF-a-t-NZbt2xjoKaiGGeaz1?usp=sharing)
+
 - (arXiv 2023.6) RM-PRT: Realistic **Robotic** Manipulation Simulator and **Benchmark** with Progressive Reasoning Tasks, [[Paper]](https://arxiv.org/pdf/2306.11335.pdf), [[Code]](https://necolizer.github.io/RM-PRT/)
 
 - (arXiv 2023.6) Aligning Large Multi-Modal Model with Robust **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2306.14565.pdf), [[Project]](https://fuxiaoliu.github.io/LRV/)
