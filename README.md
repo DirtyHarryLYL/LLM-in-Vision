@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) PUMGPT: A Large Vision-Language Model for **Product Understanding**, [[Paper]](https://arxiv.org/pdf/2308.09568.pdf)
+
 - (arXiv 2023.8) Link-Context Learning for **Multimodal** LLMs, [[Paper]](https://arxiv.org/pdf/2308.07891.pdf), [[Code]](https://github.com/isekai-portal/Link-Context-Learning)
 
 - (arXiv 2023.8) Detecting and Preventing **Hallucinations** in Large Vision Language Models, [[Paper]](https://arxiv.org/pdf/2308.06394.pdf)
