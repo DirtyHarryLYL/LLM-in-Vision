@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) WanJuan: A Comprehensive **Multimodal** **Dataset** for Advancing English and Chinese Large Models, [[Paper]](https://arxiv.org/pdf/2308.10755.pdf), [[Project]](https://opendatalab.org.cn/WanJuan1.0)
+
 - (arXiv 2023.8) March in Chat: Interactive **Prompting** for Remote **Embodied** Referring Expression, [[Paper]](https://arxiv.org/pdf/2308.10141.pdf), [[Code]](https://github.com/YanyuanQiao/MiC)
 
 - (arXiv 2023.8) BLIVA: A Simple **Multimodal** LLM for Better Handling of Text-Rich Visual Questions, [[Paper]](https://arxiv.org/pdf/2308.09936.pdf), [[Code]](https://github.com/mlpc-ucsd/BLIVA.git)
