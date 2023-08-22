@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Tackling Vision Language Tasks Through Learning **Inner Monologues**, [[Paper]](https://arxiv.org/pdf/2308.09970.pdf)
+
+- (arXiv 2023.8) ExpeL: LLM Agents Are **Experiential Learners**, [[Paper]](https://arxiv.org/pdf/2308.10144.pdf)
+
+- (arXiv 2023.8) On the Adversarial **Robustness** of **Multi-Modal** Foundation Models, [[Paper]](https://arxiv.org/pdf/2308.10741.pdf)
+
 - (arXiv 2023.8) WanJuan: A Comprehensive **Multimodal** **Dataset** for Advancing English and Chinese Large Models, [[Paper]](https://arxiv.org/pdf/2308.10755.pdf), [[Project]](https://opendatalab.org.cn/WanJuan1.0)
 
 - (arXiv 2023.8) March in Chat: Interactive **Prompting** for Remote **Embodied** Referring Expression, [[Paper]](https://arxiv.org/pdf/2308.10141.pdf), [[Code]](https://github.com/YanyuanQiao/MiC)
