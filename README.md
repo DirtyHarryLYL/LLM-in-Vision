@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) March in Chat: Interactive **Prompting** for Remote **Embodied** Referring Expression, [[Paper]](https://arxiv.org/pdf/2308.10141.pdf), [[Code]](https://github.com/YanyuanQiao/MiC)
+
+- (arXiv 2023.8) BLIVA: A Simple **Multimodal** LLM for Better Handling of Text-Rich Visual Questions, [[Paper]](https://arxiv.org/pdf/2308.09936.pdf), [[Code]](https://github.com/mlpc-ucsd/BLIVA.git)
+
+- (arXiv 2023.8) VIT-LENS: Towards **Omni-modal** Representations, [[Paper]](https://arxiv.org/pdf/2308.10185.pdf), [[Code]](https://github.com/TencentARC/ViT-Lens)
+
+- (arXiv 2023.8) StableLLaVA: Enhanced **Visual Instruction Tuning** with Synthesized Image-Dialogue Data, [[Paper]](https://arxiv.org/pdf/2308.10253.pdf), [[Project]](https://github.com/icoz69/StableLLAVA)
+
 - (arXiv 2023.8) PUMGPT: A Large Vision-Language Model for **Product Understanding**, [[Paper]](https://arxiv.org/pdf/2308.09568.pdf)
 
 - (arXiv 2023.8) Link-Context Learning for **Multimodal** LLMs, [[Paper]](https://arxiv.org/pdf/2308.07891.pdf), [[Code]](https://github.com/isekai-portal/Link-Context-Learning)
