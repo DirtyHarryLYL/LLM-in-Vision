@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) StoryBench: A Multifaceted Benchmark for Continuous **Story Visualization**, [[Paper]](https://arxiv.org/pdf/2308.11606.pdf), [[Code]](https://github.com/google/storybench)
+
 - (arXiv 2023.8) Tackling Vision Language Tasks Through Learning **Inner Monologues**, [[Paper]](https://arxiv.org/pdf/2308.09970.pdf)
 
 - (arXiv 2023.8) ExpeL: LLM Agents Are **Experiential Learners**, [[Paper]](https://arxiv.org/pdf/2308.10144.pdf)
