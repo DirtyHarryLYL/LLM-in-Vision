@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Pro**Agent**: Building Proactive Cooperative AI with Large Language Models, [[Paper]](https://arxiv.org/pdf/2308.11339.pdf), [[Project]](https://pku-proagent.github.io/)
+
 - (arXiv 2023.8) ROSGPT_Vision: Commanding **Robots** Using Only Language Models’ Prompts, [[Paper]](https://arxiv.org/pdf/2308.11236.pdf), [[Code]](https://github.com/bilel-bj/ROSGPT_Vision)
 
 - (arXiv 2023.8) StoryBench: A Multifaceted Benchmark for Continuous **Story Visualization**, [[Paper]](https://arxiv.org/pdf/2308.11606.pdf), [[Code]](https://github.com/google/storybench)
