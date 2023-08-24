@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) **DIFFUSION** **LANGUAGE MODELS** CAN PERFORM MANY TASKS WITH SCALING AND INSTRUCTION-FINETUNING, [[Paper]](https://arxiv.org/pdf/2308.12219.pdf), [[Code]](https://github.com/yegcjs/DiffusionLLM)
+
+- (arXiv 2023.8) CHORUS: Learning Canonicalized **3D Human-Object** Spatial **Relations** from Unbounded Synthesized Images, [[Paper]](https://arxiv.org/pdf/2308.12288.pdf), [[Project]](https://jellyheadandrew.github.io/projects/chorus)
+
 - (arXiv 2023.8) Pro**Agent**: Building Proactive Cooperative AI with Large Language Models, [[Paper]](https://arxiv.org/pdf/2308.11339.pdf), [[Project]](https://pku-proagent.github.io/)
 
 - (arXiv 2023.8) ROSGPT_Vision: Commanding **Robots** Using Only Language Models’ Prompts, [[Paper]](https://arxiv.org/pdf/2308.11236.pdf), [[Code]](https://github.com/bilel-bj/ROSGPT_Vision)
