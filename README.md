@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) Can Linguistic Knowledge Improve Multimodal Alignment in **Vision-Language** Pretraining? [[Paper]](https://arxiv.org/pdf/2308.12898.pdf), [[Code]](https://github.com/WangFei-2019/SNARE/)
+
+- (arXiv 2023.8) VIGC: **Visual Instruction** Generation and Correction, [[Paper]](https://arxiv.org/pdf/2308.12714.pdf)
+
+- (arXiv 2023.8) Towards Realistic **Zero-Shot** Classification via Self Structural Semantic Alignment, [[Paper]](https://arxiv.org/pdf/2308.12960.pdf)
+
+- (arXiv 2023.8) Qwen-VL: A Frontier Large **Vision-Language** Model with Versatile Abilities, [[Paper]](https://arxiv.org/pdf/2308.12966.pdf), [[Code]](https://github.com/QwenLM/Qwen-VL)
+
 - (arXiv 2023.8) **DIFFUSION** **LANGUAGE MODELS** CAN PERFORM MANY TASKS WITH SCALING AND INSTRUCTION-FINETUNING, [[Paper]](https://arxiv.org/pdf/2308.12219.pdf), [[Code]](https://github.com/yegcjs/DiffusionLLM)
 
 - (arXiv 2023.8) CHORUS: Learning Canonicalized **3D Human-Object** Spatial **Relations** from Unbounded Synthesized Images, [[Paper]](https://arxiv.org/pdf/2308.12288.pdf), [[Project]](https://jellyheadandrew.github.io/projects/chorus)
