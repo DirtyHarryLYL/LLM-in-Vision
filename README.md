@@ -163,6 +163,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.6) Investigating Prompting Techniques for Zero- and Few-Shot **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2306.09996.pdf), [[Code]]()
+
+- (arXiv 2023.6) Language to Rewards for **Robotic** Skill Synthesis, [[Paper]](https://arxiv.org/pdf/2306.08647.pdf), [[Project]](https://language-to-reward.github.io/)
+
+- (arXiv 2023.6) Toward Grounded **Social** **Reasoning**, [[Paper]](https://arxiv.org/pdf/2306.08651.pdf), [[Code]](https://minaek.github.io/groundedsocialreasoning/)
+
 - (arXiv 2023.6) Improving Image **Captioning** Descriptiveness by Ranking and LLM-based Fusion, [[Paper]](https://arxiv.org/pdf/2306.11593.pdf), [[Code]](https://drive.google.com/drive/folders/1tXbJyvwrEF-a-t-NZbt2xjoKaiGGeaz1?usp=sharing)
 
 - (arXiv 2023.6) RM-PRT: Realistic **Robotic** Manipulation Simulator and **Benchmark** with Progressive Reasoning Tasks, [[Paper]](https://arxiv.org/pdf/2306.11335.pdf), [[Code]](https://necolizer.github.io/RM-PRT/)
