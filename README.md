@@ -165,7 +165,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.6) Investigating Prompting Techniques for Zero- and Few-Shot **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2306.09996.pdf), [[Code]]()
+- (arXiv 2023.6) LVLM-eHub: A Comprehensive Evaluation **Benchmark** for Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2306.09265.pdf)
+
+- (arXiv 2023.6) AssistGPT: A General **Multi-modal Assistant** that can Plan, Execute, Inspect, and Learn, [[Paper]](https://arxiv.org/pdf/2306.08640.pdf), [[Project]](https://showlab.github.io/assistgpt/)
+
+- (arXiv 2023.6) Towards AGI in Computer Vision: **Lessons** Learned from GPT and Large Language Models, [[Paper]](https://arxiv.org/pdf/2306.08641.pdf)
+
+- (arXiv 2023.6) MACAW-LLM: **MULTI-MODAL** LANGUAGE MODELING WITH IMAGE, AUDIO, VIDEO, AND TEXT INTEGRATION, [[Paper]](https://arxiv.org/pdf/2306.09093.pdf), [[Code]](https://github.com/lyuchenyang/Macaw-LLM)
+
+- (arXiv 2023.6) Investigating Prompting Techniques for Zero- and Few-Shot **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2306.09996.pdf)
 
 - (arXiv 2023.6) Language to Rewards for **Robotic** Skill Synthesis, [[Paper]](https://arxiv.org/pdf/2306.08647.pdf), [[Project]](https://language-to-reward.github.io/)
 
