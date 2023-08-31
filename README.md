@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.8) WALL-E: Embodied **Robotic** WAiter Load Lifting with Large Language Model, [[Paper]](https://arxiv.org/pdf/2308.15962.pdf)
+
 - (arXiv 2023.8) ISR-LLM: Iterative Self-Refined Large Language Model for **Long-Horizon Sequential Task Planning**, [[Paper]](https://arxiv.org/pdf/2308.13724.pdf), [[Code]](https://github.com/zhehuazhou/ISR-LLM)
 
 - (arXiv 2023.8) LLM-Based **Human-Robot Collaboration** Framework for Manipulation Tasks, [[Paper]](https://arxiv.org/pdf/2308.14972.pdf)
