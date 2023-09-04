@@ -1,6 +1,12 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.9
+
+<!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()--> 
+
+- (arXiv 2023.9) Point-Bind & Point-LLM: Aligning **Point Cloud** with **Multi-modality** for 3D Understanding, Generation, and Instruction Following, [[Paper]](https://arxiv.org/pdf/2309.00615.pdf), [[Code]](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
+
 ### 2023.8
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
