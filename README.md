@@ -9,7 +9,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.8
 
-<!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()--> 
+<!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.8) Improving Knowledge Extraction from LLMs for Task Learning through **Agent** Analysis, [[Paper]](https://arxiv.org/pdf/2306.06770.pdf)
 
 - (arXiv 2023.8) Sparkles: Unlocking Chats Across Multiple Images for **Multimodal Instruction**-Following Models, [[Paper]](https://arxiv.org/pdf/2308.16463.pdf), [[Code]](https://github.com/HYPJUDY/Sparkles)
 
@@ -186,6 +188,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.6
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) AutoTAMP: Autoregressive Task and Motion **Planning** with LLMs as Translators and Checkers, [[Paper]](https://arxiv.org/pdf/2306.06531.pdf), [[Code]](https://github.com/yongchao98/AutoTAMP)
+
+- (arXiv 2023.6) VALLEY: **VIDEO ASSISTANT** WITH LARGE LANGUAGE MODEL ENHANCED ABILITY, [[Paper]](https://arxiv.org/pdf/2306.07207.pdf), [[Code]](https://github.com/RupertLuo/Valley)
+
+- (arXiv 2023.6) Pave the Way to Grasp Anything: Transferring Foundation Models for Universal **Pick-Place Robots**, [[Paper]](https://arxiv.org/pdf/2306.05716.pdf)
 
 - (arXiv 2023.6) LVLM-eHub: A Comprehensive Evaluation **Benchmark** for Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2306.09265.pdf)
 
