@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.9) Zero-Shot **Recommendations** with Pre-Trained Large Language Models for Multimodal Nudging, [[Paper]](https://arxiv.org/pdf/2309.01026.pdf)
+
+- (arXiv 2023.9) Large AI Model Empowered Multimodal Semantic Communications, [[Paper]](https://arxiv.org/pdf/2309.01249.pdf)
+
 - (arXiv 2023.9) CoTDet: **Affordance** Knowledge Prompting for Task Driven Object **Detection**, [[Paper]](https://arxiv.org/pdf/2309.01093.pdf), [[Project]](https://toneyaya.github.io/cotdet/)
 
 - (arXiv 2023.9) Scaling Autoregressive **Multi-Modal** Models: Pretraining and Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2309.02591.pdf)
