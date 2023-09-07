@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.9) Developmental **Scaffolding** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.00904.pdf)
+
+- (arXiv 2023.9) Gesture-Informed **Robot Assistance** via Foundation Models, [[Paper]](https://arxiv.org/pdf/2309.02721.pdf), [[Project]](https://sites.google.com/view/giraf23)
+
 - (arXiv 2023.9) Zero-Shot **Recommendations** with Pre-Trained Large Language Models for Multimodal Nudging, [[Paper]](https://arxiv.org/pdf/2309.01026.pdf)
 
 - (arXiv 2023.9) Large AI Model Empowered Multimodal Semantic Communications, [[Paper]](https://arxiv.org/pdf/2309.01249.pdf)
