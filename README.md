@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.9) CoTDet: **Affordance** Knowledge Prompting for Task Driven Object **Detection**, [[Paper]](https://arxiv.org/pdf/2309.01093.pdf), [[Project]](https://toneyaya.github.io/cotdet/)
+
 - (arXiv 2023.9) Scaling Autoregressive **Multi-Modal** Models: Pretraining and Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2309.02591.pdf)
 
 - (arXiv 2023.9) CIEM: Contrastive Instruction Evaluation Method for Better **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2309.02301.pdf)
