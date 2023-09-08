@@ -205,6 +205,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.6) LAMM: Language-Assisted **Multi-Modal Instruction-Tuning** Dataset, Framework, and Benchmark, [[Paper]](https://arxiv.org/pdf/2306.06687.pdf), [[Code]](https://github.com/OpenLAMM/LAMM)
+
 - (arXiv 2023.6) Scalable **3D Captioning** with Pretrained Models, [[Paper]](https://arxiv.org/pdf/2306.07279.pdf), [[Code]](https://huggingface.co/datasets/tiange/Cap3D)
 
 - (arXiv 2023.6) AutoTAMP: Autoregressive Task and Motion **Planning** with LLMs as Translators and Checkers, [[Paper]](https://arxiv.org/pdf/2306.06531.pdf), [[Code]](https://github.com/yongchao98/AutoTAMP)
