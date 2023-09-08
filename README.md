@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()--> 
 
+- (arXiv 2023.9) ImageBind-LLM: **Multi-modality Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2309.03905.pdf), [[Code]](https://github.com/OpenGVLab/LLaMA-Adapter)
+
 - (arXiv 2023.9) Developmental **Scaffolding** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.00904.pdf)
 
 - (arXiv 2023.9) Gesture-Informed **Robot Assistance** via Foundation Models, [[Paper]](https://arxiv.org/pdf/2309.02721.pdf), [[Project]](https://sites.google.com/view/giraf23)
