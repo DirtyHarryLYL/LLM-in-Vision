@@ -3,7 +3,13 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.9
 
-<!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()--> 
+<!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.9) Evaluation and Mitigation of Agnosia in **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.04041.pdf)
+
+- (arXiv 2023.9) Measuring and Improving **Chain-of-Thought** Reasoning in Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2309.04461.pdf), [[Code]](https://github.com/Yangyi-Chen/CoTConsistency)
+
+- (arXiv 2023.9) Context-Aware **Prompt Tuning** for Vision-Language Model with Dual-Alignment, [[Paper]](https://arxiv.org/pdf/2309.04158.pdf)
 
 - (arXiv 2023.9) ImageBind-LLM: **Multi-modality Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2309.03905.pdf), [[Code]](https://github.com/OpenGVLab/LLaMA-Adapter)
 
