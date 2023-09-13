@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) Multi3DRefer: **Grounding** Text Description to Multiple **3D** Objects, [[Paper]](https://arxiv.org/pdf/2309.05251.pdf), [[Project]](https://3dlg-hcvc.github.io/multi3drefer/#/)
+
 - (arXiv 2023.9) Language Models as Black-Box **Optimizers** for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2309.05950.pdf)
 
 - (arXiv 2023.9) Evaluation and Mitigation of Agnosia in **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.04041.pdf)
