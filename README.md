@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) Incremental Learning of **Humanoid Robot Behavior** from Natural Interaction and Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.04316.pdf)
+
 - (arXiv 2023.9) NExT-GPT: Any-to-Any **Multimodal** LLM, [[Paper]](https://arxiv.org/pdf/2309.05519.pdf), [[Project]](https://next-gpt.github.io/)
 
 - (arXiv 2023.9) Multi3DRefer: **Grounding** Text Description to Multiple **3D** Objects, [[Paper]](https://arxiv.org/pdf/2309.05251.pdf), [[Project]](https://3dlg-hcvc.github.io/multi3drefer/#/)
