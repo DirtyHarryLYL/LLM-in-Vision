@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) MMICL: EMPOWERING **VISION-LANGUAGE** MODEL WITH MULTI-MODAL IN-CONTEXT LEARNING, [[Paper]](https://arxiv.org/pdf/2309.07915.pdf), [[Code]](https://github.com/HaozheZhao/MIC)
+
+- (arXiv 2023.9) SwitchGPT: Adapting Large Language Models for **Non-Text Outputs**, [[Paper]](https://arxiv.org/pdf/2309.07623.pdf), [[Code]](https://github.com/xinke-wang/SwitchGPT)
+
+- (arXiv 2023.9) UNIFIED **HUMAN-SCENE INTERACTION** VIA PROMPTED CHAIN-OF-CONTACTS, [[Paper]](https://arxiv.org/pdf/2309.07918.pdf), [[Code]](https://github.com/OpenRobotLab/UniHSI)
+
 - (arXiv 2023.9) Incremental Learning of **Humanoid Robot Behavior** from Natural Interaction and Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.04316.pdf)
 
 - (arXiv 2023.9) NExT-GPT: Any-to-Any **Multimodal** LLM, [[Paper]](https://arxiv.org/pdf/2309.05519.pdf), [[Project]](https://next-gpt.github.io/)
