@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) TEXTBIND: Multi-turn Interleaved **Multimodal** **Instruction**-following, [[Paper]](https://arxiv.org/pdf/2309.08637.pdf), [[Project]](https://textbind.github.io/)
+
 - (arXiv 2023.9) Prompt a **Robot** to **Walk** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.09969.pdf), [[Project]](https://prompt2walk.github.io/)
 
 - (arXiv 2023.9) Grasp-Anything: Large-scale **Grasp** Dataset from Foundation Models, [[Paper]](https://arxiv.org/pdf/2309.09818.pdf), [[Project]](https://grasp-anything-2023.github.io/)
