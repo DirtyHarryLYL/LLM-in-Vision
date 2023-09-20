@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) Specification-Driven **Video Search** via Foundation Models and Formal Verification, [[Paper]](https://arxiv.org/pdf/2309.10171.pdf)
+
+- (arXiv 2023.9) Language as the Medium: Multimodal **Video Classification** through text only, [[Paper]](https://arxiv.org/pdf/2309.10783.pdf)
+
+- (arXiv 2023.9) **Multimodal** Foundation Models: From Specialists to General-Purpose Assistants, [[Paper]](https://arxiv.org/pdf/2309.10020.pdf)
+
 - (arXiv 2023.9) TEXTBIND: Multi-turn Interleaved **Multimodal** **Instruction**-following, [[Paper]](https://arxiv.org/pdf/2309.08637.pdf), [[Project]](https://textbind.github.io/)
 
 - (arXiv 2023.9) Prompt a **Robot** to **Walk** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.09969.pdf), [[Project]](https://prompt2walk.github.io/)
