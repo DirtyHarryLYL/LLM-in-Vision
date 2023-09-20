@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) SMART-LLM: Smart Multi-Agent Robot Task **Planning** using Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.10062.pdf), [[Project]](https://sites.google.com/view/smart-llm/)
+
+- (arXiv 2023.9) Conformal Temporal Logic **Planning** using Large Language Models: Knowing When to Do What and When to Ask for Help, [[Paper]](https://arxiv.org/pdf/2309.10092.pdf), [[Project]](https://ltl-llm.github.io/)
+
+- (arXiv 2023.9) Investigating the **Catastrophic Forgetting** in **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.10313.pdf)
+
 - (arXiv 2023.9) Specification-Driven **Video Search** via Foundation Models and Formal Verification, [[Paper]](https://arxiv.org/pdf/2309.10171.pdf)
 
 - (arXiv 2023.9) Language as the Medium: Multimodal **Video Classification** through text only, [[Paper]](https://arxiv.org/pdf/2309.10783.pdf)
