@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) STRUCTCHART: PERCEPTION, STRUCTURING, REASONING FOR **VISUAL CHART** UNDERSTANDING, [[Paper]](https://arxiv.org/pdf/2309.11268.pdf)
+
+- (arXiv 2023.9) DREAMLLM: SYNERGISTIC **MULTIMODAL** COMPREHENSION AND CREATION, [[Paper]](https://arxiv.org/pdf/2309.11499.pdf), [[Project]](https://dreamllm.github.io/)
+
+- (arXiv 2023.9) A LARGE-SCALE DATASET FOR **AUDIO-LANGUAGE** REPRESENTATION LEARNING, [[Paper]](https://arxiv.org/pdf/2309.11500.pdf), [[Project]](https://auto-acd.github.io/)
+
+- (arXiv 2023.9) YOU ONLY LOOK AT SCREENS: **MULTIMODAL** CHAIN-OF-ACTION **AGENTS**, [[Paper]](https://arxiv.org/pdf/2309.11436.pdf), [[Code]](https://github.com/cooelf/Auto-UI)
+
 - (arXiv 2023.9) SMART-LLM: Smart Multi-Agent Robot Task **Planning** using Large Language Models, [[Paper]](https://arxiv.org/pdf/2309.10062.pdf), [[Project]](https://sites.google.com/view/smart-llm/)
 
 - (arXiv 2023.9) Conformal Temporal Logic **Planning** using Large Language Models: Knowing When to Do What and When to Ask for Help, [[Paper]](https://arxiv.org/pdf/2309.10092.pdf), [[Project]](https://ltl-llm.github.io/)
