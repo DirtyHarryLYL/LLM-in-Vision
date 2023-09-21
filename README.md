@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) Video-ChatGPT: Towards Detailed **Video Understanding** via Large Vision and Language Models, [[Paper]](https://arxiv.org/pdf/2306.05424.pdf), [[Code]](https://github.com/mbzuai-oryx/Video-ChatGPT)
+
 - (arXiv 2023.9) STRUCTCHART: PERCEPTION, STRUCTURING, REASONING FOR **VISUAL CHART** UNDERSTANDING, [[Paper]](https://arxiv.org/pdf/2309.11268.pdf)
 
 - (arXiv 2023.9) DREAMLLM: SYNERGISTIC **MULTIMODAL** COMPREHENSION AND CREATION, [[Paper]](https://arxiv.org/pdf/2309.11499.pdf), [[Project]](https://dreamllm.github.io/)
