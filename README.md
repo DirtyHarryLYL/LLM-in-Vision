@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) LMC: Large Model Collaboration with Cross-assessment for Training-Free Open-Set **Object Recognition**, [[Paper]](https://arxiv.org/pdf/2309.12780.pdf), [[Code]](https://github.com/Harryqu123/LMC)
+
 - (arXiv 2023.9) LLM-Grounder: Open-Vocabulary **3D** Visual **Grounding** with Large Language Model as an Agent, [[Paper]](https://arxiv.org/pdf/2309.12311.pdf), [[Project]](https://chat-with-nerf.github.io/)
 
 - (arXiv 2023.9) Video-ChatGPT: Towards Detailed **Video Understanding** via Large Vision and Language Models, [[Paper]](https://arxiv.org/pdf/2306.05424.pdf), [[Code]](https://github.com/mbzuai-oryx/Video-ChatGPT)
