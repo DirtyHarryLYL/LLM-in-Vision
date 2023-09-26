@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) Q-BENCH: A BENCHMARK FOR GENERAL-PURPOSE FOUNDATION MODELS ON **LOW-LEVEL VISION**, [[Paper]](https://arxiv.org/pdf/2309.14181.pdf)
+
+- (arXiv 2023.9) DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave **Chat** via **Multi-Modal** Causal Attention, [[Paper]](https://arxiv.org/pdf/2309.14327.pdf), [[Code]](https://github.com/microsoft/DeepSpeedExamples)
+
 - (arXiv 2023.9) LMC: Large Model Collaboration with Cross-assessment for Training-Free Open-Set **Object Recognition**, [[Paper]](https://arxiv.org/pdf/2309.12780.pdf), [[Code]](https://github.com/Harryqu123/LMC)
 
 - (arXiv 2023.9) LLM-Grounder: Open-Vocabulary **3D** Visual **Grounding** with Large Language Model as an Agent, [[Paper]](https://arxiv.org/pdf/2309.12311.pdf), [[Project]](https://chat-with-nerf.github.io/)
