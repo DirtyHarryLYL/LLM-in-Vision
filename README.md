@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) Verifiable Learned Behaviors via **Motion Primitive Composition**: Applications to Scooping of Granular Media, [[Paper]](https://arxiv.org/pdf/2309.14894.pdf)
+
+- (arXiv 2023.9) Human-Assisted Continual **Robot** Learning with Foundation Models, [[Paper]](https://arxiv.org/pdf/2309.14321.pdf), [[Project]](https://sites.google.com/mit.edu/halp-robot-learning)
+
 - (arXiv 2023.9) InternLM-XComposer: A **Vision-Language** Large Model for Advanced Text-image Comprehension and Composition, [[Paper]](https://arxiv.org/pdf/2309.15112.pdf), [[Code]](https://github.com/InternLM/InternLM-XComposer)
 
 - (arXiv 2023.9) VIDEODIRECTORGPT: CONSISTENT MULTI-SCENE **VIDEO GENERATION** VIA LLM-GUIDED PLANNING, [[Paper]](https://arxiv.org/pdf/2309.15091.pdf), [[Project]](https://videodirectorgpt.github.io/)
