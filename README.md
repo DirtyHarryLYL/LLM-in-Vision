@@ -5,6 +5,18 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) InternLM-XComposer: A **Vision-Language** Large Model for Advanced Text-image Comprehension and Composition, [[Paper]](https://arxiv.org/pdf/2309.15112.pdf), [[Code]](https://github.com/InternLM/InternLM-XComposer)
+
+- (arXiv 2023.9) VIDEODIRECTORGPT: CONSISTENT MULTI-SCENE **VIDEO GENERATION** VIA LLM-GUIDED PLANNING, [[Paper]](https://arxiv.org/pdf/2309.15091.pdf), [[Project]](https://videodirectorgpt.github.io/)
+
+- (arXiv 2023.9) **Text-to-Image** Generation for Abstract Concepts, [[Paper]](https://arxiv.org/pdf/2309.14623.pdf)
+
+- (arXiv 2023.9) Free-Bloom: Zero-Shot **Text-to-Video** Generator with LLM Director and LDM Animator, [[Paper]](https://arxiv.org/pdf/2309.14494.pdf), [[Code]](https://github.com/SooLab/Free-Bloom)
+
+- (arXiv 2023.9) ALIGNING LARGE **MULTIMODAL** MODELS WITH FACTUALLY AUGMENTED **RLHF**, [[Paper]](https://arxiv.org/pdf/2309.14525.pdf), [[Project]](https://llava-rlhf.github.io/)
+
+- (arXiv 2023.9) Self-Recovery **Prompting**: Promptable General Purpose Service **Robot** System with Foundation Models and Self-Recovery, [[Paper]](https://arxiv.org/pdf/2309.14425.pdf), [[Project]](https://sites.google.com/view/srgpsr)
+
 - (arXiv 2023.9) Q-BENCH: A BENCHMARK FOR GENERAL-PURPOSE FOUNDATION MODELS ON **LOW-LEVEL VISION**, [[Paper]](https://arxiv.org/pdf/2309.14181.pdf)
 
 - (arXiv 2023.9) DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave **Chat** via **Multi-Modal** Causal Attention, [[Paper]](https://arxiv.org/pdf/2309.14327.pdf), [[Code]](https://github.com/microsoft/DeepSpeedExamples)
