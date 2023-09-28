@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic **Object Rearrangement**, [[Paper]](https://arxiv.org/pdf/2309.15821.pdf), [[Code]](https://github.com/changhaonan/LG-MCTS)
+
+- (arXiv 2023.9) ONE FOR ALL: **VIDEO CONVERSATION** IS FEASIBLE WITHOUT VIDEO INSTRUCTION TUNING, [[Paper]](https://arxiv.org/pdf/2309.15785.pdf)
+
 - (arXiv 2023.9) Verifiable Learned Behaviors via **Motion Primitive Composition**: Applications to Scooping of Granular Media, [[Paper]](https://arxiv.org/pdf/2309.14894.pdf)
 
 - (arXiv 2023.9) Human-Assisted Continual **Robot** Learning with Foundation Models, [[Paper]](https://arxiv.org/pdf/2309.14321.pdf), [[Project]](https://sites.google.com/mit.edu/halp-robot-learning)
