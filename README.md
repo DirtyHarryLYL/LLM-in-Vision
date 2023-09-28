@@ -305,7 +305,7 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.6) RM-PRT: Realistic **Robotic** Manipulation Simulator and **Benchmark** with Progressive Reasoning Tasks, [[Paper]](https://arxiv.org/pdf/2306.11335.pdf), [[Code]](https://necolizer.github.io/RM-PRT/)
 
-- (arXiv 2023.6) Aligning Large Multi-Modal Model with Robust **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2306.14565.pdf), [[Project]](https://fuxiaoliu.github.io/LRV/)
+- (arXiv 2023.6) Mitigating Hallucination in Large Multi-Modal Models via Robust **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2306.14565.pdf), [[Project]](https://fuxiaoliu.github.io/LRV/)
 
 - (arXiv 2023.6) Towards Language Models That Can See: Computer **Vision** Through the LENS of Natural **Language**, [[Paper]](https://arxiv.org/pdf/2306.16410.pdf), [[Code]](https://arxiv.org/pdf/2306.16410.pdf)
 
