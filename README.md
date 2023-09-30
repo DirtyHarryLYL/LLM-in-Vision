@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) DynaCon: Dynamic **Robot Planner** with Contextual Awareness via LLMs, [[Paper]](https://arxiv.org/pdf/2309.16031.pdf), [[Project]](https://sites.google.com/view/dynacon)
+
+- (arXiv 2023.9) AnyMAL: An Efficient and Scalable **Any-Modality** Augmented Language Model, [[Paper]](https://arxiv.org/pdf/2309.16058.pdf)
+
+- (arXiv 2023.9) ConceptGraphs: Open-Vocabulary **3D Scene Graphs** for Perception and **Planning**, [[Paper]](https://arxiv.org/pdf/2309.16650.pdf), [[Project]](https://concept-graphs.github.io/)
+
 - (arXiv 2023.9) LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic **Object Rearrangement**, [[Paper]](https://arxiv.org/pdf/2309.15821.pdf), [[Code]](https://github.com/changhaonan/LG-MCTS)
 
 - (arXiv 2023.9) ONE FOR ALL: **VIDEO CONVERSATION** IS FEASIBLE WITHOUT VIDEO INSTRUCTION TUNING, [[Paper]](https://arxiv.org/pdf/2309.15785.pdf)
