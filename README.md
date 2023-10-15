@@ -1,6 +1,34 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.10
+
+<!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.10) Dobby: A Conversational Service **Robot** Driven by GPT-4, [[Paper]](https://arxiv.org/pdf/2310.06303.pdf)
+
+- (arXiv 2023.10) CoPAL: Corrective **Planning** of **Robot** Actions with Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.07263.pdf)
+
+- (arXiv 2023.10) Forgetful Large Language Models: Lessons Learned from Using LLMs in **Robot Programming**, [[Paper]](https://arxiv.org/pdf/2310.06646.pdf)
+
+- (arXiv 2023.10) TREE-PLANNER: EFFICIENT CLOSE-LOOP TASK **PLANNING** WITH LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2310.08582.pdf), [[Project]](https://tree-planner.github.io/)
+
+- (arXiv 2023.10) TOWARDS ROBUST **MULTI-MODAL** REASONING VIA MODEL SELECTION, [[Paper]](https://arxiv.org/pdf/2310.08446.pdf), [[Code]](https://github.com/LINs-lab/M3)
+
+- (arXiv 2023.10) FERRET: REFER AND **GROUND** ANYTHING ANYWHERE AT ANY GRANULARITY, [[Paper]](https://arxiv.org/pdf/2310.07704.pdf), [[Code]](https://github.com/apple/ml-ferret)
+
+- (arXiv 2023.10) FROM SCARCITY TO EFFICIENCY: IMPROVING **CLIP TRAINING** VIA VISUAL-ENRICHED **CAPTIONS**, [[Paper]](https://arxiv.org/pdf/2310.07699.pdf)
+
+- (arXiv 2023.10) OPENLEAF: OPEN-DOMAIN INTERLEAVED **IMAGE-TEXT** GENERATION AND EVALUATION, [[Paper]](https://arxiv.org/pdf/2310.07749.pdf)
+
+- (arXiv 2023.10) Can We **Edit** **Multimodal** Large Language Models? [[Paper]](https://arxiv.org/pdf/2310.08475.pdf), [[Code]](https://github.com/zjunlp/EasyEdit)
+
+- (arXiv 2023.10) VISUAL **DATA-TYPE** UNDERSTANDING DOES NOT EMERGE FROM SCALING VISION-LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2310.08577.pdf), [[Code]](https://github.com/bethgelab/DataTypeIdentification)
+
+- (arXiv 2023.10) Idea2Img: Iterative Self-Refinement with GPT-4V(vision) for Automatic **Image Design and Generation**, [[Paper]](https://arxiv.org/pdf/2310.08541.pdf), [[Project]](https://idea2img.github.io/)
+
+- (arXiv 2023.10) OCTOPUS: **EMBODIED** VISION-LANGUAGE PROGRAMMER FROM ENVIRONMENTAL FEEDBACK, [[Paper]](https://arxiv.org/pdf/2310.08588.pdf), [[Project]](https://choiszt.github.io/Octopus/)
+
 ### 2023.9
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
