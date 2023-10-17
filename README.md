@@ -5,6 +5,24 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Interactive Task **Planning** with Language Models, [[Paper]](https://arxiv.org/pdf/2310.10645.pdf), [[Project]](https://wuphilipp.github.io/itp_site/)
+
+- (arXiv 2023.10) Bootstrap Your Own **Skills**: Learning to Solve New Tasks with Large Language Model Guidance, [[Paper]](https://arxiv.org/pdf/2310.10021.pdf), [[Project]](https://clvrai.github.io/boss/)
+
+- (arXiv 2023.10) Penetrative AI: Making LLMs Comprehend the **Physical** World, [[Paper]](https://arxiv.org/pdf/2310.09605.pdf)
+
+- (arXiv 2023.10) **BONGARD**-OPENWORLD: FEW-SHOT REASONING FOR FREE-FORM VISUAL CONCEPTS IN THE REAL WORLD, [[Paper]](https://arxiv.org/pdf/2310.10207.pdf), [[Project]](https://joyjayng.github.io/Bongard-OpenWorld.github.io/)
+
+- (arXiv 2023.10) ViPE: **Visualise** Pretty-much Everything, [[Paper]](https://arxiv.org/pdf/2310.10543.pdf)
+
+- (arXiv 2023.10) MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR **VISION-LANGUAGE** MULTITASK LEARNING, [[Paper]](https://arxiv.org/pdf/2310.09478.pdf), [[Project]](https://minigpt-v2.github.io/)
+
+- (arXiv 2023.10) MoConVQ: Unified Physics-Based **Motion Control** via Scalable Discrete Representations, [[Paper]](https://arxiv.org/pdf/2310.10198.pdf)
+
+- (arXiv 2023.10) LLM BLUEPRINT: ENABLING **TEXT-TO-IMAGE** GENERATION WITH COMPLEX AND DETAILED PROMPTS, [[Paper]](https://arxiv.org/pdf/2310.10640.pdf)
+
+- (arXiv 2023.10) VIDEO LANGUAGE **PLANNING**, [[Paper]](https://arxiv.org/pdf/2310.10625.pdf), [[Project]](https://video-language-planning.github.io/)
+
 - (arXiv 2023.10) Dobby: A Conversational Service **Robot** Driven by GPT-4, [[Paper]](https://arxiv.org/pdf/2310.06303.pdf)
 
 - (arXiv 2023.10) CoPAL: Corrective **Planning** of **Robot** Actions with Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.07263.pdf)
