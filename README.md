@@ -5,6 +5,24 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Automated Natural Language **Explanation** of Deep Visual Neurons with Large Models, [[Paper]](https://arxiv.org/pdf/2310.10708.pdf)
+
+- (arXiv 2023.10) Set-of-Mark Prompting Unleashes Extraordinary **Visual Grounding** in GPT-4V, [[Paper]](https://arxiv.org/pdf/2310.11441.pdf), [[Project]](https://som-gpt4v.github.io/)
+
+- (arXiv 2023.10) EvalCrafter: **Benchmarking** and Evaluating Large **Video Generation** Models, [[Paper]](https://arxiv.org/pdf/2310.11440.pdf), [[Project]](https://evalcrafter.github.io/)
+
+- (arXiv 2023.10) MISAR: A **MULTIMODAL** INSTRUCTIONAL SYSTEM WITH **AUGMENTED REALITY**, [[Paper]](https://arxiv.org/pdf/2310.11699.pdf), [[Code]](https://github.com/nguyennm1024/misar)
+
+- (arXiv 2023.10) NON-INTRUSIVE ADAPTATION: INPUT-CENTRIC PARAMETER-**EFFICIENT** **FINE-TUNING** FOR VERSATILE **MULTIMODAL** MODELING, [[Paper]](https://arxiv.org/pdf/2310.12100.pdf)
+
+- (arXiv 2023.10) LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for **Robotic** Tabletop **Manipulation**, [[Paper]](https://arxiv.org/pdf/2310.12020.pdf), [[Project]](https://shengqiang-zhang.github.io/lohoravens-webpage/)
+
+- (arXiv 2023.10) ChatGPT-guided Semantics for **Zero-shot** Learning, [[Paper]](https://arxiv.org/pdf/2310.11657.pdf)
+
+- (arXiv 2023.10) On the Benefit of Generative Foundation Models for Human **Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2310.12085.pdf)
+
+- (arXiv 2023.10) DiagrammerGPT: **Generating** Open-Domain, Open-Platform **Diagrams** via LLM Planning, [[Paper]](https://arxiv.org/pdf/2310.12128.pdf), [[Project]](https://diagrammergpt.github.io/)
+
 - (arXiv 2023.10) Interactive Task **Planning** with Language Models, [[Paper]](https://arxiv.org/pdf/2310.10645.pdf), [[Project]](https://wuphilipp.github.io/itp_site/)
 
 - (arXiv 2023.10) Bootstrap Your Own **Skills**: Learning to Solve New Tasks with Large Language Model Guidance, [[Paper]](https://arxiv.org/pdf/2310.10021.pdf), [[Project]](https://clvrai.github.io/boss/)
