@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Lost in Translation: When GPT-4V(ision) Can’t See Eye to Eye with Text A **Vision-Language-Consistency** Analysis of VLLMs and Beyond, [[Paper]](https://arxiv.org/pdf/2310.12520.pdf)
+
+- (arXiv 2023.10) FROZEN TRANSFORMERS IN **LANGUAGE** MODELS ARE EFFECTIVE **VISUAL** ENCODER LAYERS, [[Paper]](https://arxiv.org/pdf/2310.12973.pdf), [[Code]](https://github.com/ziqipang/LM4VisualEncoding)
+
+- (arXiv 2023.10) CLAIR: Evaluating **Image Captions** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.12971.pdf), [[Project]](https://davidmchan.github.io/clair/)
+
+- (arXiv 2023.10) 3D-GPT: PROCEDURAL **3D MODELING** WITH LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2310.12945.pdf), [[Project]](https://chuny1.github.io/3DGPT/3dgpt.html)
+
 - (arXiv 2023.10) Automated Natural Language **Explanation** of Deep Visual Neurons with Large Models, [[Paper]](https://arxiv.org/pdf/2310.10708.pdf)
 
 - (arXiv 2023.10) Set-of-Mark Prompting Unleashes Extraordinary **Visual Grounding** in GPT-4V, [[Paper]](https://arxiv.org/pdf/2310.11441.pdf), [[Project]](https://som-gpt4v.github.io/)
