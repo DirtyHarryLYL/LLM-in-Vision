@@ -7,15 +7,15 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.10) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.10) Multimodal Large Language Model for Visual **Navigation**, [[Paper]](https://arxiv.org/pdf/2310.08669.pdf)
+
+- (arXiv 2023.10) MAKING **MULTIMODAL GENERATION** EASIER: WHEN DIFFUSION MODELS MEET LLMS, [[Paper]](https://arxiv.org/pdf/2310.08949.pdf), [[Code]](https://github.com/zxy556677/EasyGen)
+
+- (arXiv 2023.10) Open X-Embodiment: **Robotic Learning** Datasets and RT-X Models, [[Paper]](https://arxiv.org/pdf/2310.08864.pdf), [[Project]](https://robotics-transformer-x.github.io/)
+
+- (arXiv 2023.10) Large Language Models Meet **Open-World Intent** Discovery and Recognition: An Evaluation of ChatGPT, [[Paper]](https://arxiv.org/pdf/2310.10176.pdf), [[Code]](https://github.com/songxiaoshuai/OOD-Evaluation)
 
 - (arXiv 2023.10) Lost in Translation: When GPT-4V(ision) Can’t See Eye to Eye with Text A **Vision-Language-Consistency** Analysis of VLLMs and Beyond, [[Paper]](https://arxiv.org/pdf/2310.12520.pdf)
 
