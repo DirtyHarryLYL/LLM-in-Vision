@@ -5,6 +5,28 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+<!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.10) Lost in Translation: When GPT-4V(ision) Can’t See Eye to Eye with Text A **Vision-Language-Consistency** Analysis of VLLMs and Beyond, [[Paper]](https://arxiv.org/pdf/2310.12520.pdf)
+
+- (arXiv 2023.10) Interactive **Navigation** in Environments with Traversable Obstacles Using Large Language and Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2310.08873.pdf)
+
+- (arXiv 2023.10) VLIS: Unimodal Language Models Guide **Multimodal** **Language Generation**, [[Paper]](https://arxiv.org/pdf/2310.09767.pdf), [[Code]](https://github.com/JiwanChung/vlis)
+
+- (arXiv 2023.10) CLIN: A CONTINUALLY LEARNING LANGUAGE **AGENT** FOR RAPID TASK ADAPTATION AND GENERALIZATION, [[Paper]](https://arxiv.org/pdf/2310.10134.pdf), [[Project]](https://allenai.github.io/clin/)
+
+- (arXiv 2023.10) **Navigation** with Large Language Models: Semantic Guesswork as a Heuristic for Planning, [[Paper]](https://arxiv.org/pdf/2310.10103.pdf)
+
 - (arXiv 2023.10) Lost in Translation: When GPT-4V(ision) Can’t See Eye to Eye with Text A **Vision-Language-Consistency** Analysis of VLLMs and Beyond, [[Paper]](https://arxiv.org/pdf/2310.12520.pdf)
 
 - (arXiv 2023.10) FROZEN TRANSFORMERS IN **LANGUAGE** MODELS ARE EFFECTIVE **VISUAL** ENCODER LAYERS, [[Paper]](https://arxiv.org/pdf/2310.12973.pdf), [[Code]](https://github.com/ziqipang/LM4VisualEncoding)
