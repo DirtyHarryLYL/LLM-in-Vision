@@ -5,9 +5,29 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
-<!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()
+- (arXiv 2023.10) Evaluating **Spatial Understanding** of Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.14540.pdf)
 
-- (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
+- (arXiv 2023.10) Learning **Reward** for **Physical Skills** using Large Language Model, [[Paper]](https://arxiv.org/pdf/2310.14092.pdf)
+
+- (arXiv 2023.10) CREATIVE **ROBOT TOOL USE** WITH LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2310.13065.pdf), [[Project]](https://creative-robotool.github.io/)
+
+- (arXiv 2023.10) Open-Ended Instructable **Embodied Agents** with Memory-Augmented Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.15127.pdf), [[Project]](https://helper-agent-llm.github.io/)
+
+- (arXiv 2023.10) **Robot** Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World **Reinforcement Learning**, [[Paper]](https://arxiv.org/pdf/2310.15145.pdf), [[Project]](https://robofume.github.io/)
+
+- (arXiv 2023.10) LARGE LANGUAGE MODELS CAN **Share IMAGES**, TOO! [[Paper]](https://arxiv.org/pdf/2310.14804.pdf), [[Code]](https://github.com/passing2961/LLM-Share-Image)
+
+- (arXiv 2023.10) Dataset **Bias** Mitigation in Multiple-Choice **Visual Question Answering** and Beyond, [[Paper]](https://arxiv.org/pdf/2310.14670.pdf)
+
+- (arXiv 2023.10) HALLUSIONBENCH: You See What You Think? Or You Think What You See? An **Image-Context Reasoning Benchmark** Challenging for GPT-4V(vision), LLaVA-1.5, and Other Multi-modality Models, [[Paper]](https://arxiv.org/pdf/2310.14566.pdf), [[Code]](https://github.com/tianyi-lab/HallusionBench)
+
+- (arXiv 2023.10) Can Language Models Laugh at YouTube **Short-form Videos**? [[Paper]](https://arxiv.org/pdf/2310.14159.pdf), [[Code]](https://github.com/dayoon-ko/ExFunTube)
+
+- (arXiv 2023.10) Large Language Models are **Visual Reasoning** Coordinators, [[Paper]](https://arxiv.org/pdf/2310.15166.pdf), [[Code]](https://github.com/cliangyu/Cola)
+
+- (arXiv 2023.10) Language Models as Zero-Shot **Trajectory Generators**, [[Paper]](https://arxiv.org/pdf/2310.11604.pdf), [[Project]](https://www.robot-learning.uk/language-models-trajectory-generators)
+
+- (arXiv 2023.10) **Localizing** Active **Objects** from **Egocentric** Vision with Symbolic World Knowledge, [[Paper]](https://arxiv.org/pdf/2310.15066.pdf), [[Code]](https://github.com/PlusLabNLP/ENVISION)
 
 - (arXiv 2023.10) Multimodal Large Language Model for Visual **Navigation**, [[Paper]](https://arxiv.org/pdf/2310.08669.pdf)
 
