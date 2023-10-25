@@ -5,6 +5,18 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) VIDEOPROMPTER: AN ENSEMBLE OF FOUNDATIONAL MODELS FOR **ZERO-SHOT VIDEO UNDERSTANDING**, [[Paper]](https://arxiv.org/pdf/2310.15324.pdf)
+
+- (arXiv 2023.10) Inject Semantic Concepts into Image Tagging for **Open-Set Recognition**, [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
+
+- (arXiv 2023.10) Woodpecker: **Hallucination Correction** for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.16045.pdf), [[Code]](https://github.com/BradyFU/Woodpecker)
+
+- (arXiv 2023.10) Visual Cropping Improves **Zero-Shot Question Answering** of **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.16033.pdf), [[Code]](https://github.com/saccharomycetes/visual_crop_zsvqa)
+
+- (arXiv 2023.10) Large Language Models are Temporal and Causal Reasoners for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2310.15747.pdf), [[Code]](https://github.com/mlvlab/Flipped-VQA)
+
+- (arXiv 2023.10) What’s Left? Concept **Grounding** with Logic-Enhanced Foundation Models, [[Paper]](https://arxiv.org/pdf/2310.16035.pdf)
+
 - (arXiv 2023.10) Evaluating **Spatial Understanding** of Large Language Models, [[Paper]](https://arxiv.org/pdf/2310.14540.pdf)
 
 - (arXiv 2023.10) Learning **Reward** for **Physical Skills** using Large Language Model, [[Paper]](https://arxiv.org/pdf/2310.14092.pdf)
