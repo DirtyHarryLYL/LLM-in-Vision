@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) An Early **Evaluation** of **GPT-4V**(ision), [[Paper]](https://arxiv.org/pdf/2310.16534.pdf), [[Code]](https://github.com/albertwy/GPT-4V-Evaluation)
+
+- (arXiv 2023.10) DDCoT: Duty-Distinct Chain-of-Thought **Prompting** for Multimodal Reasoning in Language Models, [[Paper]](https://arxiv.org/pdf/2310.16436.pdf), [[Project]](https://toneyaya.github.io/ddcot/)
+
+- (arXiv 2023.10) CommonCanvas: An Open **Diffusion** Model Trained with Creative-Commons Images, [[Paper]](https://arxiv.org/pdf/2310.16825.pdf), [[Code]](https://github.com/mosaicml/diffusion/blob/main/assets/common-canvas.md)
+
 - (arXiv 2023.10) VIDEOPROMPTER: AN ENSEMBLE OF FOUNDATIONAL MODELS FOR **ZERO-SHOT VIDEO UNDERSTANDING**, [[Paper]](https://arxiv.org/pdf/2310.15324.pdf)
 
 - (arXiv 2023.10) Inject Semantic Concepts into Image Tagging for **Open-Set Recognition**, [[Paper]](https://arxiv.org/pdf/2310.15200.pdf), [[Code]](https://github.com/xinyu1205/recognize-anything)
