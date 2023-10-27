@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Interactive **Robot** Learning from **Verbal Correction**, [[Paper]](https://arxiv.org/pdf/2310.17555.pdf), [[Project]](https://ut-austin-rpl.github.io/olaf/)
+
 - (arXiv 2023.10) Exploring Question Decomposition for **Zero-Shot VQA**, [[Paper]](https://arxiv.org/pdf/2310.17050.pdf), [[Project]](https://zaidkhan.me/decomposition-0shot-vqa/)
 
 - (arXiv 2023.10) RIO: A Benchmark for Reasoning **Intention**-Oriented **Objects** in Open Environments, [[Paper]](https://arxiv.org/pdf/2310.17290.pdf), [[Project]](https://reasonio.github.io/)
