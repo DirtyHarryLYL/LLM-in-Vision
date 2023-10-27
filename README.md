@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Exploring Question Decomposition for **Zero-Shot VQA**, [[Paper]](https://arxiv.org/pdf/2310.17050.pdf), [[Project]](https://zaidkhan.me/decomposition-0shot-vqa/)
+
+- (arXiv 2023.10) RIO: A Benchmark for Reasoning **Intention**-Oriented **Objects** in Open Environments, [[Paper]](https://arxiv.org/pdf/2310.17290.pdf), [[Project]](https://reasonio.github.io/)
+
 - (arXiv 2023.10) An Early **Evaluation** of **GPT-4V**(ision), [[Paper]](https://arxiv.org/pdf/2310.16534.pdf), [[Code]](https://github.com/albertwy/GPT-4V-Evaluation)
 
 - (arXiv 2023.10) DDCoT: Duty-Distinct Chain-of-Thought **Prompting** for Multimodal Reasoning in Language Models, [[Paper]](https://arxiv.org/pdf/2310.16436.pdf), [[Project]](https://toneyaya.github.io/ddcot/)
