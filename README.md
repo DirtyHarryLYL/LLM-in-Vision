@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Words into Action: Learning Diverse **Humanoid Robot** Behaviors using Language Guided Iterative **Motion** Refinement, [[Paper]](https://arxiv.org/pdf/2310.06226.pdf), [[Code]](https://www.kniranjankumar.com/words_into_action/)
+
+- (arXiv 2023.10) GameGPT: Multi-**agent** Collaborative Framework for **Game** Development, [[Paper]](https://arxiv.org/pdf/2310.08067.pdf)
+
+- (arXiv 2023.10) STEVE-EYE: EQUIPPING LLM-BASED EMBODIED **AGENTS** WITH VISUAL PERCEPTION IN OPEN WORLDS, [[Paper]](https://arxiv.org/pdf/2310.13255.pdf)
+
+- (arXiv 2023.10) **BENCHMARKING** SEQUENTIAL VISUAL INPUT **REASONING** AND PREDICTION IN **MULTIMODAL** LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2310.13473.pdf), [[Code]](https://github.com/CoderJ-ONE/Giraffe-Bench)
+
+- (arXiv 2023.10) A Simple Baseline for Knowledge-Based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2310.13570.pdf), [[Code]](https://github.com/alexandrosXe/A-Simple-Baseline-For-Knowledge-Based-VQA)
+
 - (arXiv 2023.10) Interactive **Robot** Learning from **Verbal Correction**, [[Paper]](https://arxiv.org/pdf/2310.17555.pdf), [[Project]](https://ut-austin-rpl.github.io/olaf/)
 
 - (arXiv 2023.10) Exploring Question Decomposition for **Zero-Shot VQA**, [[Paper]](https://arxiv.org/pdf/2310.17050.pdf), [[Project]](https://zaidkhan.me/decomposition-0shot-vqa/)
