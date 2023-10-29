@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Humanoid **Agents**: Platform for Simulating Human-like Generative Agents, [[Paper]](https://arxiv.org/pdf/2310.05418.pdf), [[Project]](https://www.humanoidagents.com/)
+
+- (arXiv 2023.10) REVO-LION: EVALUATING AND REFINING VISION-LANGUAGE **INSTRUCTION TUNING** DATASETS, [[Paper]](https://arxiv.org/pdf/2310.06594.pdf), [[Code]](https://github.com/liaoning97/REVO-LION)
+
+- (arXiv 2023.10) How (not) to **ensemble** LVLMs for VQA, [[Paper]](https://arxiv.org/pdf/2310.06641.pdf)
+
+- (arXiv 2023.10) What If the TV Was Off? Examining **Counterfactual Reasoning** Abilities of Multi-modal Language Models, [[Paper]](https://arxiv.org/pdf/2310.06627.pdf), [[Code]](https://github.com/Letian2003/C-VQA)
+
 - (arXiv 2023.10) Words into Action: Learning Diverse **Humanoid Robot** Behaviors using Language Guided Iterative **Motion** Refinement, [[Paper]](https://arxiv.org/pdf/2310.06226.pdf), [[Code]](https://www.kniranjankumar.com/words_into_action/)
 
 - (arXiv 2023.10) GameGPT: Multi-**agent** Collaborative Framework for **Game** Development, [[Paper]](https://arxiv.org/pdf/2310.08067.pdf)
