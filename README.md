@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) Gen2Sim: Scaling up **Robot** Learning in **Simulation** with Generative Models, [[Paper]](https://arxiv.org/pdf/2310.18308.pdf), [[Project]](https://gen2sim.github.io/)
+
+- (arXiv 2023.10) LARGE LANGUAGE MODELS AS GENERALIZABLE **POLICIES** FOR **EMBODIED** TASKS, [[Paper]](https://arxiv.org/pdf/2310.17722.pdf), [[Project]](https://llm-rl.github.io/)
+
 - (arXiv 2023.10) Humanoid **Agents**: Platform for Simulating Human-like Generative Agents, [[Paper]](https://arxiv.org/pdf/2310.05418.pdf), [[Project]](https://www.humanoidagents.com/)
 
 - (arXiv 2023.10) REVO-LION: EVALUATING AND REFINING VISION-LANGUAGE **INSTRUCTION TUNING** DATASETS, [[Paper]](https://arxiv.org/pdf/2310.06594.pdf), [[Code]](https://github.com/liaoning97/REVO-LION)
