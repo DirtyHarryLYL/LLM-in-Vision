@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) APOLLO: ZERO-SHOT **MULTIMODAL REASONING** WITH MULTIPLE EXPERTS, [[Paper]](https://arxiv.org/pdf/2310.18369.pdf), [[Code]](https://github.com/danielabd/Apollo-Cap)
+
+- (arXiv 2023.10) ROME: **Evaluating** Pre-trained Vision-Language Models on **Reasoning** beyond Visual Common Sense, [[Paper]](https://arxiv.org/pdf/2310.19301.pdf)
+
 - (arXiv 2023.10) Gen2Sim: Scaling up **Robot** Learning in **Simulation** with Generative Models, [[Paper]](https://arxiv.org/pdf/2310.18308.pdf), [[Project]](https://gen2sim.github.io/)
 
 - (arXiv 2023.10) LARGE LANGUAGE MODELS AS GENERALIZABLE **POLICIES** FOR **EMBODIED** TASKS, [[Paper]](https://arxiv.org/pdf/2310.17722.pdf), [[Project]](https://llm-rl.github.io/)
