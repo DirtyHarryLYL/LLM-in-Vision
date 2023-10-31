@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.10) What’s “up” with vision-language models? Investigating their struggle with spatial reasoning, [[Paper]](https://arxiv.org/pdf/2310.19785.pdf), [[Code]](https://github.com/amitakamath/whatsup_vlms)
+
 - (arXiv 2023.10) APOLLO: ZERO-SHOT **MULTIMODAL REASONING** WITH MULTIPLE EXPERTS, [[Paper]](https://arxiv.org/pdf/2310.18369.pdf), [[Code]](https://github.com/danielabd/Apollo-Cap)
 
 - (arXiv 2023.10) ROME: **Evaluating** Pre-trained Vision-Language Models on **Reasoning** beyond Visual Common Sense, [[Paper]](https://arxiv.org/pdf/2310.19301.pdf)
