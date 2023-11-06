@@ -1,9 +1,18 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.11
+
+<!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.11) ROBOGEN: TOWARDS UNLEASHING INFINITE DATA FOR AUTOMATED **ROBOT** LEARNING VIA **GENERATIVE SIMULATION**, [[Paper]](https://arxiv.org/pdf/2311.01455.pdf), [[Code]]()
+
+
 ### 2023.10
 
 <!-- - (arXiv 2023.10) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.10) MINIGPT-5: INTERLEAVED **VISION-AND-LANGUAGE** GENERATION VIA GENERATIVE VOKENS, [[Paper]](https://arxiv.org/pdf/2310.02239.pdf), [[Code]](https://github.com/eric-ai-lab/MiniGPT-5)
 
 - (arXiv 2023.10) What’s “up” with vision-language models? Investigating their struggle with spatial reasoning, [[Paper]](https://arxiv.org/pdf/2310.19785.pdf), [[Code]](https://github.com/amitakamath/whatsup_vlms)
 
