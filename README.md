@@ -5,7 +5,13 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
-- (arXiv 2023.11) ROBOGEN: TOWARDS UNLEASHING INFINITE DATA FOR AUTOMATED **ROBOT** LEARNING VIA **GENERATIVE SIMULATION**, [[Paper]](https://arxiv.org/pdf/2311.01455.pdf), [[Code]]()
+- (arXiv 2023.11) MAKE A DONUT: LANGUAGE-GUIDED HIERARCHICAL EMD-SPACE PLANNING FOR ZERO-SHOT **DEFORMABLE** OBJECT **MANIPULATION**, [[Paper]](https://arxiv.org/pdf/2311.02787.pdf)
+
+- (arXiv 2023.11) Kinematic-aware **Prompting** for Generalizable Articulated Object **Manipulation** with LLMs, [[Paper]](https://arxiv.org/pdf/2311.02847.pdf), [[Code]](https://github.com/xwinks/LLM_articulated_object_manipulation)
+
+- (arXiv 2023.11) Accelerating **Reinforcement Learning** of Robotic **Manipulations** via Feedback from Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.02379.pdf)
+
+- (arXiv 2023.11) ROBOGEN: TOWARDS UNLEASHING INFINITE DATA FOR AUTOMATED **ROBOT** LEARNING VIA **GENERATIVE SIMULATION**, [[Paper]](https://arxiv.org/pdf/2311.01455.pdf)
 
 
 ### 2023.10
