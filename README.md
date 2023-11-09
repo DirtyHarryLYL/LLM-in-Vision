@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Detecting Any **Human-Object Interaction** Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models, [[Paper]](https://arxiv.org/pdf/2311.03799.pdf), [[Code]](https://github.com/Caoyichao/UniHOI)
+
+- (arXiv 2023.11) OtterHD: A High-Resolution **Multi-modality** Model, [[Paper]](https://arxiv.org/pdf/2311.04219.pdf), [[Code]](https://github.com/Luodian/Otter)
+
+- (arXiv 2023.11) NExT-Chat: An LMM for **Chat**, **Detection** and **Segmentation**, [[Paper]](https://arxiv.org/pdf/2311.04498.pdf), [[Project]](https://next-chatv.github.io/)
+
+- (arXiv 2023.11) GENOME: GENERATIVE NEURO-SYMBOLIC VISUAL **REASONING** BY GROWING AND REUSING MODULES, [[Paper]](https://arxiv.org/pdf/2311.04901.pdf), [[Project]](https://vis-www.cs.umass.edu/genome/)
+
 - (arXiv 2023.11) MAKE A DONUT: LANGUAGE-GUIDED HIERARCHICAL EMD-SPACE PLANNING FOR ZERO-SHOT **DEFORMABLE** OBJECT **MANIPULATION**, [[Paper]](https://arxiv.org/pdf/2311.02787.pdf)
 
 - (arXiv 2023.11) Kinematic-aware **Prompting** for Generalizable Articulated Object **Manipulation** with LLMs, [[Paper]](https://arxiv.org/pdf/2311.02847.pdf), [[Code]](https://github.com/xwinks/LLM_articulated_object_manipulation)
