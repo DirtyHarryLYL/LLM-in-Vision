@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) u-LLaVA: Unifying **Multi-Modal** Tasks via Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.05348.pdf)
+
+- (arXiv 2023.11) LLAVA-PLUS: LEARNING TO **USE TOOLS** FOR CREATING MULTIMODAL **AGENTS**, [[Paper]](https://arxiv.org/pdf/2311.05437.pdf), [[Project]](https://llava-vl.github.io/llava-plus/)
+
 - (arXiv 2023.11) Detecting Any **Human-Object Interaction** Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models, [[Paper]](https://arxiv.org/pdf/2311.03799.pdf), [[Code]](https://github.com/Caoyichao/UniHOI)
 
 - (arXiv 2023.11) OtterHD: A High-Resolution **Multi-modality** Model, [[Paper]](https://arxiv.org/pdf/2311.04219.pdf), [[Code]](https://github.com/Luodian/Otter)
