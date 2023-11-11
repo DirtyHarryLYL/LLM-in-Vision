@@ -306,6 +306,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.8) Breaking Common Sense: WHOOPS! A **Vision-and-Language Benchmark** of Synthetic and Compositional Images, [[Paper]](https://arxiv.org/pdf/2303.07274.pdf), [[Project]](https://whoops-benchmark.github.io/)
+
 - (arXiv 2023.8) Improving Knowledge Extraction from LLMs for Task Learning through **Agent** Analysis, [[Paper]](https://arxiv.org/pdf/2306.06770.pdf)
 
 - (arXiv 2023.8) Sparkles: Unlocking Chats Across Multiple Images for **Multimodal Instruction**-Following Models, [[Paper]](https://arxiv.org/pdf/2308.16463.pdf), [[Code]](https://github.com/HYPJUDY/Sparkles)
