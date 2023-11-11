@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Multitask Multimodal Prompted Training for Interactive **Embodied** Task Completion, [[Paper]](https://arxiv.org/pdf/2311.04067.pdf), [[Code]](https://github.com/emma-heriot-watt/emma)
+
+- (arXiv 2023.11) TEAL: TOKENIZE AND EMBED ALL FOR **MULTIMODAL** LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2311.04589.pdf)
+
 - (arXiv 2023.11) u-LLaVA: Unifying **Multi-Modal** Tasks via Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.05348.pdf)
 
 - (arXiv 2023.11) LLAVA-PLUS: LEARNING TO **USE TOOLS** FOR CREATING MULTIMODAL **AGENTS**, [[Paper]](https://arxiv.org/pdf/2311.05437.pdf), [[Project]](https://llava-vl.github.io/llava-plus/)
