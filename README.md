@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) ADAPT: As-Needed Decomposition and **Planning** with Language Models, [[Paper]](https://arxiv.org/pdf/2311.05772.pdf), [[Project]](https://allenai.github.io/adaptllm/)
+
+- (arXiv 2023.11) JARVIS-1: Open-world Multi-task **Agents** with Memory-Augmented Multimodal Language Models, [[Paper]](https://arxiv.org/pdf/2311.05997.pdf), [[Project]](https://craftjarvis-jarvis1.github.io/)
+
+- (arXiv 2023.11) Florence-2: Advancing a Unified **Representation** for a Variety of **Vision** Tasks, [[Paper]](https://arxiv.org/pdf/2311.06242.pdf)
+
 - (arXiv 2023.11) Multitask Multimodal Prompted Training for Interactive **Embodied** Task Completion, [[Paper]](https://arxiv.org/pdf/2311.04067.pdf), [[Code]](https://github.com/emma-heriot-watt/emma)
 
 - (arXiv 2023.11) TEAL: TOKENIZE AND EMBED ALL FOR **MULTIMODAL** LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2311.04589.pdf)
