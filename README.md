@@ -5,6 +5,34 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Monkey: Image Resolution and Text Label Are Important Things for Large **Multi-modal** Models, [[Paper]](https://arxiv.org/pdf/2311.06607.pdf), [[Code]](https://github.com/Yuliang-Liu/Monkey)
+
+- (arXiv 2023.11) VILMA: A ZERO-SHOT **BENCHMARK** FOR LINGUISTIC AND TEMPORAL GROUNDING IN **VIDEO-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2311.07022.pdf), [[Project]](https://cyberiada.github.io/ViLMA/)
+
+- (arXiv 2023.11) VOLCANO: Mitigating Multimodal **Hallucination** through Self-Feedback Guided Revision, [[Paper]](https://arxiv.org/pdf/2311.07362.pdf), [[Code]](https://github.com/kaistAI/Volcano)
+
+- (arXiv 2023.11) AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs **Hallucination** Evaluation, [[Paper]](https://arxiv.org/pdf/2311.07397.pdf), [[Code]](https://github.com/junyangwang0410/AMBER)
+
+- (arXiv 2023.11) Analyzing Modular Approaches for **Visual Question** Decomposition, [[Paper]](https://arxiv.org/pdf/2311.06411.pdf), [[Code]](https://github.com/brown-palm/visual-question-decomposition)
+
+- (arXiv 2023.11) **Layout**Prompter: Awaken the Design Ability of Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.06495.pdf), [[Code]](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter)
+
+- (arXiv 2023.11) PerceptionGPT: Effectively Fusing **Visual** Perception into LLM, [[Paper]](https://arxiv.org/pdf/2311.06612.pdf)
+
+- (arXiv 2023.11) InfMLLM: A Unified Framework for **Visual-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2311.06791.pdf), [[Code]](https://github.com/mightyzau/InfMLLM)
+
+- (arXiv 2023.11) WHAT LARGE LANGUAGE MODELS BRING TO TEXTRICH **VQA**?, [[Paper]](https://arxiv.org/pdf/2311.07306.pdf)
+
+- (arXiv 2023.11) Story-to-**Motion**: Synthesizing Infinite and Controllable Character Animation from Long **Text**, [[Paper]](https://arxiv.org/pdf/2311.07446.pdf), [[Project]](https://story2motion.github.io/)
+
+- (arXiv 2023.11) GPT-4V(ision) as A **Social Media Analysis** Engine, [[Paper]](https://arxiv.org/pdf/2311.07547.pdf), [[Code]](https://github.com/VIStA-H/GPT-4V_Social_Media)
+
+- (arXiv 2023.11) GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot **Smartphone GUI Navigation**, [[Paper]](https://arxiv.org/pdf/2311.07562.pdf), [[Code]](https://github.com/zzxslp/MM-Navigator)
+
+- (arXiv 2023.11) To See is to Believe: Prompting GPT-4V for Better **Visual Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2311.07574.pdf), [[Code]](https://github.com/X2FD/LVIS-INSTRUCT4V)
+
+- (arXiv 2023.11) SPHINX: THE JOINT **MIXING** OF WEIGHTS, TASKS, AND VISUAL EMBEDDINGS FOR **MULTI-MODAL** LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2311.07575.pdf), [[Code]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
 - (arXiv 2023.11) ADAPT: As-Needed Decomposition and **Planning** with Language Models, [[Paper]](https://arxiv.org/pdf/2311.05772.pdf), [[Project]](https://allenai.github.io/adaptllm/)
 
 - (arXiv 2023.11) JARVIS-1: Open-world Multi-task **Agents** with Memory-Augmented Multimodal Language Models, [[Paper]](https://arxiv.org/pdf/2311.05997.pdf), [[Project]](https://craftjarvis-jarvis1.github.io/)
