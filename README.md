@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) How to Bridge the Gap between Modalities: A Comprehensive **Survey** on **Multimodal** Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.07594.pdf)
+
+- (arXiv 2023.11) Unlock the Power: Competitive **Distillation** for Multi-Modal Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.08213.pdf), [[Code]]()
+
+- (arXiv 2023.11) Towards **Open**-Ended Visual **Recognition** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.08400.pdf), [[Code]](https://github.com/bytedance/OmniScient-Model)
+
 - (arXiv 2023.11) Monkey: Image Resolution and Text Label Are Important Things for Large **Multi-modal** Models, [[Paper]](https://arxiv.org/pdf/2311.06607.pdf), [[Code]](https://github.com/Yuliang-Liu/Monkey)
 
 - (arXiv 2023.11) VILMA: A ZERO-SHOT **BENCHMARK** FOR LINGUISTIC AND TEMPORAL GROUNDING IN **VIDEO-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2311.07022.pdf), [[Project]](https://cyberiada.github.io/ViLMA/)
