@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Chat-UniVi: Unified Visual Representation Empowers Large Language Models with **Image** and **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2311.08046.pdf), [[Code]](https://github.com/PKU-YuanGroup/Chat-UniVi)
+
 - (arXiv 2023.11) How to Bridge the Gap between Modalities: A Comprehensive **Survey** on **Multimodal** Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.07594.pdf)
 
 - (arXiv 2023.11) Unlock the Power: Competitive **Distillation** for Multi-Modal Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.08213.pdf), [[Code]]()
