@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Igniting Language Intelligence: The Hitchhiker’s Guide From **Chain-of-Thought** Reasoning to Language **Agents**, [[Paper]](https://arxiv.org/pdf/2311.11797.pdf), [[Code]](https://github.com/Zoeyyao27/CoT-Igniting-Agent)
+
+- (arXiv 2023.11) VLM-Eval: A General Evaluation on **Video** Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.11865.pdf)
+
+- (arXiv 2023.11) LLMs as Visual Explainers: Advancing **Image Classification** with Evolving Visual Descriptions, [[Paper]](https://arxiv.org/pdf/2311.11904.pdf), [[Code]](https://github.com/zhuole1025/LLMs_as_Visual_Explainers)
+
+- (arXiv 2023.11) LION : Empowering **Multimodal** Large Language Model with Dual-Level Visual Knowledge, [[Paper]](https://arxiv.org/pdf/2311.11860.pdf), [[Project]](https://rshaojimmy.github.io/Projects/JiuTian-LION)
+
 - (arXiv 2023.11) Chat-UniVi: Unified Visual Representation Empowers Large Language Models with **Image** and **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2311.08046.pdf), [[Code]](https://github.com/PKU-YuanGroup/Chat-UniVi)
 
 - (arXiv 2023.11) How to Bridge the Gap between Modalities: A Comprehensive **Survey** on **Multimodal** Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.07594.pdf)
