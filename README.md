@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) ShareGPT4V: Improving Large **Multi-Modal** Models with Better **Captions**, [[Paper]](https://arxiv.org/pdf/2311.12793.pdf), [[Project]](https://sharegpt4v.github.io/)
+
+- (arXiv 2023.11) KNVQA: A Benchmark for evaluation knowledge-based **VQA**, [[Paper]](https://arxiv.org/pdf/2311.12639.pdf)
+
+- (arXiv 2023.11) GPT4Motion: Scripting **Physical** Motions in **Text-to-Video** Generation via Blender-Oriented GPT Planning, [[Paper]](https://arxiv.org/pdf/2311.12631.pdf), [[Project]](https://gpt4motion.github.io/)
+
+- (arXiv 2023.11) Boosting **Audio-visual** Zero-shot Learning with Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.12268.pdf), [[Code]](https://github.com/chenhaoxing/KDA)
+
+- (arXiv 2023.11) Few-Shot **Classification** & **Segmentation** Using Large Language Models Agent, [[Paper]](https://arxiv.org/pdf/2311.12065.pdf)
+
 - (arXiv 2023.11) Igniting Language Intelligence: The Hitchhiker’s Guide From **Chain-of-Thought** Reasoning to Language **Agents**, [[Paper]](https://arxiv.org/pdf/2311.11797.pdf), [[Code]](https://github.com/Zoeyyao27/CoT-Igniting-Agent)
 
 - (arXiv 2023.11) VLM-Eval: A General Evaluation on **Video** Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.11865.pdf)
