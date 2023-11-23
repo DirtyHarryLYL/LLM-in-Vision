@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) PG-Video-LLaVA: Pixel Grounding Large **Video-Language** Models, [[Paper]](https://arxiv.org/pdf/2311.13435.pdf), [[Code]](https://github.com/mbzuai-oryx/Video-LLaVA)
+
+- (arXiv 2023.11) Enhancing **Scene Graph** Generation with Hierarchical Relationships and Commonsense Knowledge, [[Paper]](https://arxiv.org/pdf/2311.12889.pdf), [[Code]]()
+
+- (arXiv 2023.11) AN EMBODIED GENERALIST **AGENT** IN **3D** WORLD, [[Paper]](https://arxiv.org/pdf/2311.12871.pdf), [[Project]](https://embodied-generalist.github.io/)
+
 - (arXiv 2023.11) ShareGPT4V: Improving Large **Multi-Modal** Models with Better **Captions**, [[Paper]](https://arxiv.org/pdf/2311.12793.pdf), [[Project]](https://sharegpt4v.github.io/)
 
 - (arXiv 2023.11) KNVQA: A Benchmark for evaluation knowledge-based **VQA**, [[Paper]](https://arxiv.org/pdf/2311.12639.pdf)
