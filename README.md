@@ -474,6 +474,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.7) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.7) **Caption** Anything: Interactive Image Description with Diverse Multimodal Controls, [[Paper]](https://arxiv.org/pdf/2305.02677.pdf), [[Code]](https://github.com/ttengwang/Caption-Anything)
+
 - (arXiv 2023.7) DesCo: Learning Object **Recognition** with Rich Language Descriptions, [[Paper]](https://arxiv.org/pdf/2306.14060.pdf)
 
 - (arXiv 2023.7) KOSMOS-2: **Grounding** **Multimodal** Large Language Models to the World, [[Paper]](https://arxiv.org/pdf/2306.14824.pdf), [[Project]](https://thegenerality.com/agi/)
