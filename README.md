@@ -5,9 +5,13 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) DRESS: **Instructing** Large **Vision-Language** Models to Align and Interact with Humans via Natural Language Feedback, [[Paper]](https://arxiv.org/pdf/2311.10081.pdf), [[Code]](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)
+
+- (arXiv 2023.11) GAIA: A **Benchmark** for General AI **Assistants**, [[Paper]](https://arxiv.org/pdf/2311.12983.pdf), [[Project]](https://huggingface.co/gaia-benchmark)
+
 - (arXiv 2023.11) PG-Video-LLaVA: Pixel Grounding Large **Video-Language** Models, [[Paper]](https://arxiv.org/pdf/2311.13435.pdf), [[Code]](https://github.com/mbzuai-oryx/Video-LLaVA)
 
-- (arXiv 2023.11) Enhancing **Scene Graph** Generation with Hierarchical Relationships and Commonsense Knowledge, [[Paper]](https://arxiv.org/pdf/2311.12889.pdf), [[Code]]()
+- (arXiv 2023.11) Enhancing **Scene Graph** Generation with Hierarchical Relationships and Commonsense Knowledge, [[Paper]](https://arxiv.org/pdf/2311.12889.pdf)
 
 - (arXiv 2023.11) AN EMBODIED GENERALIST **AGENT** IN **3D** WORLD, [[Paper]](https://arxiv.org/pdf/2311.12871.pdf), [[Project]](https://embodied-generalist.github.io/)
 
