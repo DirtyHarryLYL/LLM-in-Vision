@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Video-Bench: A Comprehensive **Benchmark** and **Toolkit** for Evaluating **Video**-based Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.16103.pdf), [[Code]](https://github.com/PKU-YuanGroup/Video-Bench)
+
+- (arXiv 2023.11) Self-correcting LLM-controlled **Diffusion** Models, [[Paper]](https://arxiv.org/pdf/2311.16090.pdf)
+
+- (arXiv 2023.11) InterControl: **Generate** Human **Motion** Interactions by Controlling Every Joint, [[Paper]](https://arxiv.org/pdf/2311.15864.pdf), [[Code]](https://github.com/zhenzhiwang/intercontrol)
+
 - (arXiv 2023.11) DRESS: **Instructing** Large **Vision-Language** Models to Align and Interact with Humans via Natural Language Feedback, [[Paper]](https://arxiv.org/pdf/2311.10081.pdf), [[Code]](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)
 
 - (arXiv 2023.11) GAIA: A **Benchmark** for General AI **Assistants**, [[Paper]](https://arxiv.org/pdf/2311.12983.pdf), [[Project]](https://huggingface.co/gaia-benchmark)
