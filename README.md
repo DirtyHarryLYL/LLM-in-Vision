@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) LLM-State: Expandable State Representation for Long-horizon Task **Planning** in the Open World, [[Paper]](https://arxiv.org/pdf/2311.17406.pdf)
+
 - (arXiv 2023.11) UniIR: Training and **Benchmarking** Universal **Multimodal** Information Retrievers, [[Paper]](https://arxiv.org/pdf/2311.17136.pdf), [[Project]](https://tiger-ai-lab.github.io/UniIR/)
 
 - (arXiv 2023.11) VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of **Video**-Language Models, [[Paper]](https://arxiv.org/pdf/2311.17404.pdf), [[Code]](https://github.com/lscpku/VITATECS)
