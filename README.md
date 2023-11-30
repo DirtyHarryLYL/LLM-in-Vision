@@ -5,6 +5,22 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) UniIR: Training and **Benchmarking** Universal **Multimodal** Information Retrievers, [[Paper]](https://arxiv.org/pdf/2311.17136.pdf), [[Project]](https://tiger-ai-lab.github.io/UniIR/)
+
+- (arXiv 2023.11) VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of **Video**-Language Models, [[Paper]](https://arxiv.org/pdf/2311.17404.pdf), [[Code]](https://github.com/lscpku/VITATECS)
+
+- (arXiv 2023.11) MM-Narrator: **Narrating** Long-form **Videos** with Multimodal In-Context Learning, [[Paper]](https://arxiv.org/pdf/2311.17435.pdf), [[Project]](https://mm-narrator.github.io/)
+
+- (arXiv 2023.11) Knowledge Pursuit Prompting for Zero-Shot **Multimodal** **Synthesis**, [[Paper]](https://arxiv.org/pdf/2311.17898.pdf)
+
+- (arXiv 2023.11) Evaluating VLMs for Score-Based, Multi-Probe **Annotation** of **3D** Objects, [[Paper]](https://arxiv.org/pdf/2311.17851.pdf)
+
+- (arXiv 2023.11) OPERA: Alleviating **Hallucination** in **Multi-Modal** Large Language Models via Over-Trust Penalty and Retrospection-Allocation, [[Paper]](https://arxiv.org/pdf/2311.17911.pdf), [[Code]](https://github.com/shikiw/OPERA)
+
+- (arXiv 2023.11) ShapeGPT: **3D Shape Generation** with A Unified Multi-modal Language Model, [[Paper]](https://arxiv.org/pdf/2311.17618.pdf), [[Project]](https://shapegpt.github.io/)
+
+- (arXiv 2023.11) VIM: **Probing** **Multimodal** Large Language Models for Visual Embedded Instruction Following, [[Paper]](https://arxiv.org/pdf/2311.17647.pdf), [[Project]](https://vim-bench.github.io/)
+
 - (arXiv 2023.11) Video-Bench: A Comprehensive **Benchmark** and **Toolkit** for Evaluating **Video**-based Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.16103.pdf), [[Code]](https://github.com/PKU-YuanGroup/Video-Bench)
 
 - (arXiv 2023.11) Self-correcting LLM-controlled **Diffusion** Models, [[Paper]](https://arxiv.org/pdf/2311.16090.pdf)
