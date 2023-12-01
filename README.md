@@ -5,6 +5,34 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) LALM: Long-Term **Action Anticipation** with Language Models, [[Paper]](https://arxiv.org/pdf/2311.17944.pdf)
+
+- (arXiv 2023.11) Contrastive **Vision-Language** Alignment Makes Efficient Instruction Learner, [[Paper]](https://arxiv.org/pdf/2311.17945.pdf), [[Code]](https://github.com/lizhaoliu-Lec/CG-VLM)
+
+- (arXiv 2023.11) ChatIllusion: Efficient-Aligning Interleaved **Generation** ability with Visual Instruction Model, [[Paper]](https://arxiv.org/pdf/2311.17963.pdf), [[Code]](https://github.com/litwellchi/ChatIllusion)
+
+- (arXiv 2023.11) MV-CLIP: Multi-View CLIP for Zero-shot **3D** Shape **Recognition**, [[Paper]](https://arxiv.org/pdf/2311.18402.pdf)
+
+- (arXiv 2023.11) VTimeLLM: Empower LLM to Grasp **Video** Moments, [[Paper]](https://arxiv.org/pdf/2311.18445.pdf), [[Code]](https://arxiv.org/pdf/2311.18445.pdf)
+
+- (arXiv 2023.11) Simple Semantic-Aided **Few-Shot** Learning, [[Paper]](https://arxiv.org/pdf/2311.18649.pdf)
+
+- (arXiv 2023.11) LL3DA: Visual Interactive Instruction Tuning for Omni-**3D** Understanding, Reasoning, and Planning, [[Paper]](https://arxiv.org/pdf/2311.18651.pdf), [[Project]](https://ll3da.github.io/)
+
+- (arXiv 2023.11) Detailed Human-Centric Text Description-Driven Large **Scene Synthesis**, [[Paper]](https://arxiv.org/pdf/2311.18654.pdf)
+
+- (arXiv 2023.11) X-InstructBLIP: A Framework for aligning **X-Modal** instruction-aware representations to LLMs and Emergent Cross-modal Reasoning, [[Paper]](https://arxiv.org/pdf/2311.18799.pdf), [[Code]](https://github.com/artemisp/LAVIS-XInstructBLIP)
+
+- (arXiv 2023.11) CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any **Generation**, [[Paper]](https://arxiv.org/pdf/2311.18775.pdf), [[Project]](https://codi-2.github.io/)
+
+- (arXiv 2023.11) AvatarGPT: All-in-One Framework for **Motion** Understanding, Planning, Generation and Beyond, [[Paper]](https://arxiv.org/pdf/2311.16468.pdf), [[Project]](https://zixiangzhou916.github.io/AvatarGPT/)
+
+- (arXiv 2023.11) InstructSeq: Unifying Vision Tasks with Instruction-conditioned **Multi-modal** Sequence **Generation**, [[Paper]](https://arxiv.org/pdf/2311.18835.pdf), [[Code]](https://github.com/rongyaofang/InstructSeq)
+
+- (arXiv 2023.11) MLLMs-Augmented **Visual-Language** Representation Learning, [[Paper]](https://arxiv.org/pdf/2311.18765.pdf), [[Code]](https://github.com/lyq312318224/MLLMs-Augmented)
+
+- (arXiv 2023.11) PoseGPT: Chatting about **3D** Human **Pose**, [[Paper]](https://arxiv.org/pdf/2311.18836.pdf), [[Project]](https://yfeng95.github.io/posegpt/)
+
 - (arXiv 2023.11) LLM-State: Expandable State Representation for Long-horizon Task **Planning** in the Open World, [[Paper]](https://arxiv.org/pdf/2311.17406.pdf)
 
 - (arXiv 2023.11) UniIR: Training and **Benchmarking** Universal **Multimodal** Information Retrievers, [[Paper]](https://arxiv.org/pdf/2311.17136.pdf), [[Project]](https://tiger-ai-lab.github.io/UniIR/)
