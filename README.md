@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Look Before You Leap: Unveiling the Power of GPT-4V in **Robotic** Vision-Language **Planning**, [[Paper]](https://arxiv.org/pdf/2311.17842.pdf), [[Project]](https://robot-vila.github.io/)
+
 - (arXiv 2023.11) LALM: Long-Term **Action Anticipation** with Language Models, [[Paper]](https://arxiv.org/pdf/2311.17944.pdf)
 
 - (arXiv 2023.11) Contrastive **Vision-Language** Alignment Makes Efficient Instruction Learner, [[Paper]](https://arxiv.org/pdf/2311.17945.pdf), [[Code]](https://github.com/lizhaoliu-Lec/CG-VLM)
