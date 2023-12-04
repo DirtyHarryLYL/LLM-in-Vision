@@ -1,6 +1,20 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2023.12
+
+<!-- - (arXiv 2023.12) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.12) LEAP: LLM-Generation of **Egocentric Action** Programs, [[Paper]](https://arxiv.org/pdf/2312.00055.pdf)
+
+- (arXiv 2023.12) OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General **Video** Recognition, [[Paper]](https://arxiv.org/pdf/2312.00096.pdf), [[Project]](https://tomchen-ctj.github.io/OST/)
+
+- (arXiv 2023.12) Merlin: Empowering **Multimodal** LLMs with Foresight Minds, [[Paper]](https://arxiv.org/pdf/2312.00589.pdf), [[Project]](https://ahnsun.github.io/merlin/)
+
+- (arXiv 2023.12) VIoTGPT: Learning to Schedule Vision **Tools** towards Intelligent **Video** Internet of Things, [[Paper]](https://arxiv.org/pdf/2312.00401.pdf), [[Code]]()
+
+- (arXiv 2023.12) Making Large **Multimodal** Models Understand Arbitrary Visual **Prompts**, [[Paper]](https://arxiv.org/pdf/2312.00784.pdf), [[Project]](https://vip-llava.github.io/)
+
 ### 2023.11
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
