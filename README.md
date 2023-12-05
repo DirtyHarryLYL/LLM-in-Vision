@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.12) Aligning and Prompting Everything All at Once for Universal Visual **Perception**, [[Paper]](https://arxiv.org/pdf/2312.02153.pdf), [[Code]](https://github.com/shenyunhang/APE)
+
 - (arXiv 2023.12) LEAP: LLM-Generation of **Egocentric Action** Programs, [[Paper]](https://arxiv.org/pdf/2312.00055.pdf)
 
 - (arXiv 2023.12) OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General **Video** Recognition, [[Paper]](https://arxiv.org/pdf/2312.00096.pdf), [[Project]](https://tomchen-ctj.github.io/OST/)
