@@ -3,7 +3,19 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 ### 2023.12
 
-<!-- - (arXiv 2023.12) , [[Paper]](), [[Code]]()-->
+<!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2023.12) WonderJourney: Going from Anywhere to Everywhere, [[Paper]](https://arxiv.org/pdf/2312.03884.pdf), [[Project]](https://kovenyu.com/wonderjourney/)
+
+- (arXiv 2023.12) VRPTEST: Evaluating Visual Referring **Prompting** in Large **Multimodal** Models, [[Paper]](https://arxiv.org/pdf/2312.04087.pdf), [[Code]](https://github.com/tszdanger/VisualReferPrompt)
+
+- (arXiv 2023.12) Text as Image: Learning Transferable Adapter for **Multi-Label Classification**, [[Paper]](https://arxiv.org/pdf/2312.04160.pdf)
+
+- (arXiv 2023.12) **Prompt** Highlighter: Interactive Control for **Multi-Modal** LLMs, [[Paper]](https://arxiv.org/pdf/2312.04302.pdf), [[Project]](https://julianjuaner.github.io/projects/PromptHighlighter/)
+
+- (arXiv 2023.12) Digital Life Project: Autonomous **3D Characters** with Social Intelligence, [[Paper]](https://arxiv.org/pdf/2312.04547.pdf), [[Project]](https://digital-life-project.com/)
+
+- (arXiv 2023.12) Generating Illustrated **Instructions**, [[Paper]](https://arxiv.org/pdf/2312.04552.pdf), [[Project]](https://facebookresearch.github.io/IllustratedInstructions/)
 
 - (arXiv 2023.12) Aligning and Prompting Everything All at Once for Universal Visual **Perception**, [[Paper]](https://arxiv.org/pdf/2312.02153.pdf), [[Code]](https://github.com/shenyunhang/APE)
 
