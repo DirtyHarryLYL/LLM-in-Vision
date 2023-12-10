@@ -698,6 +698,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.5) VideoChat: **Chat**-Centric **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2305.06355.pdf), [[Code]](https://github.com/OpenGVLab/Ask-Anything)
+
 - (arXiv 2023.5) Prompting Large Language Models with Answer Heuristics for Knowledge-based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2303.01903.pdf), [[Code]](https://github.com/MILVLG/prophet)
 
 - (arXiv 2023.5) VIMA: General **Robot Manipulation** with Multimodal Prompts, [[Paper]](https://arxiv.org/pdf/2210.03094.pdf), [[Project]](https://vimalabs.github.io/)
