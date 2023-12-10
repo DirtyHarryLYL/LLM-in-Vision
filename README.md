@@ -35,6 +35,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.11) Self-Chained Image-Language Model for **Video** Localization and Question Answering, [[Paper]](https://arxiv.org/pdf/2305.06988.pdf), [[Code]](https://github.com/Yui010206/SeViLA)
+
 - (arXiv 2023.11) Look Before You Leap: Unveiling the Power of GPT-4V in **Robotic** Vision-Language **Planning**, [[Paper]](https://arxiv.org/pdf/2311.17842.pdf), [[Project]](https://robot-vila.github.io/)
 
 - (arXiv 2023.11) LALM: Long-Term **Action Anticipation** with Language Models, [[Paper]](https://arxiv.org/pdf/2311.17944.pdf)
@@ -641,6 +643,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.6
 
 <!-- - (arXiv 2023.6) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.6) MultiModal-GPT: A **Vision** and **Language** Model for Dialogue with Humans, [[Paper]](https://arxiv.org/pdf/2305.04790.pdf), [[Code]](https://github.com/open-mmlab/Multimodal-GPT)
+
+- (arXiv 2023.6) InternGPT: Solving **Vision**-Centric Tasks by Interacting with ChatGPT Beyond **Language**, [[Paper]](https://arxiv.org/pdf/2305.05662.pdf), [[Code]](https://github.com/OpenGVLab/InternGPT)
+
+- (arXiv 2023.6) InstructBLIP: Towards General-purpose **Vision-Language** Models with Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2305.06500.pdf), [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
 
 - (arXiv 2023.6) LAMM: Language-Assisted **Multi-Modal Instruction-Tuning** Dataset, Framework, and Benchmark, [[Paper]](https://arxiv.org/pdf/2306.06687.pdf), [[Code]](https://github.com/OpenLAMM/LAMM)
 
