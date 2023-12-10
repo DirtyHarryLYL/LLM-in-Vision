@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) Human Demonstrations are Generalizable Knowledge for **Robots**, [[Paper]](https://arxiv.org/pdf/2312.02419.pdf)
+
 - (arXiv 2023.12) WonderJourney: Going from Anywhere to Everywhere, [[Paper]](https://arxiv.org/pdf/2312.03884.pdf), [[Project]](https://kovenyu.com/wonderjourney/)
 
 - (arXiv 2023.12) VRPTEST: Evaluating Visual Referring **Prompting** in Large **Multimodal** Models, [[Paper]](https://arxiv.org/pdf/2312.04087.pdf), [[Code]](https://github.com/tszdanger/VisualReferPrompt)
