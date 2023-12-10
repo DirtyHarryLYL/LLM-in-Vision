@@ -706,6 +706,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.5) Otter: A **Multi-Modal** Model with In-Context **Instruction** Tuning, [[Paper]](https://arxiv.org/pdf/2305.03726.pdf), [[Code]](https://github.com/Luodian/Otter)
+
 - (arXiv 2023.5) VideoChat: **Chat**-Centric **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2305.06355.pdf), [[Code]](https://github.com/OpenGVLab/Ask-Anything)
 
 - (arXiv 2023.5) Prompting Large Language Models with Answer Heuristics for Knowledge-based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2303.01903.pdf), [[Code]](https://github.com/MILVLG/prophet)
