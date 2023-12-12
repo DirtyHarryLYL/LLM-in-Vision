@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) LEGO: Learning **EGOcentric Action** Frame **Generation** via Visual Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2312.03849.pdf)
+
 - (arXiv 2023.12) Localized Symbolic Knowledge Distillation for **Visual Commonsense** Models, [[Paper]](https://arxiv.org/pdf/2312.04837.pdf), [[Project]](https://github.com/jamespark3922/lskd)
 
 - (arXiv 2023.12) MoVQA: A Benchmark of Versatile **Question-Answering** for Long-Form **Movie** Understanding, [[Paper]](https://arxiv.org/pdf/2312.04817.pdf), [[Project]](https://movqa.github.io/)
