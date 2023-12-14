@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) Modality Plug-and-Play: Elastic Modality Adaptation in **Multimodal** LLMs for **Embodied AI**, [[Paper]](https://arxiv.org/pdf/2312.07886.pdf), [[Project]](https://github.com/pittisl/mPnP-LLM)
+
+- (arXiv 2023.12) FROM TEXT TO MOTION: GROUNDING GPT-4 IN A HUMANOID **ROBOT** “ALTER3”, [[Paper]](https://arxiv.org/pdf/2312.06571.pdf), [[Project]](https://tnoinkwms.github.io/ALTER-LLM/)
+
+- (arXiv 2023.12) Interactive Planning Using Large Language Models for Partially Observable **Robotics** Tasks, [[Paper]](https://arxiv.org/pdf/2312.06876.pdf)
+
 - (arXiv 2023.12) LifelongMemory: Leveraging LLMs for Answering Queries in **Egocentric Videos**, [[Paper]](https://arxiv.org/pdf/2312.05269.pdf)
 
 - (arXiv 2023.12) LEGO: Learning **EGOcentric Action** Frame **Generation** via Visual Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2312.03849.pdf)
