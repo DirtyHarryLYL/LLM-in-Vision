@@ -5,6 +5,20 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) TUNING LAYERNORM IN ATTENTION: TOWARDS **EFFICIENT** MULTI-MODAL LLM **FINETUNING**, [[Paper]](https://arxiv.org/pdf/2312.11420.pdf)
+
+- (arXiv 2023.12) GSVA: Generalized **Segmentation** via Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.10103.pdf), [[Project]](https://github.com/LeapLabTHU/GSVA)
+
+- (arXiv 2023.12) SILKIE: **PREFERENCE DISTILLATION** FOR LARGE VISUAL LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2312.10665.pdf), [[Project]](https://vlf-silkie.github.io/)
+
+- (arXiv 2023.12) AN **EVALUATION** OF GPT-4V AND GEMINI IN ONLINE **VQA**, [[Paper]](https://arxiv.org/pdf/2312.10637.pdf)
+
+- (arXiv 2023.12) CEIR: CONCEPT-BASED **EXPLAINABLE** **IMAGE** REPRESENTATION LEARNING, [[Paper]](https://arxiv.org/pdf/2312.10747.pdf), [[Project]](https://github.com/ShuhongLL/CEIR)
+
+- (arXiv 2023.12) Language-Assisted **3D Scene** Understanding, [[Paper]](https://arxiv.org/pdf/2312.11451.pdf), [[Project]](https://github.com/yanmin-wu/LAST-PCL)
+
+- (arXiv 2023.12) M3DBench: Let’s Instruct Large Models with Multi-modal **3D** Prompts, [[Paper]](https://arxiv.org/pdf/2312.10763.pdf), [[Project]](https://github.com/OpenM3D/M3DBench/)
+
 - (arXiv 2023.12) Modality Plug-and-Play: Elastic Modality Adaptation in **Multimodal** LLMs for **Embodied AI**, [[Paper]](https://arxiv.org/pdf/2312.07886.pdf), [[Project]](https://github.com/pittisl/mPnP-LLM)
 
 - (arXiv 2023.12) FROM TEXT TO MOTION: GROUNDING GPT-4 IN A HUMANOID **ROBOT** “ALTER3”, [[Paper]](https://arxiv.org/pdf/2312.06571.pdf), [[Project]](https://tnoinkwms.github.io/ALTER-LLM/)
