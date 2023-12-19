@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) M^2ConceptBase: A Fine-grained Aligned **Multi-modal** Conceptual Knowledge Base, [[Paper]](https://arxiv.org/pdf/2312.10417.pdf)
+
+- (arXiv 2023.12) Language-conditioned Learning for **Robotic** **Manipulation**: A Survey, [[Paper]](https://arxiv.org/pdf/2312.10807.pdf)
+
 - (arXiv 2023.12) TUNING LAYERNORM IN ATTENTION: TOWARDS **EFFICIENT** MULTI-MODAL LLM **FINETUNING**, [[Paper]](https://arxiv.org/pdf/2312.11420.pdf)
 
 - (arXiv 2023.12) GSVA: Generalized **Segmentation** via Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.10103.pdf), [[Project]](https://github.com/LeapLabTHU/GSVA)
