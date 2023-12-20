@@ -5,6 +5,22 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) Assessing GPT4-V on **Structured Reasoning** Tasks, [[Paper]](https://arxiv.org/pdf/2312.11524.pdf), [[Project]]()
+
+- (arXiv 2023.12) Iterative **Motion Editing** with Natural Language, [[Paper]](https://arxiv.org/pdf/2312.11538.pdf), [[Project]]()
+
+- (arXiv 2023.12) **Gemini**: A Family of Highly Capable **Multimodal** Models, [[Paper]](https://arxiv.org/pdf/2312.11805.pdf), [[Project]](https://deepmind.google/gemini)
+
+- (arXiv 2023.12) StarVector: Generating **Scalable Vector Graphics** Code from Images, [[Paper]](https://arxiv.org/pdf/2312.11556.pdf), [[Project]](https://github.com/joanrod/star-vector)
+
+- (arXiv 2023.12) Text-Conditioned Resampler For Long Form **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2312.11897.pdf)
+
+- (arXiv 2023.12) Mixture of Cluster-conditional LoRA Experts for Vision-language **Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2312.12379.pdf)
+
+- (arXiv 2023.12) A Challenger to **GPT-4V**? Early Explorations of **Gemini** in Visual Expertise, [[Paper]](https://arxiv.org/pdf/2312.12436.pdf), [[Project]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+- (arXiv 2023.12) Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine **Vision-Language** Model, [[Paper]](https://arxiv.org/pdf/2312.12423.pdf), [[Project]](https://shramanpramanick.github.io/VistaLLM/)
+
 - (arXiv 2023.12) M^2ConceptBase: A Fine-grained Aligned **Multi-modal** Conceptual Knowledge Base, [[Paper]](https://arxiv.org/pdf/2312.10417.pdf)
 
 - (arXiv 2023.12) Language-conditioned Learning for **Robotic** **Manipulation**: A Survey, [[Paper]](https://arxiv.org/pdf/2312.10807.pdf)
