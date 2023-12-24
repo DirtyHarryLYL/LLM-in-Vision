@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) MotionScript: Natural Language Descriptions for Expressive **3D Human Motions**, [[Paper]](https://arxiv.org/pdf/2312.12634.pdf), [[Project]](https://pjyazdian.github.io/MotionScript/)
+
 - (arXiv 2023.12) Assessing GPT4-V on **Structured Reasoning** Tasks, [[Paper]](https://arxiv.org/pdf/2312.11524.pdf), [[Project]]()
 
 - (arXiv 2023.12) Iterative **Motion Editing** with Natural Language, [[Paper]](https://arxiv.org/pdf/2312.11538.pdf), [[Project]]()
