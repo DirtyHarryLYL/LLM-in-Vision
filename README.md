@@ -408,6 +408,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.9) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.9) LMEye: An **Interactive** Perception Network for Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.03701.pdf), [[Code]](https://github.com/YunxinLi/LingCloud)
+
 - (arXiv 2023.9) DynaCon: Dynamic **Robot Planner** with Contextual Awareness via LLMs, [[Paper]](https://arxiv.org/pdf/2309.16031.pdf), [[Project]](https://sites.google.com/view/dynacon)
 
 - (arXiv 2023.9) AnyMAL: An Efficient and Scalable **Any-Modality** Augmented Language Model, [[Paper]](https://arxiv.org/pdf/2309.16058.pdf)
@@ -755,6 +757,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.5
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) X-LLM: Bootstrapping Advanced Large Language Models by Treating **Multi-Modalities** as Foreign Languages, [[Paper]](https://arxiv.org/pdf/2305.04160.pdf), [[Project]](https://x-llm.github.io/)
 
 - (arXiv 2023.5) Otter: A **Multi-Modal** Model with In-Context **Instruction** Tuning, [[Paper]](https://arxiv.org/pdf/2305.03726.pdf), [[Code]](https://github.com/Luodian/Otter)
 
