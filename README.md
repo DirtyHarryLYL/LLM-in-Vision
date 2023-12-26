@@ -5,6 +5,26 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) Osprey: Pixel Understanding with **Visual Instruction** Tuning, [[Paper]](https://arxiv.org/pdf/2312.10032.pdf), [[Project]](https://github.com/CircleRadon/Osprey)
+
+- (arXiv 2023.12) 3DAxiesPrompts: Unleashing the **3D Spatial** Task Capabilities of GPT-4V, [[Paper]](https://arxiv.org/pdf/2312.09738.pdf)
+
+- (arXiv 2023.12) SMILE: Multimodal Dataset for Understanding **Laughter** in **Video** with Language Models, [[Paper]](https://arxiv.org/pdf/2312.09818.pdf), [[Project]](https://github.com/SMILE-data/SMILE)
+
+- (arXiv 2023.12) VideoPoet: A Large Language Model for Zero-Shot **Video Generation**, [[Paper]](https://arxiv.org/pdf/2312.14125.pdf), [[Project]](https://sites.research.google/videopoet/)
+
+- (arXiv 2023.12) V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs, [[Paper]](https://arxiv.org/pdf/2312.14135.pdf), [[Project]](https://vstar-seal.github.io/)
+
+- (arXiv 2023.12) A Semantic Space is Worth 256 Language Descriptions: Make Stronger **Segmentation** Models with Descriptive Properties, [[Paper]](https://arxiv.org/pdf/2312.13764.pdf), [[Project]](https://github.com/lambert-x/ProLab)
+
+- (arXiv 2023.12) AppAgent: **Multimodal** **Agents** as Smartphone Users, [[Paper]](https://arxiv.org/pdf/2312.13771.pdf), [[Project]](https://appagent-official.github.io/)
+
+- (arXiv 2023.12) InfoVisDial: An Informative **Visual Dialogue** **Dataset** by Bridging Large Multimodal and Language Models, [[Paper]](https://arxiv.org/pdf/2312.13503.pdf), [[Project]]()
+
+- (arXiv 2023.12) Not All Steps are Equal: Efficient Generation with Progressive **Diffusion** Models, [[Paper]](https://arxiv.org/pdf/2312.13307.pdf)
+
+- (arXiv 2023.12) Generative **Multimodal** Models are In-Context Learners, [[Paper]](https://arxiv.org/pdf/2312.13286.pdf), [[Project]](https://baaivision.github.io/emu2/)
+
 - (arXiv 2023.12) VCoder: Versatile Vision Encoders for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.14233.pdf), [[Project]](https://github.com/SHI-Labs/VCoder)
 
 - (arXiv 2023.12) LLM4VG: Large Language Models Evaluation for **Video Grounding**, [[Paper]](https://arxiv.org/pdf/2312.14206.pdf)
