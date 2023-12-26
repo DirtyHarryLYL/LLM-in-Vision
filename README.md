@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) VCoder: Versatile Vision Encoders for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.14233.pdf), [[Project]](https://github.com/SHI-Labs/VCoder)
+
+- (arXiv 2023.12) LLM4VG: Large Language Models Evaluation for **Video Grounding**, [[Paper]](https://arxiv.org/pdf/2312.14206.pdf)
+
+- (arXiv 2023.12) InternVL: Scaling up Vision Foundation Models and Aligning for Generic **Visual-Linguistic** Tasks, [[Paper]](https://arxiv.org/pdf/2312.14238.pdf), [[Project]](https://github.com/OpenGVLab/InternVL)
+
+- (arXiv 2023.12) VIEScore: Towards Explainable **Metrics** for Conditional **Image Synthesis** Evaluation, [[Paper]](https://arxiv.org/pdf/2312.14867.pdf), [[Project]](https://tiger-ai-lab.github.io/VIEScore/)
+
+- (arXiv 2023.12) Plan, Posture and Go: Towards Open-World **Text-to-Motion** Generation, [[Paper]](https://arxiv.org/pdf/2312.14828.pdf), [[Project]](https://moonsliu.github.io/Pro-Motion/)
+
 - (arXiv 2023.12) MotionScript: Natural Language Descriptions for Expressive **3D Human Motions**, [[Paper]](https://arxiv.org/pdf/2312.12634.pdf), [[Project]](https://pjyazdian.github.io/MotionScript/)
 
 - (arXiv 2023.12) Assessing GPT4-V on **Structured Reasoning** Tasks, [[Paper]](https://arxiv.org/pdf/2312.11524.pdf), [[Project]]()
