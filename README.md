@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) ChartBench: A Benchmark for Complex **Visual Reasoning** in **Charts**, [[Paper]](https://arxiv.org/pdf/2312.15915.pdf)
+
+- (arXiv 2023.12) FoundationPose: Unified **6D Pose** Estimation and Tracking of Novel Objects, [[Paper]](https://arxiv.org/pdf/2312.08344.pdf), [[Project]](https://nvlabs.github.io/FoundationPose/)
+
+- (arXiv 2023.12) Make-A-Character: High Quality **Text-to-3D** **Character** Generation within Minutes, [[Paper]](https://arxiv.org/pdf/2312.15430.pdf), [[Project]](https://human3daigc.github.io/MACH/)
+
 - (arXiv 2023.12) Osprey: Pixel Understanding with **Visual Instruction** Tuning, [[Paper]](https://arxiv.org/pdf/2312.10032.pdf), [[Project]](https://github.com/CircleRadon/Osprey)
 
 - (arXiv 2023.12) 3DAxiesPrompts: Unleashing the **3D Spatial** Task Capabilities of GPT-4V, [[Paper]](https://arxiv.org/pdf/2312.09738.pdf)
