@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) DiffVL: Scaling Up **Soft Body Manipulation** using Vision-Language Driven Differentiable Physics, [[Paper]](https://arxiv.org/pdf/2312.06408.pdf), [[Project]](https://sites.google.com/view/diffvl/home)
+
+- (arXiv 2023.12) VISTA-LLAMA: Reliable **Video Narrator** via Equal Distance to Visual Tokens, [[Paper]](https://arxiv.org/pdf/2312.08870.pdf), [[Project]](https://jinxxian.github.io/Vista-LLaMA/)
+
 - (arXiv 2023.12) VL-GPT: A Generative Pre-trained Transformer for **Vision and Language** Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2312.09251.pdf), [[Project]](https://github.com/AILab-CVC/VL-GPT)
 
 - (arXiv 2023.12) **Pixel Aligned** Language Models, [[Paper]](https://arxiv.org/pdf/2312.09237.pdf), [[Project]](https://jerryxu.net/PixelLLM/)
