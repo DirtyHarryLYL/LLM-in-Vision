@@ -5,6 +5,24 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) VL-GPT: A Generative Pre-trained Transformer for **Vision and Language** Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2312.09251.pdf), [[Project]](https://github.com/AILab-CVC/VL-GPT)
+
+- (arXiv 2023.12) **Pixel Aligned** Language Models, [[Paper]](https://arxiv.org/pdf/2312.09237.pdf), [[Project]](https://jerryxu.net/PixelLLM/)
+
+- (arXiv 2023.12) Grounding-Prompter: Prompting LLM with Multimodal Information for **Temporal Sentence Grounding** in Long Videos, [[Paper]](https://arxiv.org/pdf/2312.17117.pdf)
+
+- (arXiv 2023.12) Q-ALIGN: Teaching LMMs for **Visual Scoring** via Discrete Text-Defined Levels, [[Paper]](https://arxiv.org/pdf/2312.17090.pdf), [[Project]](https://github.com/Q-Future/Q-Align)
+
+- (arXiv 2023.12) Osprey: Pixel Understanding with **Visual Instruction** Tuning, [[Paper]](https://arxiv.org/pdf/2312.10032.pdf), [[Project]](https://github.com/CircleRadon/Osprey)
+
+- (arXiv 2023.12) Unified-IO 2: Scaling Autoregressive **Multimodal** Models with Vision, Language, Audio, and Action, [[Paper]](https://arxiv.org/pdf/2312.17172.pdf), [[Project]](https://unified-io-2.allenai.org/)
+
+- (arXiv 2023.12) A Simple LLM Framework for Long-Range **Video Question-Answering**, [[Paper]](https://arxiv.org/pdf/2312.17235.pdf), [[Project]](https://github.com/CeeZh/LLoVi)
+
+- (arXiv 2023.12) TinyGPT-V: **Efficient** **Multimodal** Large Language Model via Small Backbones, [[Paper]](https://arxiv.org/pdf/2312.16862.pdf), [[Project]](https://github.com/DLYuanGod/TinyGPT-V)
+
+- (arXiv 2023.12) ManipLLM: Embodied Multimodal Large Language Model for Object-Centric **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2312.16217.pdf), [[Project]](https://sites.google.com/view/manipllm)
+
 - (arXiv 2023.12) ChartBench: A Benchmark for Complex **Visual Reasoning** in **Charts**, [[Paper]](https://arxiv.org/pdf/2312.15915.pdf)
 
 - (arXiv 2023.12) FoundationPose: Unified **6D Pose** Estimation and Tracking of Novel Objects, [[Paper]](https://arxiv.org/pdf/2312.08344.pdf), [[Project]](https://nvlabs.github.io/FoundationPose/)
