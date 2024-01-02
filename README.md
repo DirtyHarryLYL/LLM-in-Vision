@@ -5,6 +5,18 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) AllSpark: a **multimodal** **spatiotemporal** general model, [[Paper]](https://arxiv.org/pdf/2401.00546.pdf)
+
+- (arXiv 2023.12) **Tracking** with Human-Intent Reasoning, [[Paper]](https://arxiv.org/pdf/2312.17448.pdf), [[Project]](https://github.com/jiawen-zhu/TrackGPT)
+
+- (arXiv 2023.12) Retrieval-Augmented Egocentric **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2401.00789.pdf)
+
+- (arXiv 2023.12) COSMO: COntrastive Streamlined **MultimOdal** Model with Interleaved **Pre-Training**, [[Paper]](https://arxiv.org/pdf/2401.00849.pdf), [[Project]](https://fingerrec.github.io/cosmo/)
+
+- (arXiv 2023.12) LARP: LANGUAGE-**AGENT** ROLE PLAY FOR OPEN-WORLD **GAMES**, [[Paper]](https://arxiv.org/pdf/2312.17653.pdf), [[Project]](https://arxiv.org/pdf/2312.17653.pdf)
+
+- (arXiv 2023.12) CLOVA: A Closed-LOop Visual Assistant with **Tool** Usage and Update, [[Paper]](https://arxiv.org/pdf/2312.10908.pdf), [[Project]](https://clova-tool.github.io/)
+
 - (arXiv 2023.12) DiffVL: Scaling Up **Soft Body Manipulation** using Vision-Language Driven Differentiable Physics, [[Paper]](https://arxiv.org/pdf/2312.06408.pdf), [[Project]](https://sites.google.com/view/diffvl/home)
 
 - (arXiv 2023.12) VISTA-LLAMA: Reliable **Video Narrator** via Equal Distance to Visual Tokens, [[Paper]](https://arxiv.org/pdf/2312.08870.pdf), [[Project]](https://jinxxian.github.io/Vista-LLaMA/)
