@@ -1,6 +1,12 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2024.1
+
+<!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.1) LLaVA-ϕ: Efficient Multi-Modal **Assistant** with Small Language Model, [[Paper]](https://arxiv.org/pdf/2401.02330.pdf), [[Project]](https://github.com/zhuyiche/llava-phi)
+
 ### 2023.12
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
