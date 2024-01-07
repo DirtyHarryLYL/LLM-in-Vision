@@ -5,11 +5,34 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) Towards Truly Zero-shot Compositional **Visual Reasoning** with LLMs as Programmers, [[Paper]](https://arxiv.org/pdf/2401.01974.pdf)
+
+- (arXiv 2024.1) A Vision **Check-up** for Language Models, [[Paper]](https://arxiv.org/pdf/2401.01862.pdf), [[Project]](https://vision-checkup.csail.mit.edu/)
+
+- (arXiv 2024.1) GPT-4V(ision) is a Generalist **Web** **Agent**, if Grounded, [[Paper]](https://arxiv.org/pdf/2401.01614.pdf), [[Project]](https://github.com/OSU-NLP-Group/SeeAct)
+
 - (arXiv 2024.1) LLaVA-ϕ: Efficient Multi-Modal **Assistant** with Small Language Model, [[Paper]](https://arxiv.org/pdf/2401.02330.pdf), [[Project]](https://github.com/zhuyiche/llava-phi)
 
 ### 2023.12
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2023.12) EgoPlan-Bench: Benchmarking **Egocentric** **Embodied** Planning with Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.06722.pdf), [[Project]](https://github.com/ChenYi99/EgoPlan)
+
+- (arXiv 2023.12) AM-RADIO: Agglomerative Model – Reduce All **Domains** Into One, [[Paper]](https://arxiv.org/pdf/2312.06709.pdf), [[Project]](https://github.com/NVlabs/RADIO)
+
+- (arXiv 2023.12) Leveraging Generative Language Models for Weakly Supervised Sentence Component Analysis in **Video-Language** Joint Learning, [[Paper]](https://arxiv.org/pdf/2312.06699.pdf)
+
+- (arXiv 2023.12) How Well Does GPT-4V(ision) Adapt to **Distribution Shifts**? A Preliminary Investigation, [[Paper]](https://arxiv.org/pdf/2312.07424.pdf), [[Project]](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)
+
+- (arXiv 2023.12) **Audio-Visual** LLM for Video Understanding, [[Paper]](https://arxiv.org/pdf/2312.06720.pdf)
+
+- (arXiv 2023.12) AnyHome: Open-Vocabulary **Generation** of Structured and Textured **3D Homes**, [[Paper]](https://arxiv.org/pdf/2312.06644.pdf), [[Project]](https://freddierao.github.io/AnyHome/)
+
+- (arXiv 2023.12) Learning **Hierarchical Prompt** with Structured Linguistic Knowledge for Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2312.06323.pdf), [[Project]]( https://
+github.com/Vill-Lab/2024-AAAI-HPT)
+
+- (arXiv 2023.12) Vary: Scaling up the Vision Vocabulary for Large **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2312.06109.pdf), [[Project]](https://varybase.github.io/)
 
 - (arXiv 2023.12) AllSpark: a **multimodal** **spatiotemporal** general model, [[Paper]](https://arxiv.org/pdf/2401.00546.pdf)
 
