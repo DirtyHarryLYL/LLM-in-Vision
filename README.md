@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) Object-Centric Instruction Augmentation for **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2401.02814.pdf), [[Project]](https://oci-robotics.github.io/)
+
 - (arXiv 2024.1) Towards Truly Zero-shot Compositional **Visual Reasoning** with LLMs as Programmers, [[Paper]](https://arxiv.org/pdf/2401.01974.pdf)
 
 - (arXiv 2024.1) A Vision **Check-up** for Language Models, [[Paper]](https://arxiv.org/pdf/2401.01862.pdf), [[Project]](https://vision-checkup.csail.mit.edu/)
@@ -16,6 +18,42 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.12
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2023.12) VaQuitA: Enhancing Alignment in LLM-Assisted **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2312.02310.pdf)
+
+- (arXiv 2023.12) StoryGPT-V: Large Language Models as Consistent **Story Visualizers**, [[Paper]](https://arxiv.org/pdf/2312.02252.pdf), [[Project]](https://xiaoqian-shen.github.io/StoryGPT-V)
+
+- (arXiv 2023.12) Diversify, Don’t Fine-Tune: Scaling Up Visual **Recognition** **Training** with **Synthetic** Images, [[Paper]](https://arxiv.org/pdf/2312.02253.pdf)
+
+- (arXiv 2023.12) Recursive **Visual Programming**, [[Paper]](https://arxiv.org/pdf/2312.02249.pdf)
+
+- (arXiv 2023.12) PixelLM: **Pixel** Reasoning with Large Multimodal Model, [[Paper]](https://arxiv.org/pdf/2312.02228.pdf)
+
+- (arXiv 2023.12) Generating Action-conditioned Prompts for Open-vocabulary **Video Action** Recognition, [[Paper]](https://arxiv.org/pdf/2312.02226.pdf)
+
+- (arXiv 2023.12) Behind the Magic, MERLIM: Multi-modal Evaluation **Benchmark** for Large **Image-Language** Models, [[Paper]](https://arxiv.org/pdf/2312.02219.pdf), [[Project]](https://github.com/ojedaf/MERLIM)
+
+- (arXiv 2023.12) **Video** Summarization: Towards Entity-Aware **Captions**, [[Paper]](https://arxiv.org/pdf/2312.02188.pdf)
+
+- (arXiv 2023.12) VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2312.08367.pdf)
+
+- (arXiv 2023.12) See, Say, and **Segment**: Teaching LMMs to Overcome False Premises, [[Paper]](https://arxiv.org/pdf/2312.08366.pdf), [[Project]](https://see-say-segment.github.io/)
+
+- (arXiv 2023.12) Chat-3D v2: Bridging **3D Scene** and Large Language Models with Object Identifiers, [[Paper]](https://arxiv.org/pdf/2312.08168.pdf)
+
+- (arXiv 2023.12) Interfacing Foundation Models’ **Embeddings**, [[Paper]](https://arxiv.org/pdf/2312.07532.pdf), [[Project]](https://github.com/UX-Decoder/FIND)
+
+- (arXiv 2023.12) VILA: On Pre-training for **Visual Language** Models, [[Paper]](https://arxiv.org/pdf/2312.07533.pdf)
+
+- (arXiv 2023.12) MP5: A Multi-modal Open-ended Embodied System in **Minecraft** via Active Perception, [[Paper]](https://arxiv.org/pdf/2312.07472.pdf), [[Project]](https://iranqin.github.io/MP5.github.io/)
+
+- (arXiv 2023.12) Hallucination Augmented Contrastive Learning for **Multimodal** Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.06968.pdf)
+
+- (arXiv 2023.12) Honeybee: Locality-enhanced Projector for **Multimodal** LLM, [[Paper]](https://arxiv.org/pdf/2312.06742.pdf), [[Project]](https://github.com/kakaobrain/honeybee)
+
+- (arXiv 2023.12) SmartEdit: Exploring Complex Instruction-based **Image Editing** with Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.06739.pdf), [[Project]](https://github.com/TencentARC/SmartEdit)
+
+- (arXiv 2023.12) InstructAny2Pix: Flexible **Visual Editing** via Multimodal Instruction Following, [[Paper]](https://arxiv.org/pdf/2312.06738.pdf), [[Project]](https://github.com/jacklishufan/InstructAny2Pix)
 
 - (arXiv 2023.12) EgoPlan-Bench: Benchmarking **Egocentric** **Embodied** Planning with Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2312.06722.pdf), [[Project]](https://github.com/ChenYi99/EgoPlan)
 
