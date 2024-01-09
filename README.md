@@ -5,6 +5,22 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) EXPLORING LARGE LANGUAGE MODEL BASED INTELLIGENT **AGENTS**: DEFINITIONS, METHODS, AND PROSPECTS, [[Paper]](https://arxiv.org/pdf/2401.03428.pdf)
+
+- (arXiv 2024.1) **AGENT** AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION, [[Paper]](https://arxiv.org/pdf/2401.03568.pdf)
+
+- (arXiv 2024.1) ExTraCT – Explainable **Trajectory Corrections** from language inputs using Textual description of features, [[Paper]](https://arxiv.org/pdf/2401.03701.pdf)
+
+- (arXiv 2024.1) Incorporating Visual **Experts** to Resolve the Information Loss in **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2401.03105.pdf)
+
+- (arXiv 2024.1) GPT-4V(ision) is a Human-Aligned Evaluator for **Text-to-3D** Generation, [[Paper]](https://arxiv.org/pdf/2401.04092.pdf), [[Project]](https://gpteval3d.github.io/)
+
+- (arXiv 2024.1) Large Language Models as Visual **Cross-Domain** Learners, [[Paper]](https://arxiv.org/pdf/2401.03253.pdf), [[Project]](https://ll-a-vo.github.io/)
+
+- (arXiv 2024.1) 3DMIT: **3D** MULTI-MODAL INSTRUCTION TUNING FOR SCENE UNDERSTANDING, [[Paper]](https://arxiv.org/pdf/2401.03201.pdf), [[Project]](https://github.com/staymylove/3DMIT)
+
+- (arXiv 2024.1) CaMML: **Context**-Aware **Multimodal** Learner for Large Models, [[Paper]](https://arxiv.org/pdf/2401.03149.pdf)
+
 - (arXiv 2024.1) Object-Centric Instruction Augmentation for **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2401.02814.pdf), [[Project]](https://oci-robotics.github.io/)
 
 - (arXiv 2024.1) Towards Truly Zero-shot Compositional **Visual Reasoning** with LLMs as Programmers, [[Paper]](https://arxiv.org/pdf/2401.01974.pdf)
