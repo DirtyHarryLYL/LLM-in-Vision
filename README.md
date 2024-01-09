@@ -35,6 +35,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) BenchLMM: Benchmarking **Cross-style** Visual Capability of Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2312.02896.pdf), [[Project]](https://github.com/AIFEG/BenchLMM)
+
+- (arXiv 2023.12) Generating Fine-Grained Human **Motions** Using ChatGPT-Refined Descriptions, [[Paper]](https://arxiv.org/pdf/2312.02772.pdf), [[Project]](https://sx0207.github.io/fg-mdm/)
+
+- (arXiv 2023.12) Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual **Robustness** via Denoising In-Context Learning, [[Paper]](https://arxiv.org/pdf/2312.02546.pdf), [[Project]](https://github.com/tmllab/Machine_Vision_Therapy)
+
+- (arXiv 2023.12) ETC: Temporal Boundary Expand then Clarify for Weakly Supervised **Video Grounding** with Multimodal Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.02483.pdf)
+
+- (arXiv 2023.12) Lenna: Language Enhanced **Reasoning** **Detection** Assistant, [[Paper]](https://arxiv.org/pdf/2312.02433.pdf), [[Project]](https://github.com/Meituan-AutoML/Lenna)
+
 - (arXiv 2023.12) VaQuitA: Enhancing Alignment in LLM-Assisted **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2312.02310.pdf)
 
 - (arXiv 2023.12) StoryGPT-V: Large Language Models as Consistent **Story Visualizers**, [[Paper]](https://arxiv.org/pdf/2312.02252.pdf), [[Project]](https://xiaoqian-shen.github.io/StoryGPT-V)
