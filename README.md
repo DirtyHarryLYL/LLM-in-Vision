@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) REPLAN: **ROBOTIC** REPLANNING WITH PERCEPTION AND LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.04157.pdf), [[Project]](https://replan-lm.github.io/replan.github.io/)
+
 - (arXiv 2024.1) Language-Conditioned Robotic **Manipulation** with Fast and Slow Thinking, [[Paper]](https://arxiv.org/pdf/2401.04181.pdf), [[Project]](https://jlm-z.github.io/RSFT/)
 
 - (arXiv 2024.1) FunnyNet-W: Multimodal Learning of Funny Moments in **Videos** in the Wild, [[Paper]](https://arxiv.org/pdf/2401.04210.pdf)
