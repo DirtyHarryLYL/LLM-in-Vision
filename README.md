@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) Language-Conditioned Robotic **Manipulation** with Fast and Slow Thinking, [[Paper]](https://arxiv.org/pdf/2401.04181.pdf), [[Project]](https://jlm-z.github.io/RSFT/)
+
+- (arXiv 2024.1) FunnyNet-W: Multimodal Learning of Funny Moments in **Videos** in the Wild, [[Paper]](https://arxiv.org/pdf/2401.04210.pdf)
+
+- (arXiv 2024.1) REBUS: A Robust Evaluation Benchmark of Understanding **Symbols**, [[Paper]](https://arxiv.org/pdf/2401.05604.pdf), [[Project]](https://github.com/cvndsh/rebus)
+
+- (arXiv 2024.1) LEGO:Language Enhanced Multi-modal **Grounding** Model, [[Paper]](https://arxiv.org/pdf/2401.06071.pdf), [[Project]](https://lzw-lzw.github.io/LEGO.github.io/)
+
+- (arXiv 2024.1) Distilling Vision-**Language** Models on Millions of **Videos**, [[Paper]](https://arxiv.org/pdf/2401.06129.pdf)
+
 - (arXiv 2024.1) EXPLORING LARGE LANGUAGE MODEL BASED INTELLIGENT **AGENTS**: DEFINITIONS, METHODS, AND PROSPECTS, [[Paper]](https://arxiv.org/pdf/2401.03428.pdf)
 
 - (arXiv 2024.1) **AGENT** AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION, [[Paper]](https://arxiv.org/pdf/2401.03568.pdf)
