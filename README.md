@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) 3D-PREMISE: CAN LARGE LANGUAGE MODELS GENERATE 3D SHAPES WITH SHARP FEATURES AND PARAMETRIC CONTROL? [[Paper]](https://arxiv.org/pdf/2401.06437.pdf)
+
+- (arXiv 2024.1) 360DVD: Controllable Panorama Video Generation with 360-Degree **Video Diffusion** Model, [[Paper]](https://arxiv.org/pdf/2401.06578.pdf), [[Project]](https://akaneqwq.github.io/360DVD/)
+
+- (arXiv 2024.1) Eyes Wide Shut? Exploring the Visual Shortcomings of **Multimodal** LLMs, [[Paper]](https://arxiv.org/pdf/2401.06209.pdf), [[Project]](https://tsb0601.github.io/mmvp_blog/)
+
+- (arXiv 2024.1) AffordanceLLM: **Grounding** **Affordance** from Vision Language Models, [[Paper]](https://arxiv.org/pdf/2401.06341.pdf), [[Project]](https://jasonqsy.github.io/AffordanceLLM/)
+
+- (arXiv 2024.1) ModaVerse: **Efficiently** Transforming **Modalities** with LLMs, [[Paper]](https://arxiv.org/pdf/2401.06395.pdf)
+
 - (arXiv 2024.1) REPLAN: **ROBOTIC** REPLANNING WITH PERCEPTION AND LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.04157.pdf), [[Project]](https://replan-lm.github.io/replan.github.io/)
 
 - (arXiv 2024.1) Language-Conditioned Robotic **Manipulation** with Fast and Slow Thinking, [[Paper]](https://arxiv.org/pdf/2401.04181.pdf), [[Project]](https://jlm-z.github.io/RSFT/)
