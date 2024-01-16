@@ -57,6 +57,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) Visual Program **Distillation**: Distilling Tools and Programmatic Reasoning into **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2312.03052.pdf), [[Project]](https://visual-program-distillation.github.io/)
+
+- (arXiv 2023.12) Customization Assistant for **Text-to-image** Generation, [[Paper]](https://arxiv.org/pdf/2312.03045.pdf)
+
+- (arXiv 2023.12) GPT4Point: A Unified Framework for **Point-Language** Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2312.02980.pdf), [[Project]](https://gpt4point.github.io/)
+
+- (arXiv 2023.12) LLaVA-Grounding: Grounded Visual Chat with Large **Multimodal** Models, [[Paper]](https://arxiv.org/pdf/2312.02949.pdf), [[Project]](https://llava-vl.github.io/llava-grounding/)
+
 - (arXiv 2023.12) BenchLMM: Benchmarking **Cross-style** Visual Capability of Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2312.02896.pdf), [[Project]](https://github.com/AIFEG/BenchLMM)
 
 - (arXiv 2023.12) Generating Fine-Grained Human **Motions** Using ChatGPT-Refined Descriptions, [[Paper]](https://arxiv.org/pdf/2312.02772.pdf), [[Project]](https://sx0207.github.io/fg-mdm/)
