@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) An Improved Baseline for Reasoning **Segmentation** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.17240.pdf)
+
 - (arXiv 2024.1) MultiPLY: A Multisensory Object-Centric **Embodied** Large Language Model in 3D World, [[Paper]](https://arxiv.org/pdf/2401.08577.pdf), [[Project]](https://vis-www.cs.umass.edu/multiply/)
 
 - (arXiv 2024.1) 3D-PREMISE: CAN LARGE LANGUAGE MODELS GENERATE 3D SHAPES WITH SHARP FEATURES AND PARAMETRIC CONTROL? [[Paper]](https://arxiv.org/pdf/2401.06437.pdf)
