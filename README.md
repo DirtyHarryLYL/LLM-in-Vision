@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) Towards Language-Driven **Video Inpainting** via Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2401.10226.pdf), [[Project]](https://jianzongwu.github.io/projects/rovi/)
+
 - (arXiv 2024.1) An Improved Baseline for Reasoning **Segmentation** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.17240.pdf)
 
 - (arXiv 2024.1) MultiPLY: A Multisensory Object-Centric **Embodied** Large Language Model in 3D World, [[Paper]](https://arxiv.org/pdf/2401.08577.pdf), [[Project]](https://vis-www.cs.umass.edu/multiply/)
