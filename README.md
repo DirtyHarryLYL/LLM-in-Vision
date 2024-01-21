@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) MultiPLY: A Multisensory Object-Centric **Embodied** Large Language Model in 3D World, [[Paper]](https://arxiv.org/pdf/2401.08577.pdf), [[Project]](https://vis-www.cs.umass.edu/multiply/)
+
+- (arXiv 2024.1) SELF-IMAGINE: EFFECTIVE UNIMODAL **REASONING** WITH MULTIMODAL MODELS USING SELF-IMAGINATION, [[Paper]](https://arxiv.org/pdf/2401.08025.pdf), [[Project]](https://github.com/snat1505027/self-imagine)
+
+- (arXiv 2024.1) Multi-Track Timeline Control for Text-Driven **3D** Human **Motion** Generation, [[Paper]](https://arxiv.org/pdf/2401.08559.pdf), [[Project]](https://mathis.petrovich.fr/stmc/)
+
 - (arXiv 2024.1) Towards Language-Driven **Video Inpainting** via Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2401.10226.pdf), [[Project]](https://jianzongwu.github.io/projects/rovi/)
 
 - (arXiv 2024.1) An Improved Baseline for Reasoning **Segmentation** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.17240.pdf)
