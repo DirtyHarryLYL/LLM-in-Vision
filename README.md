@@ -5,6 +5,26 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) Towards A Better **Metric** for **Text-to-Video** Generation, [[Paper]](https://arxiv.org/pdf/2401.07781.pdf), [[Project]](https://showlab.github.io/T2VScore/)
+
+- (arXiv 2024.1) EXPLOITING GPT-4 VISION FOR ZERO-SHOT **POINT CLOUD** UNDERSTANDING, [[Paper]](https://arxiv.org/pdf/2401.07572.pdf)
+
+- (arXiv 2024.1) MM-SAP: A Comprehensive **Benchmark** for Assessing Self-Awareness of Multimodal Large Language Models in Perception, [[Paper]](https://arxiv.org/pdf/2401.07529.pdf), [[Project]](https://github.com/YHWmz/MM-SAP)
+
+- (arXiv 2024.1) GATS: Gather-Attend-Scatter, [[Paper]](https://arxiv.org/pdf/2401.08525.pdf)
+
+- (arXiv 2024.1) DiffusionGPT: LLM-Driven **Text-to-Image** Generation System, [[Paper]](https://arxiv.org/pdf/2401.10061.pdf), [[Project]](https://diffusiongpt.github.io/)
+
+- (arXiv 2024.1) TEMPORAL INSIGHT ENHANCEMENT: MITIGATING **TEMPORAL HALLUCINATION** IN MULTIMODAL LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.09861.pdf)
+
+- (arXiv 2024.1) Advancing Large **Multi-modal** Models with Explicit Chain-of-Reasoning and Visual Question Generation, [[Paper]](https://arxiv.org/pdf/2401.10005.pdf)
+
+- (arXiv 2024.1) GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot **Egocentric** **Action** Recognition, [[Paper]](https://arxiv.org/pdf/2401.10039.pdf)
+
+- (arXiv 2024.1) SCENEVERSE: Scaling **3D Vision-Language** Learning for Grounded Scene Understanding, [[Paper]](https://arxiv.org/pdf/2401.09340.pdf), [[Project]](https://scene-verse.github.io/)
+
+- (arXiv 2024.1) Vlogger: Make Your Dream A **Vlog**, [[Paper]](https://arxiv.org/pdf/2401.09414.pdf), [[Project]](https://github.com/zhuangshaobin/Vlogger)
+
 - (arXiv 2024.1) CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of **Quadruped Robot**, [[Paper]](https://arxiv.org/pdf/2401.09388.pdf), [[Project]](https://huggingface.co/datasets/ArtemLykov/CognitiveDog_dataset)
 
 - (arXiv 2024.1) Consolidating Trees of **Robotic** Plans Generated Using Large Language Models to Improve Reliability, [[Paper]](https://arxiv.org/pdf/2401.07868.pdf)
