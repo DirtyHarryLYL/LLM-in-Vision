@@ -5,6 +5,18 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of **Quadruped Robot**, [[Paper]](https://arxiv.org/pdf/2401.09388.pdf), [[Project]](https://huggingface.co/datasets/ArtemLykov/CognitiveDog_dataset)
+
+- (arXiv 2024.1) Consolidating Trees of **Robotic** Plans Generated Using Large Language Models to Improve Reliability, [[Paper]](https://arxiv.org/pdf/2401.07868.pdf)
+
+- (arXiv 2024.1) Mementos: A Comprehensive **Benchmark** for Multimodal Large Language Model **Reasoning** over Image Sequences, [[Paper]](https://arxiv.org/pdf/2401.10529.pdf), [[Project]](https://github.com/umd-huang-lab/Mementos)
+
+- (arXiv 2024.1) Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2401.10711.pdf)
+
+- (arXiv 2024.1) Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for **VQA** requiring Diverse World Knowledge, [[Paper]](https://arxiv.org/pdf/2401.10712.pdf)
+
+- (arXiv 2024.1) Tool-LMM: A Large Multi-Modal Model for Tool **Agent** Learning, [[Paper]](https://arxiv.org/pdf/2401.10727.pdf), [[Project]](https://github.com/Tool-LMM/Tool-LMM)
+
 - (arXiv 2024.1) MMToM-QA: **Multimodal** Theory of Mind **Question Answering**, [[Paper]](https://arxiv.org/pdf/2401.08743.pdf), [[Project]](https://chuanyangjin.com/mmtom-qa)
 
 - (arXiv 2024.1) EgoGen: An **Egocentric** Synthetic Data **Generator**, [[Paper]](https://arxiv.org/pdf/2401.08739.pdf), [[Project]](https://ego-gen.github.io/)
