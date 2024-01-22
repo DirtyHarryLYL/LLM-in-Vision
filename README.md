@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) MMToM-QA: **Multimodal** Theory of Mind **Question Answering**, [[Paper]](https://arxiv.org/pdf/2401.08743.pdf), [[Project]](https://chuanyangjin.com/mmtom-qa)
+
+- (arXiv 2024.1) EgoGen: An **Egocentric** Synthetic Data **Generator**, [[Paper]](https://arxiv.org/pdf/2401.08739.pdf), [[Project]](https://ego-gen.github.io/)
+
+- (arXiv 2024.1) COCO IS “ALL” YOU NEED FOR **VISUAL INSTRUCTION FINE-TUNING**, [[Paper]](https://arxiv.org/pdf/2401.08968.pdf)
+
+- (arXiv 2024.1) OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in **Mixed Reality**, [[Paper]](https://arxiv.org/pdf/2401.08973.pdf), [[Project]](https://octo-pearl.github.io/)
+
 - (arXiv 2024.1) MultiPLY: A Multisensory Object-Centric **Embodied** Large Language Model in 3D World, [[Paper]](https://arxiv.org/pdf/2401.08577.pdf), [[Project]](https://vis-www.cs.umass.edu/multiply/)
 
 - (arXiv 2024.1) SELF-IMAGINE: EFFECTIVE UNIMODAL **REASONING** WITH MULTIMODAL MODELS USING SELF-IMAGINATION, [[Paper]](https://arxiv.org/pdf/2401.08025.pdf), [[Project]](https://github.com/snat1505027/self-imagine)
