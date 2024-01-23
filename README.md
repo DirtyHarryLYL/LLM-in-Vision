@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) Benchmarking Large **Multimodal** Models against Common **Corruptions**, [[Paper]](https://arxiv.org/pdf/2401.11943.pdf), [[Project]](https://github.com/sail-sg/MMCBench)
+
 - (arXiv 2024.1) CMMMU: A Chinese Massive Multi-discipline **Multimodal** Understanding **Benchmark**, [[Paper]](https://arxiv.org/pdf/2401.11944.pdf), [[Project]](https://cmmmu-benchmark.github.io/)
 
 - (arXiv 2024.1) Prompting Large Vision-Language Models for **Compositional Reasoning**, [[Paper]](https://arxiv.org/pdf/2401.11337.pdf), [[Project]](https://github.com/tossowski/KeyComp)
