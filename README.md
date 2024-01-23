@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) CMMMU: A Chinese Massive Multi-discipline **Multimodal** Understanding **Benchmark**, [[Paper]](https://arxiv.org/pdf/2401.11944.pdf), [[Project]](https://cmmmu-benchmark.github.io/)
+
+- (arXiv 2024.1) Prompting Large Vision-Language Models for **Compositional Reasoning**, [[Paper]](https://arxiv.org/pdf/2401.11337.pdf), [[Project]](https://github.com/tossowski/KeyComp)
+
+- (arXiv 2024.1) Mastering **Text-to-Image** Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs, [[Paper]](https://arxiv.org/pdf/2401.11708.pdf), [[Project]](https://github.com/YangLing0818/RPG-DiffusionMaster)
+
+- (arXiv 2024.1) SpatialVLM: Endowing Vision-Language Models with **Spatial Reasoning** Capabilities, [[Paper]](https://arxiv.org/pdf/2401.12168.pdf), [[Project]](https://spatial-vlm.github.io/)
+
 - (arXiv 2024.1) Towards A Better **Metric** for **Text-to-Video** Generation, [[Paper]](https://arxiv.org/pdf/2401.07781.pdf), [[Project]](https://showlab.github.io/T2VScore/)
 
 - (arXiv 2024.1) EXPLOITING GPT-4 VISION FOR ZERO-SHOT **POINT CLOUD** UNDERSTANDING, [[Paper]](https://arxiv.org/pdf/2401.07572.pdf)
