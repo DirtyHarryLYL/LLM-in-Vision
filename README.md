@@ -5,6 +5,34 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) DORAEMONGPT: TOWARD UNDERSTANDING **DYNAMIC SCENES** WITH LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.08392.pdf), [[Project]](https://github.com/z-x-yang/DoraemonGPT)
+
+- (arXiv 2024.1) KAM-CoT: Knowledge Augmented Multimodal **Chain-of-Thoughts** Reasoning, [[Paper]](https://arxiv.org/pdf/2401.12863.pdf)
+
+- (arXiv 2024.1) Growing from Exploration: A self-exploring framework for **robots** based on foundation models, [[Paper]](https://arxiv.org/pdf/2401.13462.pdf), [[Project]](https://sites.google.com/view/gexp)
+
+- (arXiv 2024.1) TRUE KNOWLEDGE COMES FROM PRACTICE: ALIGNING LLMS WITH **EMBODIED** ENVIRONMENTS VIA REINFORCEMENT LEARNING, [[Paper]](https://arxiv.org/pdf/2401.14151.pdf), [[Project]](https://github.com/WeihaoTan/TWOSOME)
+
+- (arXiv 2024.1) **Red Teaming** Visual Language Models, [[Paper]](https://arxiv.org/pdf/2401.12915.pdf), [[Project]](https://huggingface.co/datasets/MMInstruction/RedTeamingVLM)
+
+- (arXiv 2024.1) The Neglected Tails of **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2401.12425.pdf), [[Project]](https://shubhamprshr27.github.io/neglected-tails-of-vlms/)
+
+- (arXiv 2024.1) Zero Shot Open-ended **Video** Inference, [[Paper]](https://arxiv.org/pdf/2401.12471.pdf)
+
+- (arXiv 2024.1) **Small** **Language** Model Meets with Reinforced **Vision** Vocabulary, [[Paper]](https://arxiv.org/pdf/2401.12503.pdf), [[Project]](https://varytoy.github.io/)
+
+- (arXiv 2024.1) HAZARD CHALLENGE: **EMBODIED** DECISION MAKING IN DYNAMICALLY CHANGING ENVIRONMENTS, [[Paper]](https://arxiv.org/pdf/2401.12975.pdf), [[Project]](https://vis-www.cs.umass.edu/hazard/)
+
+- (arXiv 2024.1) VisualWebArena: **EVALUATING** MULTIMODAL **AGENTS** ON REALISTIC VISUAL WEB TASKS, [[Paper]](https://arxiv.org/pdf/2401.13649.pdf), [[Project]](https://jykoh.com/vwa)
+
+- (arXiv 2024.1) ChatterBox: Multi-round Multimodal **Referring** and **Grounding**, [[Paper]](https://arxiv.org/pdf/2401.13307.pdf), [[Project]](https://github.com/sunsmarterjie/ChatterBox)
+
+- (arXiv 2024.1) CONTEXTUAL: Evaluating Context-Sensitive Text-Rich **Visual Reasoning** in Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2401.13311.pdf), [[Project]](https://con-textual.github.io/#leaderboard)
+
+- (arXiv 2024.1) UNIMO-G: Unified **Image Generation** through Multimodal Conditional Diffusion, [[Paper]](https://arxiv.org/pdf/2401.13388.pdf), [[Project]](https://unimo-ptm.github.io/)
+
+- (arXiv 2024.1) DEMOCRATIZING FINE-GRAINED VISUAL **RECOGNITION** WITH LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.13837.pdf), [[Project]](https://projfiner.github.io/)
+
 - (arXiv 2024.1) Benchmarking Large **Multimodal** Models against Common **Corruptions**, [[Paper]](https://arxiv.org/pdf/2401.11943.pdf), [[Project]](https://github.com/sail-sg/MMCBench)
 
 - (arXiv 2024.1) CMMMU: A Chinese Massive Multi-discipline **Multimodal** Understanding **Benchmark**, [[Paper]](https://arxiv.org/pdf/2401.11944.pdf), [[Project]](https://cmmmu-benchmark.github.io/)
@@ -118,6 +146,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2023.12
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2023.12) MOCHa: Multi-Objective Reinforcement Mitigating **Caption** **Hallucinations**, [[Paper]](https://arxiv.org/pdf/2312.03631.pdf), [[Project]](https://assafbk.github.io/mocha/)
 
 - (arXiv 2023.12) Visual Program **Distillation**: Distilling Tools and Programmatic Reasoning into **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2312.03052.pdf), [[Project]](https://visual-program-distillation.github.io/)
 
