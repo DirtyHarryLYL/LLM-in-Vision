@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) MouSi: Poly-Visual-Expert **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2401.17221.pdf), [[Project]](https://github.com/FudanNLPLAB/MouSi)
+
 - (arXiv 2024.1) DORAEMONGPT: TOWARD UNDERSTANDING **DYNAMIC SCENES** WITH LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.08392.pdf), [[Project]](https://github.com/z-x-yang/DoraemonGPT)
 
 - (arXiv 2024.1) KAM-CoT: Knowledge Augmented Multimodal **Chain-of-Thoughts** Reasoning, [[Paper]](https://arxiv.org/pdf/2401.12863.pdf)
