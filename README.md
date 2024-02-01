@@ -1,9 +1,17 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2024.2
+
+<!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
+
 ### 2024.1
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.1) SWARMBRAIN: EMBODIED AGENT FOR REAL-TIME **STRATEGY GAME** STARCRAFT II VIA LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.17749.pdf)
+
+- (arXiv 2024.1) YTCommentQA: **Video Question Answer**ability in Instructional Videos, [[Paper]](https://arxiv.org/pdf/2401.17343.pdf), [[Project]](https://github.com/lgresearch/YTCommentQA)
 
 - (arXiv 2024.1) MouSi: Poly-Visual-Expert **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2401.17221.pdf), [[Project]](https://github.com/FudanNLPLAB/MouSi)
 
