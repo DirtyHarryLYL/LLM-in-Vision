@@ -809,6 +809,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()-->
 
+- (arXiv 2023.8) EVE: Efficient **Vision-Language** Pre-training with Masked Prediction and Modality-Aware MoE, [[Paper]](https://arxiv.org/pdf/2308.11971.pdf)
+
 - (arXiv 2023.8) Breaking Common Sense: WHOOPS! A **Vision-and-Language Benchmark** of Synthetic and Compositional Images, [[Paper]](https://arxiv.org/pdf/2303.07274.pdf), [[Project]](https://whoops-benchmark.github.io/)
 
 - (arXiv 2023.8) Improving Knowledge Extraction from LLMs for Task Learning through **Agent** Analysis, [[Paper]](https://arxiv.org/pdf/2306.06770.pdf)
