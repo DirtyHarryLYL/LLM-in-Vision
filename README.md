@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Compositional **Generative** Modeling: A Single Model is Not All You Need, [[Paper]](https://arxiv.org/pdf/2402.01103.pdf)
+
+- (arXiv 2024.2) IMUGPT 2.0: Language-Based Cross Modality Transfer for **Sensor-Based** Human **Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2402.01049.pdf)
+
+- (arXiv 2024.2) SKIP \N: A SIMPLE METHOD TO REDUCE **HALLUCINATION** IN LARGE **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2402.01345.pdf), [[Project]](https://github.com/hanmenghan/Skip-n)
+
 ### 2024.1
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
