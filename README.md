@@ -5,6 +5,20 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Beyond Lines and Circles: Unveiling the **Geometric Reasoning** Gap in Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.03877.pdf), [[Project]](https://euclidea.fandom.com/wiki/Euclidea_Wiki)
+
+- (arXiv 2024.2) “Task Success” is not Enough: Investigating the Use of **Video-Language** Models as Behavior Critics for Catching Undesirable **Agent** Behaviors, [[Paper]](https://arxiv.org/pdf/2402.04210.pdf), [[Project]](https://guansuns.github.io/pages/vlm-critic/)
+
+- (arXiv 2024.2) RAP: Retrieval-Augmented **Planning** with Contextual Memory for Multimodal LLM **Agents**, [[Paper]](https://arxiv.org/pdf/2402.03610.pdf)
+
+- (arXiv 2024.2) Uni3D-LLM: Unifying **Point Cloud** Perception, Generation and Editing with Large **Language** Models, [[Paper]](https://arxiv.org/pdf/2402.03327.pdf)
+
+- (arXiv 2024.2) The Instinctive Bias: Spurious Images lead to **Hallucination** in MLLMs, [[Paper]](https://arxiv.org/pdf/2402.03757.pdf), [[Project]](https://github.com/MasaiahHan/CorrelationQA)
+
+- (arXiv 2024.2) **Mobile**VLM V2: Faster and Stronger Baseline for **Vision Language** Model, [[Paper]](https://arxiv.org/pdf/2402.03766.pdf), [[Project]](https://github.com/Meituan-AutoML/MobileVLM)
+
+- (arXiv 2024.2) CogCoM: Train Large **Vision-Language** Models Diving into Details through Chain of Manipulations, [[Paper]](https://arxiv.org/pdf/2402.04236.pdf), [[Project]](https://github.com/THUDM/CogCoM)
+
 - (arXiv 2024.2) Compositional **Generative** Modeling: A Single Model is Not All You Need, [[Paper]](https://arxiv.org/pdf/2402.01103.pdf)
 
 - (arXiv 2024.2) IMUGPT 2.0: Language-Based Cross Modality Transfer for **Sensor-Based** Human **Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2402.01049.pdf)
