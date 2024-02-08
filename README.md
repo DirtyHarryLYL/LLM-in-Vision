@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) S-AGENTS: SELF-ORGANIZING **AGENTS** IN OPENENDED ENVIRONMENT, [[Paper]](https://arxiv.org/pdf/2402.04578.pdf), [[Project]](https://github.com/fudan-zvg/S-Agents)
+
 - (arXiv 2024.2) Code as Reward: Empowering **Reinforcement Learning** with VLMs, [[Paper]](https://arxiv.org/pdf/2402.04764.pdf)
 
 - (arXiv 2024.2) Data-**efficient** Large Vision Models through Sequential Autoregression, [[Paper]](https://arxiv.org/pdf/2402.04841.pdf), [[Project]](https://github.com/ggjy/DeLVM)
