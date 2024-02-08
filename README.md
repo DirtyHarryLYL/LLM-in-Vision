@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Code as Reward: Empowering **Reinforcement Learning** with VLMs, [[Paper]](https://arxiv.org/pdf/2402.04764.pdf)
+
+- (arXiv 2024.2) Data-**efficient** Large Vision Models through Sequential Autoregression, [[Paper]](https://arxiv.org/pdf/2402.04841.pdf), [[Project]](https://github.com/ggjy/DeLVM)
+
+- (arXiv 2024.2) MLLM-as-a-Judge: **Assessing** **Multimodal** LLM-as-a-Judge with Vision-Language Benchmark, [[Paper]](https://arxiv.org/pdf/2402.04788.pdf), [[Project]](https://github.com/Dongping-Chen/MLLM-as-a-Judge)
+
 - (arXiv 2024.2) Beyond Lines and Circles: Unveiling the **Geometric Reasoning** Gap in Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.03877.pdf), [[Project]](https://euclidea.fandom.com/wiki/Euclidea_Wiki)
 
 - (arXiv 2024.2) “Task Success” is not Enough: Investigating the Use of **Video-Language** Models as Behavior Critics for Catching Undesirable **Agent** Behaviors, [[Paper]](https://arxiv.org/pdf/2402.04210.pdf), [[Project]](https://guansuns.github.io/pages/vlm-critic/)
