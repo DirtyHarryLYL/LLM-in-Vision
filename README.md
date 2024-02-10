@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) SPHINX-X: Scaling Data and Parameters for a Family of **Multi-modal** Large Language Models, [[Paper]](), [[Project]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
+- (arXiv 2024.2) CREMA: **Multimodal** Compositional Video Reasoning via Efficient Modular Adaptation and Fusion, [[Paper]](https://arxiv.org/pdf/2402.05889.pdf), [[Project]](https://crema-videollm.github.io/)
+
 - (arXiv 2024.2) S-AGENTS: SELF-ORGANIZING **AGENTS** IN OPENENDED ENVIRONMENT, [[Paper]](https://arxiv.org/pdf/2402.04578.pdf), [[Project]](https://github.com/fudan-zvg/S-Agents)
 
 - (arXiv 2024.2) Code as Reward: Empowering **Reinforcement Learning** with VLMs, [[Paper]](https://arxiv.org/pdf/2402.04764.pdf)
