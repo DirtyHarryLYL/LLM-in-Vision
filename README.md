@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Real-World **Robot** Applications of Foundation Models: A **Review**, [[Paper]](https://arxiv.org/pdf/2402.05741.pdf)
+
+- (arXiv 2024.2) Question Aware Vision Transformer for **Multimodal** Reasoning, [[Paper]](https://arxiv.org/pdf/2402.05472.pdf)
+
 - (arXiv 2024.2) SPHINX-X: Scaling Data and Parameters for a Family of **Multi-modal** Large Language Models, [[Paper]](), [[Project]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 
 - (arXiv 2024.2) CREMA: **Multimodal** Compositional Video Reasoning via Efficient Modular Adaptation and Fusion, [[Paper]](https://arxiv.org/pdf/2402.05889.pdf), [[Project]](https://crema-videollm.github.io/)
