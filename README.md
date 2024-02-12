@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) InCoRo: In-Context Learning for **Robotics Control** with Feedback Loops, [[Paper]](https://arxiv.org/pdf/2402.05188.pdf)
+
 - (arXiv 2024.2) Real-World **Robot** Applications of Foundation Models: A **Review**, [[Paper]](https://arxiv.org/pdf/2402.05741.pdf)
 
 - (arXiv 2024.2) Question Aware Vision Transformer for **Multimodal** Reasoning, [[Paper]](https://arxiv.org/pdf/2402.05472.pdf)
