@@ -5,6 +5,18 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Grounding LLMs For **Robot** Task Planning Using Closed-loop State Feedback, [[Paper]](https://arxiv.org/pdf/2402.08546.pdf)
+
+- (arXiv 2024.2) BBSEA: An Exploration of Brain-Body Synchronization for **Embodied** Agents, [[Paper]](https://arxiv.org/pdf/2402.08212.pdf), [[Project]](https://bbsea-embodied-ai.github.io/)
+
+- (arXiv 2024.2) Reasoning **Grasping** via Multimodal Large Language Model, [[Paper]](https://arxiv.org/pdf/2402.06798.pdf)
+
+- (arXiv 2024.2) LOTA-BENCH: BENCHMARKING LANGUAGE-ORIENTED TASK PLANNERS FOR **EMBODIED** AGENTS, [[Paper]](https://arxiv.org/pdf/2402.08178.pdf), [[Project]](https://github.com/lbaa2022/LLMTaskPlanning)
+
+- (arXiv 2024.2) OS-COPILOT: TOWARDS GENERALIST COMPUTER **AGENTS** WITH SELF-IMPROVEMENT, [[Paper]](https://arxiv.org/pdf/2402.07456.pdf), [[Project]](https://os-copilot.github.io/)
+
+- (arXiv 2024.2) Doing Experiments and Revising Rules with Natural Language and Probabilistic **Reasoning**, [[Paper]](https://arxiv.org/pdf/2402.06025.pdf)
+
 - (arXiv 2024.2) Preference-Conditioned Language-Guided **Abstraction**, [[Paper]](https://arxiv.org/pdf/2402.03081.pdf)
 
 - (arXiv 2024.2) Affordable Generative **Agents**, [[Paper]](https://arxiv.org/pdf/2402.02053.pdf), [[Project]](https://github.com/AffordableGenerativeAgents/Affordable-Generative-Agents)
