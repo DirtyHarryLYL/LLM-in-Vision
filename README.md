@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Using Left and Right Brains Together: Towards Vision and Language **Planning**, [[Paper]](https://arxiv.org/pdf/2402.10534.pdf)
+
+- (arXiv 2024.2) Question-Instructed Visual Descriptions for Zero-Shot **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2402.10698.pdf)
+
+- (arXiv 2024.2) PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong **Vision-language** Adapter, [[Paper]](https://arxiv.org/pdf/2402.10896.pdf)
+
 - (arXiv 2024.2) Grounding LLMs For **Robot** Task Planning Using Closed-loop State Feedback, [[Paper]](https://arxiv.org/pdf/2402.08546.pdf)
 
 - (arXiv 2024.2) BBSEA: An Exploration of Brain-Body Synchronization for **Embodied** Agents, [[Paper]](https://arxiv.org/pdf/2402.08212.pdf), [[Project]](https://bbsea-embodied-ai.github.io/)
