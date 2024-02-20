@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Open3DSG: Open-Vocabulary **3D Scene Graphs** from Point Clouds with Queryable Objects and Open-Set Relationships, [[Paper]](https://arxiv.org/pdf/2402.12259.pdf)
+
+- (arXiv 2024.2) ChartX & ChartVLM: A Versatile **Benchmark** and Foundation Model for Complicated **Chart Reasoning**, [[Paper]](https://arxiv.org/pdf/2402.12185.pdf), [[Project]](https://github.com/UniModal4Reasoning/ChartVLM)
+
+- (arXiv 2024.2) LVCHAT: Facilitating **Long Video** Comprehension, [[Paper]](https://arxiv.org/pdf/2402.12079.pdf), [[Project]](https://github.com/wangyu-ustc/LVChat)
+
+- (arXiv 2024.2) Scaffolding Coordinates to Promote **Vision-Language** Coordination in Large Multi-Modal Models, [[Paper]](https://arxiv.org/pdf/2402.12058.pdf), [[Project]](https://github.com/leixy20/Scaffold)
+
 - (arXiv 2024.2) Using Left and Right Brains Together: Towards Vision and Language **Planning**, [[Paper]](https://arxiv.org/pdf/2402.10534.pdf)
 
 - (arXiv 2024.2) Question-Instructed Visual Descriptions for Zero-Shot **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2402.10698.pdf)
