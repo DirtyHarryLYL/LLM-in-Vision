@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) RealDex: Towards Human-like **Grasping** for Robotic **Dexterous Hand**, [[Paper]](https://arxiv.org/pdf/2402.13853.pdf)
+
 - (arXiv 2024.2) Aligning **Modalities** in Vision Large Language Models via Preference Fine-tuning, [[Paper]](https://arxiv.org/pdf/2402.11411.pdf), [[Project]](https://github.com/YiyangZhou/POVID)
 
 - (arXiv 2024.2) Open3DSG: Open-Vocabulary **3D Scene Graphs** from Point Clouds with Queryable Objects and Open-Set Relationships, [[Paper]](https://arxiv.org/pdf/2402.12259.pdf)
