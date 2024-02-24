@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Enhancing **Robotic** Manipulation with AI Feedback from Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14245.pdf)
+
+- (arXiv 2024.2) Uncertainty-Aware **Evaluation** for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2402.14418.pdf), [[Project]](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)
+
 - (arXiv 2024.2) RealDex: Towards Human-like **Grasping** for Robotic **Dexterous Hand**, [[Paper]](https://arxiv.org/pdf/2402.13853.pdf)
 
 - (arXiv 2024.2) Aligning **Modalities** in Vision Large Language Models via Preference Fine-tuning, [[Paper]](https://arxiv.org/pdf/2402.11411.pdf), [[Project]](https://github.com/YiyangZhou/POVID)
