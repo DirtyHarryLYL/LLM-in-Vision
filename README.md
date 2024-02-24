@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Visual **Hallucinations** of **Multi-modal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14683.pdf), [[Project]](https://github.com/wenhuang2000/VHTest)
+
+- (arXiv 2024.2) DualFocus: Integrating Macro and Micro Perspectives in **Multi-modal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14767.pdf), [[Project]](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)
+
+- (arXiv 2024.2) RoboScript: Code Generation for Free-Form **Manipulation** Tasks across Real and Simulation, [[Paper]](https://arxiv.org/pdf/2402.14623.pdf)
+
+- (arXiv 2024.2) TinyLLaVA: A Framework of **Small**-scale Large **Multimodal** Models, [[Paper]](https://arxiv.org/pdf/2402.14289.pdf), [[Project]](https://github.com/DLCV-BUAA/TinyLLaVABench)
+
 - (arXiv 2024.2) Enhancing **Robotic** Manipulation with AI Feedback from Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14245.pdf)
 
 - (arXiv 2024.2) Uncertainty-Aware **Evaluation** for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2402.14418.pdf), [[Project]](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)
