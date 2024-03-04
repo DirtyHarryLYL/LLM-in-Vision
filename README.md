@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) MOSAIC: A Modular System for **Assistive** and Interactive Cooking, [[Paper]](https://arxiv.org/pdf/2402.18796.pdf), [[Project]](https://portal-cornell.github.io/MOSAIC/)
+
 - (arXiv 2024.2) Visual **Hallucinations** of **Multi-modal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14683.pdf), [[Project]](https://github.com/wenhuang2000/VHTest)
 
 - (arXiv 2024.2) DualFocus: Integrating Macro and Micro Perspectives in **Multi-modal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14767.pdf), [[Project]](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)
