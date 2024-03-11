@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) DeepSeek-VL: Towards Real-World **Vision-Language** Understanding, [[Paper]](https://arxiv.org/pdf/2403.05525.pdf), [[Project]](https://github.com/deepseek-ai/DeepSeek-VL)
+
 - (arXiv 2024.3) WILL GPT-4 RUN **DOOM**?, [[Paper]](https://arxiv.org/pdf/2403.05468.pdf), [[Project]](https://adewynter.github.io/Doom)
 
 - (arXiv 2024.3) **Debiasing** Large Visual Language Models, [[Paper]](https://arxiv.org/pdf/2403.05262.pdf), [[Project]](https://github.com/yfzhang114/LLaVA-Align)
