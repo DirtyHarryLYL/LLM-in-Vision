@@ -5,6 +5,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) Lumen: Unleashing Versatile **Vision-Centric** Capabilities of Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2403.07304.pdf), [[Project]](https://github.com/SxJyJay/Lumen)
+
+- (arXiv 2024.3) MoAI: Mixture of All Intelligence for Large **Language and Vision** Models, [[Paper]](https://arxiv.org/pdf/2403.07508.pdf), [[Project]](https://github.com/ByungKwanLee/MoAI)
+
+- (arXiv 2024.3) **Multi-modal** Auto-regressive Modeling via Visual Words, [[Paper]](https://arxiv.org/pdf/2403.07720.pdf), [[Project]](https://github.com/pengts/VW-LMM)
+
 - (arXiv 2024.3) DeepSeek-VL: Towards Real-World **Vision-Language** Understanding, [[Paper]](https://arxiv.org/pdf/2403.05525.pdf), [[Project]](https://github.com/deepseek-ai/DeepSeek-VL)
 
 - (arXiv 2024.3) WILL GPT-4 RUN **DOOM**?, [[Paper]](https://arxiv.org/pdf/2403.05468.pdf), [[Project]](https://adewynter.github.io/Doom)
