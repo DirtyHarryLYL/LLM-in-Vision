@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) UniCode: Learning a Unified **Codebook** for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.09072.pdf)
+
 - (arXiv 2024.3) Lumen: Unleashing Versatile **Vision-Centric** Capabilities of Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2403.07304.pdf), [[Project]](https://github.com/SxJyJay/Lumen)
 
 - (arXiv 2024.3) MoAI: Mixture of All Intelligence for Large **Language and Vision** Models, [[Paper]](https://arxiv.org/pdf/2403.07508.pdf), [[Project]](https://github.com/ByungKwanLee/MoAI)
