@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) Images are Achilles’ Heel of Alignment: Exploiting Visual Vulnerabilities for **Jailbreaking** **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.09792.pdf)
+
+- (arXiv 2024.3) HawkEye: Training Video-Text LLMs for **Grounding** Text in **Videos**, [[Paper]](https://arxiv.org/pdf/2403.10228.pdf), [[Project]](https://github.com/yellow-binary-tree/HawkEye)
+
 - (arXiv 2024.3) UniCode: Learning a Unified **Codebook** for **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.09072.pdf)
 
 - (arXiv 2024.3) Lumen: Unleashing Versatile **Vision-Centric** Capabilities of Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2403.07304.pdf), [[Project]](https://github.com/SxJyJay/Lumen)
@@ -1161,6 +1165,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 ### 2023.5
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) Interactive Data Synthesis for Systematic Vision Adaptation via LLMs-**AIGCs** Collaboration, [[Paper]](https://arxiv.org/pdf/2305.12799.pdf), [[Code]](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
 
 - (arXiv 2023.5) X-LLM: Bootstrapping Advanced Large Language Models by Treating **Multi-Modalities** as Foreign Languages, [[Paper]](https://arxiv.org/pdf/2305.04160.pdf), [[Project]](https://x-llm.github.io/)
 
