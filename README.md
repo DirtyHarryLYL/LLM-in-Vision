@@ -5,6 +5,24 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) INSIGHT: End-to-End **Neuro-Symbolic** Visual Reinforcement Learning with Language Explanations, [[Paper]](https://arxiv.org/pdf/2403.12451.pdf)
+
+- (arXiv 2024.3) DetToolChain: A New **Prompting** Paradigm to Unleash Detection Ability of MLLM, [[Paper]](https://arxiv.org/pdf/2403.12488.pdf)
+
+- (arXiv 2024.3) Embodied LLM **Agents** Learn to Cooperate in Organized Teams, [[Paper]](https://arxiv.org/pdf/2403.12482.pdf)
+
+- (arXiv 2024.3) To Help or Not to Help: LLM-based Attentive Support for **Human-Robot** Group **Interactions**, [[Paper]](https://arxiv.org/pdf/2403.12533.pdf), [[Project]](https://hri-eu.github.io/AttentiveSupport/)
+
+- (arXiv 2024.3) BTGenBot: Behavior Tree Generation for **Robotic** Tasks with Lightweight LLMs, [[Paper]](https://arxiv.org/pdf/2403.12761.pdf)
+
+- (arXiv 2024.3) Chain-of-Spot: Interactive Reasoning Improves Large **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2403.12966.pdf), [[Project]](https://sites.google.com/view/chain-of-spot/)
+
+- (arXiv 2024.3) HYDRA: A Hyper Agent for Dynamic Compositional **Visual Reasoning**, [[Paper]](https://arxiv.org/pdf/2403.12884.pdf), [[Project]](https://hydra-vl4ai.github.io/)
+
+- (arXiv 2024.3) RelationVLM: Making Large Vision-Language Models Understand **Visual Relations**, [[Paper]](https://arxiv.org/pdf/2403.12801.pdf)
+
+- (arXiv 2024.3) Towards Multimodal **In-Context Learning** for Vision & Language Models, [[Paper]](https://arxiv.org/pdf/2403.12736.pdf)
+
 - (arXiv 2024.3) Images are Achilles’ Heel of Alignment: Exploiting Visual Vulnerabilities for **Jailbreaking** **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.09792.pdf)
 
 - (arXiv 2024.3) HawkEye: Training Video-Text LLMs for **Grounding** Text in **Videos**, [[Paper]](https://arxiv.org/pdf/2403.10228.pdf), [[Project]](https://github.com/yellow-binary-tree/HawkEye)
