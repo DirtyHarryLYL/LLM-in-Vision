@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) MM1: Methods, Analysis & Insights from Multimodal LLM **Pre-training**, [[Paper]](https://arxiv.org/pdf/2403.09611.pdf)
+
+- (arXiv 2024.3) Mini-Gemini: Mining the Potential of Multi-modality **Vision Language** Models, [[Paper]](https://arxiv.org/pdf/2403.18814.pdf), [[Project]](https://github.com/dvlab-research/MiniGemini)
+
 - (arXiv 2024.3) INSIGHT: End-to-End **Neuro-Symbolic** Visual Reinforcement Learning with Language Explanations, [[Paper]](https://arxiv.org/pdf/2403.12451.pdf)
 
 - (arXiv 2024.3) DetToolChain: A New **Prompting** Paradigm to Unleash Detection Ability of MLLM, [[Paper]](https://arxiv.org/pdf/2403.12488.pdf)
