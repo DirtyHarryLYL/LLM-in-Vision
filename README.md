@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) OAKINK2 : A Dataset of Bimanual **Hands-Object Manipulation** in Complex Task Completion, [[Paper]](https://arxiv.org/pdf/2403.19417.pdf), [[Project]](https://oakink.net/v2)
+
+- (arXiv 2024.3) InterDreamer: Zero-Shot Text to 3D Dynamic **Human-Object Interaction**, [[Paper]](https://arxiv.org/pdf/2403.19652.pdf), [[Project]](https://sirui-xu.github.io/InterDreamer/)
+
 - (arXiv 2024.3) MM1: Methods, Analysis & Insights from Multimodal LLM **Pre-training**, [[Paper]](https://arxiv.org/pdf/2403.09611.pdf)
 
 - (arXiv 2024.3) Mini-Gemini: Mining the Potential of Multi-modality **Vision Language** Models, [[Paper]](https://arxiv.org/pdf/2403.18814.pdf), [[Project]](https://github.com/dvlab-research/MiniGemini)
