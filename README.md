@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) RAIL: **Robot** **Affordance** Imagination with Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.19369.pdf)
+
+- (arXiv 2024.3) Are We on the Right Way for Evaluating Large Vision-Language Models? [[Paper]](https://arxiv.org/pdf/2403.20330.pdf), [[Project]](https://mmstar-benchmark.github.io/)
+
+- (arXiv 2024.3) FSMR: A Feature Swapping **Multi-modal Reasoning** Approach with Joint Textual and Visual Clues, [[Paper]](https://arxiv.org/pdf/2403.20026.pdf), [[Project]](https://github.com/THU-BPM/FSMR)
+
+- (arXiv 2024.3) Unsolvable Problem Detection: Evaluating **Trustworthiness** of Vision Language Models, [[Paper]](https://arxiv.org/pdf/2403.20331.pdf), [[Project]](https://github.com/AtsuMiyai/UPD/)
+
 - (arXiv 2024.3) OAKINK2 : A Dataset of Bimanual **Hands-Object Manipulation** in Complex Task Completion, [[Paper]](https://arxiv.org/pdf/2403.19417.pdf), [[Project]](https://oakink.net/v2)
 
 - (arXiv 2024.3) InterDreamer: Zero-Shot Text to 3D Dynamic **Human-Object Interaction**, [[Paper]](https://arxiv.org/pdf/2403.19652.pdf), [[Project]](https://sirui-xu.github.io/InterDreamer/)
