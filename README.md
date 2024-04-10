@@ -1,6 +1,12 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2024.4
+
+<!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.4) Exploring the Potential of Large Foundation Models for Open-Vocabulary **HOI Detection**, [[Paper]](https://arxiv.org/pdf/2404.06194.pdf), [[Project]](https://github.com/ltttpku/CMD-SE-release)
+
 ### 2024.3
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
