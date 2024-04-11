@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) MORPHeus: a Multimodal One-armed **Robot**-assisted **Peeling** System with Human Users In-the-loop, [[Paper]](https://arxiv.org/pdf/2404.06570.pdf), [[Project]](https://emprise.cs.cornell.edu/morpheus/)
+
+- (arXiv 2024.4) GenCHiP: Generating Robot Policy Code for High-Precision and **Contact-Rich Manipulation** Tasks, [[Paper]](https://arxiv.org/pdf/2404.06645.pdf), [[Project]](https://dex-code-gen.github.io/dex-code-gen/)
+
 - (arXiv 2024.4) Exploring the Potential of Large Foundation Models for Open-Vocabulary **HOI Detection**, [[Paper]](https://arxiv.org/pdf/2404.06194.pdf), [[Project]](https://github.com/ltttpku/CMD-SE-release)
 
 ### 2024.3
