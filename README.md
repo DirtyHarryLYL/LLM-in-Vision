@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) OSWORLD: Benchmarking Multimodal **Agents** for Open-Ended Tasks in Real Computer Environments, [[Paper]](https://arxiv.org/pdf/2404.07972.pdf), [[Project]](https://os-world.github.io/)
+
 - (arXiv 2024.4) Reflectance Estimation for Proximity Sensing by Vision-Language Models: Utilizing Distributional Semantics for Low-Level Cognition in **Robotics**, [[Paper]](https://arxiv.org/pdf/2404.07717.pdf)
 
 - (arXiv 2024.4) Sketch-Plan-Generalize: Continual Few-Shot Learning of Inductively Generalizable Spatial Concepts for Language-Guided Robot **Manipulation**, [[Paper]](https://arxiv.org/pdf/2404.07774.pdf)
