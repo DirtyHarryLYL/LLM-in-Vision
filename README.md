@@ -5,6 +5,20 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) TextHawk: Exploring Efficient **Fine-Grained** Perception of **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.09204.pdf), [[Project]](https://github.com/yuyq96/TextHawk)
+
+- (arXiv 2024.4) EIVEN: Efficient Implicit **Attribute** Value **Extraction** using Multimodal LLM, [[Paper]](https://arxiv.org/pdf/2404.08886.pdf)
+
+- (arXiv 2024.4) BRIDGING **VISION AND LANGUAGE** SPACES WITH ASSIGNMENT PREDICTION, [[Paper]](https://arxiv.org/pdf/2404.09632.pdf)
+
+- (arXiv 2024.4) TextCoT: Zoom In for Enhanced **Multimodal** Text-Rich Image Understanding, [[Paper]](https://arxiv.org/pdf/2404.09797.pdf), [[Project]](https://github.com/bzluan/TextCoT)
+
+- (arXiv 2024.4) HOI-Ref: **Hand-Object Interaction** Referral in **Egocentric** Vision, [[Paper]](https://arxiv.org/pdf/2404.09933.pdf), [[Project]](https://sid2697.github.io/hoi-ref/)
+
+- (arXiv 2024.4) MMInA: Benchmarking Multihop Multimodal Internet **Agents**, [[Paper]](https://arxiv.org/pdf/2404.09992.pdf), [[Project]](https://mmina.cliangyu.com/)
+
+- (arXiv 2024.4) Evolving **Interpretable** Visual Classifiers with Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.09941.pdf)
+
 - (arXiv 2024.4) OSWORLD: Benchmarking Multimodal **Agents** for Open-Ended Tasks in Real Computer Environments, [[Paper]](https://arxiv.org/pdf/2404.07972.pdf), [[Project]](https://os-world.github.io/)
 
 - (arXiv 2024.4) Reflectance Estimation for Proximity Sensing by Vision-Language Models: Utilizing Distributional Semantics for Low-Level Cognition in **Robotics**, [[Paper]](https://arxiv.org/pdf/2404.07717.pdf)
