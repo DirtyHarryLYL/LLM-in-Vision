@@ -35,6 +35,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.3) MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for **Simulated**-World **Control**, [[Paper]](https://arxiv.org/pdf/2403.12037), [[Project]](https://sites.google.com/view/minedreamer/main)
+
 - (arXiv 2024.3) LEGO: Learning **EGOcentric Action Frame Generation** via Visual Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2312.03849.pdf), [[Project]](https://bolinlai.github.io/Lego_EgoActGen/)
 
 - (arXiv 2024.3) RAIL: **Robot** **Affordance** Imagination with Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.19369.pdf)
