@@ -5,6 +5,14 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot **Manipulation** through LLM Affordance-Grounding, [[Paper]](https://arxiv.org/pdf/2404.11000.pdf)
+
+- (arXiv 2024.4) FoundationGrasp: Generalizable Task-Oriented **Grasping** with Foundation Models, [[Paper]](https://arxiv.org/pdf/2404.10399.pdf), [[Project]](https://sites.google.com/view/foundationgrasp)
+
+- (arXiv 2024.4) Towards Human Awareness in **Robot Task Planning** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.11267.pdf)
+
+- (arXiv 2024.4) Self-Supervised Visual Preference **Alignment**, [[Paper]](https://arxiv.org/pdf/2404.10501.pdf)
+
 - (arXiv 2024.4) Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2404.10193.pdf)
 
 - (arXiv 2024.4) COMBO: Compositional World Models for Embodied Multi-**Agent** Cooperation, [[Paper]](https://arxiv.org/pdf/2404.10775.pdf), [[Project]](https://vis-www.cs.umass.edu/combo/)
