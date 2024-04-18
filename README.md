@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) Empowering Large Language Models on Robotic **Manipulation** with Affordance Prompting, [[Paper]](https://arxiv.org/pdf/2404.11027.pdf)
+
+- (arXiv 2024.4) Prescribing the Right Remedy: Mitigating **Hallucinations** in Large Vision-Language Models via Targeted Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2404.10332.pdf)
+
 - (arXiv 2024.4) OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot **Manipulation** through LLM Affordance-Grounding, [[Paper]](https://arxiv.org/pdf/2404.11000.pdf)
 
 - (arXiv 2024.4) FoundationGrasp: Generalizable Task-Oriented **Grasping** with Foundation Models, [[Paper]](https://arxiv.org/pdf/2404.10399.pdf), [[Project]](https://sites.google.com/view/foundationgrasp)
