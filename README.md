@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2404.10193.pdf)
+
+- (arXiv 2024.4) COMBO: Compositional World Models for Embodied Multi-**Agent** Cooperation, [[Paper]](https://arxiv.org/pdf/2404.10775.pdf), [[Project]](https://vis-www.cs.umass.edu/combo/)
+
+- (arXiv 2024.4) Octopus v3: Technical Report for On-device Sub-billion Multimodal AI **Agent**, [[Paper]](https://arxiv.org/pdf/2404.11459.pdf)
+
+- (arXiv 2024.4) Fact:Teaching MLLMs with Faithful, Concise and Transferable **Rationales**, [[Paper]](https://arxiv.org/pdf/2404.11129.pdf)
+
+- (arXiv 2024.4) Exploring the Transferability of **Visual Prompting** for Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.11207.pdf)
+
 - (arXiv 2024.4) TextHawk: Exploring Efficient **Fine-Grained** Perception of **Multimodal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.09204.pdf), [[Project]](https://github.com/yuyq96/TextHawk)
 
 - (arXiv 2024.4) EIVEN: Efficient Implicit **Attribute** Value **Extraction** using Multimodal LLM, [[Paper]](https://arxiv.org/pdf/2404.08886.pdf)
