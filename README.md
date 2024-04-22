@@ -5,6 +5,18 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) TextSquare: Scaling up Text-Centric **Visual Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2404.12803.pdf)
+
+- (arXiv 2024.4) Pre-trained Vision-Language Models Learn Discoverable **Visual Concepts**, [[Paper]](https://arxiv.org/pdf/2404.12652.pdf), [[Project]](https://conceptdiscovery.github.io/)
+
+- (arXiv 2024.4) MoVA: Adapting Mixture of Vision **Experts** to Multimodal Context, [[Paper]](https://arxiv.org/pdf/2404.13046.pdf), [[Project]](https://github.com/TempleX98/MoVA)
+
+- (arXiv 2024.4) Uni3DR^2: Unified Scene Representation and Reconstruction for **3D** Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.13044.pdf), [[Project]](https://chtsy.github.io/uni3drr-page/)
+
+- (arXiv 2024.4) Groma: Localized **Visual** **Tokenization** for Grounding Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.13013.pdf), [[Project]](https://groma-mllm.github.io/)
+
+- (arXiv 2024.4) Eyes Can Deceive: **Benchmarking** **Counterfactual Reasoning** Capabilities of Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.12966.pdf)
+
 - (arXiv 2024.4) Empowering Large Language Models on Robotic **Manipulation** with Affordance Prompting, [[Paper]](https://arxiv.org/pdf/2404.11027.pdf)
 
 - (arXiv 2024.4) Prescribing the Right Remedy: Mitigating **Hallucinations** in Large Vision-Language Models via Targeted Instruction Tuning, [[Paper]](https://arxiv.org/pdf/2404.10332.pdf)
