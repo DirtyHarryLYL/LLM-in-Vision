@@ -5,6 +5,32 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) What Makes Multimodal **In-Context Learning** Work?, [[Paper]](https://arxiv.org/pdf/2404.15736)
+
+- (arXiv 2024.4) ImplicitAVE: An Open-Source Dataset and Multimodal LLMs **Benchmark** for Implicit Attribute Value Extraction, [[Paper]](https://arxiv.org/pdf/2404.15592), [[Project]](https://github.com/HenryPengZou/ImplicitAVE)
+
+- (arXiv 2024.4) Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for **Multimodal** LLMs, [[Paper]](https://arxiv.org/pdf/2404.15406)
+
+- (arXiv 2024.4) Seeing Beyond Classes: Zero-Shot Grounded Situation **Recognition** via Language Explainer, [[Paper]](https://arxiv.org/pdf/2404.15785)
+
+- (arXiv 2024.4) MMT-Bench: A Comprehensive Multimodal **Benchmark** for Evaluating Large Vision-Language Models Towards Multitask AGI, [[Paper]](https://arxiv.org/pdf/2404.16006)
+
+- (arXiv 2024.4) Cantor: Inspiring **Multimodal Chain-of-Thought** of MLLM, [[Paper]](https://arxiv.org/pdf/2404.16033), [[Project]](https://ggg0919.github.io/cantor/)
+
+- (arXiv 2024.4) Make-it-Real: Unleashing Large Multimodal Model’s Ability for **Painting** **3D Objects** with Realistic Materials, [[Paper]](https://arxiv.org/pdf/2404.16829), [[Project]](https://sunzey.github.io/Make-it-Real/)
+
+- (arXiv 2024.4) How Far Are We to GPT-4V? Closing the Gap to Commercial **Multimodal** Models with **Open-Source** Suites, [[Paper]](https://arxiv.org/pdf/2404.16821), [[Project]](https://github.com/OpenGVLab/InternVL)
+
+- (arXiv 2024.4) Revisiting **Text-to-Image** Evaluation with Gecko: On Metrics, Prompts, and Human Ratings, [[Paper]](https://arxiv.org/pdf/2404.16820), [[Project]](https://github.com/google-deepmind/gecko_benchmark_t2i)
+
+- (arXiv 2024.4) SEED-Bench-2-Plus: **Benchmarking** Multimodal Large Language Models with Text-Rich Visual Comprehension, [[Paper]](https://arxiv.org/pdf/2404.16790), [[Project]](https://github.com/AILab-CVC/SEED-Bench)
+
+- (arXiv 2024.4) List Items One by One: A New Data Source and Learning Paradigm for **Multimodal** LLMs, [[Paper]](https://arxiv.org/pdf/2404.16375), [[Project]](https://github.com/zzxslp/SoM-LLaVA)
+
+- (arXiv 2024.4) Step Differences in **Instructional Video**, [[Paper]](https://arxiv.org/pdf/2404.16222)
+
+- (arXiv 2024.4) A **Survey** on Generative AI and LLM for **Video** Generation, Understanding, and Streaming, [[Paper]](https://arxiv.org/pdf/2404.16038)
+
 - (arXiv 2024.4) TextSquare: Scaling up Text-Centric **Visual Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2404.12803.pdf)
 
 - (arXiv 2024.4) Pre-trained Vision-Language Models Learn Discoverable **Visual Concepts**, [[Paper]](https://arxiv.org/pdf/2404.12652.pdf), [[Project]](https://conceptdiscovery.github.io/)
