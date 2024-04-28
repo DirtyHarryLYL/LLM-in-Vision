@@ -5,6 +5,16 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) A **Survey** on the Memory Mechanism of Large Language Model based **Agents**, [[Paper]](https://arxiv.org/pdf/2404.13501)
+
+- (arXiv 2024.4) **Energy-Latency Manipulation** of Multi-modal Large Language Models via Verbose Samples, [[Paper]](https://arxiv.org/pdf/2404.16557)
+
+- (arXiv 2024.4) A Multimodal Automated Interpretability **Agent**, [[Paper]](https://arxiv.org/pdf/2404.14394), [[Project]](https://multimodal-interpretability.csail.mit.edu/maia/)
+
+- (arXiv 2024.4) Groma: Localized Visual Tokenization for **Grounding** Multimodal Large Language Models, [[Paper]](https://arxiv.org/pdf/2404.13013), [[Project]](https://groma-mllm.github.io/)
+
+- (arXiv 2024.4) TextSquare: Scaling up Text-Centric **Visual Instruction Tuning**, [[Paper]](https://arxiv.org/pdf/2404.12803)
+
 - (arXiv 2024.4) What Makes Multimodal **In-Context Learning** Work?, [[Paper]](https://arxiv.org/pdf/2404.15736)
 
 - (arXiv 2024.4) ImplicitAVE: An Open-Source Dataset and Multimodal LLMs **Benchmark** for Implicit Attribute Value Extraction, [[Paper]](https://arxiv.org/pdf/2404.15592), [[Project]](https://github.com/HenryPengZou/ImplicitAVE)
