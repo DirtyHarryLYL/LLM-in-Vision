@@ -5,7 +5,9 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
-- (arXiv 2024.4) PLLaVA : Parameter-free LLaVA Extension from Images to Videos for **Video Dense Captioning**, [[Paper]](https://arxiv.org/pdf/2404.16994), [[Project]](https://github.com/magic-research/PLLaVA)
+- (arXiv 2024.4) **Hallucination** of Multimodal Large Language Models: A **Survey**, [[Paper]](https://arxiv.org/pdf/2404.18930), [[Project]](https://github.com/showlab/Awesome-MLLM-Hallucination)
+
+- (arXiv 2024.4) PLLaVA: Parameter-free LLaVA Extension from Images to Videos for **Video Dense Captioning**, [[Paper]](https://arxiv.org/pdf/2404.16994), [[Project]](https://github.com/magic-research/PLLaVA)
 
 - (arXiv 2024.4) MovieChat+: Question-aware Sparse Memory for Long **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2404.17176), [[Project]](https://github.com/rese1f/MovieChat)
 
