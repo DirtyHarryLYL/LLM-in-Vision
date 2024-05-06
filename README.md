@@ -1,6 +1,14 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2024.5
+
+<!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.5) Auto-Encoding Morph-**Tokens** for **Multimodal** LLM, [[Paper]](https://arxiv.org/pdf/2405.01926), [[Project]](https://github.com/DCDmllm/MorphTokens)
+
+- (arXiv 2024.5) What matters when building **vision-language** models? [[Paper]](https://arxiv.org/pdf/2405.02246)
+
 ### 2024.4
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
@@ -267,6 +275,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2024.1
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.1) TRAINING **DIFFUSION** MODELS WITH REINFORCEMENT LEARNING, [[Paper]](https://arxiv.org/pdf/2305.13301), [[Project]](https://rl-diffusion.github.io/)
 
 - (arXiv 2024.1) SWARMBRAIN: EMBODIED AGENT FOR REAL-TIME **STRATEGY GAME** STARCRAFT II VIA LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2401.17749.pdf)
 
@@ -1313,6 +1323,12 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 ### 2023.5
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) TreePrompt: Learning to Compose Tree **Prompts** for Explainable Visual Grounding, [[Paper]](https://arxiv.org/pdf/2305.11497)
+
+- (arXiv 2023.5) i-Code V2: An Autoregressive Generation Framework over **Vision**, **Language**, and **Speech** Data, [[Paper]](https://arxiv.org/pdf/2305.12311)
+
+- (arXiv 2023.5) What Makes for Good **Visual Tokenizers** for Large Language Models?, [[Paper]](https://arxiv.org/pdf/2305.12223), [[Code]](https://github.com/TencentARC/GVT)
 
 - (arXiv 2023.5) Interactive Data Synthesis for Systematic Vision Adaptation via LLMs-**AIGCs** Collaboration, [[Paper]](https://arxiv.org/pdf/2305.12799.pdf), [[Code]](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
 
