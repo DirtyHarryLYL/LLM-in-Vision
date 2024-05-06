@@ -1324,6 +1324,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.5) Instruct2Act: Mapping Multi-modality Instructions to **Robotic** Actions with Large Language Model, [[Paper]](https://arxiv.org/pdf/2305.11176), [[Code]](https://github.com/OpenGVLab/Instruct2Act)
+
 - (arXiv 2023.5) TreePrompt: Learning to Compose Tree **Prompts** for Explainable Visual Grounding, [[Paper]](https://arxiv.org/pdf/2305.11497)
 
 - (arXiv 2023.5) i-Code V2: An Autoregressive Generation Framework over **Vision**, **Language**, and **Speech** Data, [[Paper]](https://arxiv.org/pdf/2305.12311)
