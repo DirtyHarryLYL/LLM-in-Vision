@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.5) Octopi: Object Property Reasoning with Large **Tactile-Language** Models, [[Paper]](https://arxiv.org/pdf/2405.02794), [[Project]](https://github.com/clear-nus/octopi)
+
 - (arXiv 2024.5) Auto-Encoding Morph-**Tokens** for **Multimodal** LLM, [[Paper]](https://arxiv.org/pdf/2405.01926), [[Project]](https://github.com/DCDmllm/MorphTokens)
 
 - (arXiv 2024.5) What matters when building **vision-language** models? [[Paper]](https://arxiv.org/pdf/2405.02246)
