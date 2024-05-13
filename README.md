@@ -15,6 +15,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) GROUNDHOG: Grounding Large Language Models to Holistic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2402.16846), [[Project]](https://groundhog-mllm.github.io/)
+
 - (arXiv 2024.4) **Hallucination** of Multimodal Large Language Models: A **Survey**, [[Paper]](https://arxiv.org/pdf/2404.18930), [[Project]](https://github.com/showlab/Awesome-MLLM-Hallucination)
 
 - (arXiv 2024.4) PLLaVA: Parameter-free LLaVA Extension from Images to Videos for **Video Dense Captioning**, [[Paper]](https://arxiv.org/pdf/2404.16994), [[Project]](https://github.com/magic-research/PLLaVA)
@@ -122,6 +124,12 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2024.3
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.3) OCTAVIUS: MITIGATING TASK INTERFERENCE IN **MLLMS** VIA LORA-MOE, [[Paper]](https://arxiv.org/pdf/2311.02684), [[Project]](https://openlamm.github.io/paper_list/Octavius)
+
+- (arXiv 2024.3) INSTRUCTCV: INSTRUCTION-TUNED **TEXT-TO-IMAGE** DIFFUSION MODELS AS VISION GENERALISTS, [[Paper]](https://arxiv.org/pdf/2310.00390), [[Project]](https://github.com/AlaaLab/InstructCV)
+
+- (arXiv 2024.3) Embodied Multi-Modal **Agent** trained by an LLM from a Parallel TextWorld, [[Paper]](https://arxiv.org/pdf/2311.16714), [[Project]](https://github.com/stevenyangyj/Emma-Alfworld)
 
 - (arXiv 2024.3) Manip**VQA**: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.11289.pdf), [[Project]](https://github.com/SiyuanHuang95/ManipVQA)
 
@@ -277,6 +285,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2024.1
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.1) LISA++: An Improved Baseline for Reasoning **Segmentation** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.17240)
 
 - (arXiv 2024.1) TRAINING **DIFFUSION** MODELS WITH REINFORCEMENT LEARNING, [[Paper]](https://arxiv.org/pdf/2305.13301), [[Project]](https://rl-diffusion.github.io/)
 
@@ -1325,6 +1335,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 ### 2023.5
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.5) DetGPT: **Detect** What You Need via Reasoning, [[Paper]](https://arxiv.org/pdf/2305.14167), [[Code]](https://detgpt.github.io/)
 
 - (arXiv 2023.5) Instruct2Act: Mapping Multi-modality Instructions to **Robotic** Actions with Large Language Model, [[Paper]](https://arxiv.org/pdf/2305.11176), [[Code]](https://github.com/OpenGVLab/Instruct2Act)
 
