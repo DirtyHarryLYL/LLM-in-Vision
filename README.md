@@ -5,6 +5,20 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.5) Unveiling the Tapestry of **Consistency** in Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2405.14156)
+
+- (arXiv 2024.5) Dense **Connector** for MLLMs, [[Paper]](https://arxiv.org/pdf/2405.13800), [[Project]](https://github.com/HJYao00/DenseConnector)
+
+- (arXiv 2024.5) Adapting Multi-modal Large Language Model to Concept Drift in the **Long-tailed** Open World, [[Paper]](https://arxiv.org/pdf/2405.13459), [[Project]](https://github.com/Anonymous0Knight/ConceptDriftMLLMs)
+
+- (arXiv 2024.5) VTG-LLM: INTEGRATING TIMESTAMP KNOWLEDGE INTO VIDEO LLMS FOR ENHANCED **VIDEO** TEMPORAL **GROUNDING**, [[Paper]](https://arxiv.org/pdf/2405.13382), [[Project]](https://github.com/gyxxyg/VTG-LLM)
+
+- (arXiv 2024.5) **Calibrated** Self-Rewarding Vision Language Models, [[Paper]](https://arxiv.org/pdf/2405.14622), [[Project]](https://github.com/YiyangZhou/CSR)
+
+- (arXiv 2024.5) From Text to Pixel: Advancing **Long-Context** Understanding in MLLMs, [[Paper]](https://arxiv.org/pdf/2405.14213), [[Project]](https://github.com/YujieLu10/Seeker)
+
+- (arXiv 2024.5) **Explaining** Multi-modal Large Language Models by Analyzing their Vision Perception, [[Paper]](https://arxiv.org/pdf/2405.14612)
+
 - (arXiv 2024.5) Octopi: Object Property Reasoning with Large **Tactile-Language** Models, [[Paper]](https://arxiv.org/pdf/2405.02794), [[Project]](https://github.com/clear-nus/octopi)
 
 - (arXiv 2024.5) Auto-Encoding Morph-**Tokens** for **Multimodal** LLM, [[Paper]](https://arxiv.org/pdf/2405.01926), [[Project]](https://github.com/DCDmllm/MorphTokens)
