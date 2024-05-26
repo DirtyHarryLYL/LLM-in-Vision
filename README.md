@@ -1350,6 +1350,22 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 
 <!-- - (arXiv 2023.5) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.5) IMAGENETVC: Zero- and Few-Shot **Visual Commonsense Evaluation** on 1000 ImageNet Categories, [[Paper]](https://arxiv.org/pdf/2305.15028), [[Code]](https://github.com/hemingkx/ImageNetVC)
+
+- (arXiv 2023.5) ECHO: A Visio-Linguistic **Dataset** for **Event Causality Inference** via Human-Centric ReasOning, [[Paper]](https://arxiv.org/pdf/2305.14740), [[Code]](https://github.com/YuxiXie/ECHo)
+
+- (arXiv 2023.5) PROMPTING LANGUAGE-INFORMED DISTRIBUTION FOR **COMPOSITIONAL ZERO-SHOT LEARNING**, [[Paper]](https://arxiv.org/pdf/2305.14428)
+
+- (arXiv 2023.5) Exploring Diverse In-Context Configurations for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2305.14800)
+
+- (arXiv 2023.5) Cheap and Quick: Efficient Vision-Language **Instruction Tuning** for Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.15023), [[Code]](https://luogen1996.github.io/lavin/)
+
+- (arXiv 2023.5) IdealGPT: Iteratively Decomposing Vision and Language **Reasoning** via Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.14985), [[Code]](https://github.com/Hxyou/IdealGPT)
+
+- (arXiv 2023.5) **Layout**GPT: Compositional Visual Planning and **Generation** with Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.15393), [[Code]](https://github.com/weixi-feng/LayoutGPT)
+
+- (arXiv 2023.5) Enhance **Reasoning** Ability of Visual-Language Models via Large Language Models, [[Paper]](https://arxiv.org/pdf/2305.13267)
+
 - (arXiv 2023.5) DetGPT: **Detect** What You Need via Reasoning, [[Paper]](https://arxiv.org/pdf/2305.14167), [[Code]](https://detgpt.github.io/)
 
 - (arXiv 2023.5) Instruct2Act: Mapping Multi-modality Instructions to **Robotic** Actions with Large Language Model, [[Paper]](https://arxiv.org/pdf/2305.11176), [[Code]](https://github.com/OpenGVLab/Instruct2Act)
