@@ -300,6 +300,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.1) AUTORT: **EMBODIED** FOUNDATION MODELS FOR LARGE SCALE ORCHESTRATION OF ROBOTIC AGENTS, [[Paper]](https://arxiv.org/pdf/2401.12963), [[Project]](https://auto-rt.github.io/)
+
 - (arXiv 2024.1) LISA++: An Improved Baseline for Reasoning **Segmentation** with Large Language Model, [[Paper]](https://arxiv.org/pdf/2312.17240)
 
 - (arXiv 2024.1) TRAINING **DIFFUSION** MODELS WITH REINFORCEMENT LEARNING, [[Paper]](https://arxiv.org/pdf/2305.13301), [[Project]](https://rl-diffusion.github.io/)
