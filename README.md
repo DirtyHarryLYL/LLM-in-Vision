@@ -5,6 +5,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.5) **Self-supervised Pre-training** for Transferable Multi-modal Perception, [[Paper]](https://arxiv.org/pdf/2405.17942v1)
+
+- (arXiv 2024.5) Multi-modal Generation via Cross-Modal **In-Context Learning**, [[Paper]](https://arxiv.org/pdf/2405.18304v1)
+
 - (arXiv 2024.5) RoboCasa: Large-Scale **Simulation** of Everyday Tasks for Generalist **Robots**, [[Paper]](https://robocasa.ai/assets/robocasa_rss24.pdf), [[Project]](https://robocasa.ai/)
 
 - (arXiv 2024.5) Unveiling the Tapestry of **Consistency** in Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2405.14156)
