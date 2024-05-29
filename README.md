@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.5) RoboCasa: Large-Scale **Simulation** of Everyday Tasks for Generalist **Robots**, [[Paper]](https://robocasa.ai/assets/robocasa_rss24.pdf), [[Project]](https://robocasa.ai/)
+
 - (arXiv 2024.5) Unveiling the Tapestry of **Consistency** in Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2405.14156)
 
 - (arXiv 2024.5) Dense **Connector** for MLLMs, [[Paper]](https://arxiv.org/pdf/2405.13800), [[Project]](https://github.com/HJYao00/DenseConnector)
