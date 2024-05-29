@@ -31,6 +31,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.4) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.4) VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing, [[Paper]](http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf), [[Project]](https://vitron-llm.github.io/)
+
 - (arXiv 2024.4) GROUNDHOG: Grounding Large Language Models to Holistic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2402.16846), [[Project]](https://groundhog-mllm.github.io/)
 
 - (arXiv 2024.4) **Hallucination** of Multimodal Large Language Models: A **Survey**, [[Paper]](https://arxiv.org/pdf/2404.18930), [[Project]](https://github.com/showlab/Awesome-MLLM-Hallucination)
@@ -140,6 +142,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2024.3
 
 <!-- - (arXiv 2024.3) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.3) AnyGPT: Unified **Multimodal** LLM with Discrete Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2402.12226), [[Project]](https://junzhan2000.github.io/AnyGPT.github.io/)
 
 - (arXiv 2024.3) OCTAVIUS: MITIGATING TASK INTERFERENCE IN **MLLMS** VIA LORA-MOE, [[Paper]](https://arxiv.org/pdf/2311.02684), [[Project]](https://openlamm.github.io/paper_list/Octavius)
 
@@ -456,6 +460,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2023.12) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2023.12) GLaMM: Pixel **Grounding** Large Multimodal Model, [[Paper]](https://arxiv.org/pdf/2311.03356), [[Project]](https://mbzuai-oryx.github.io/groundingLMM/)
+
 - (arXiv 2023.12) MOCHa: Multi-Objective Reinforcement Mitigating **Caption** **Hallucinations**, [[Paper]](https://arxiv.org/pdf/2312.03631.pdf), [[Project]](https://assafbk.github.io/mocha/)
 
 - (arXiv 2023.12) Visual Program **Distillation**: Distilling Tools and Programmatic Reasoning into **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2312.03052.pdf), [[Project]](https://visual-program-distillation.github.io/)
@@ -678,6 +684,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 ### 2023.11
 
 <!-- - (arXiv 2023.11) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.11) **Video**-LLaVA: Learning United Visual Representation by Alignment Before Projection, [[Paper]](https://arxiv.org/pdf/2311.10122), [[Code]](https://github.com/PKU-YuanGroup/Video-LLaVA)
 
 - (arXiv 2023.11) Self-Chained Image-Language Model for **Video** Localization and Question Answering, [[Paper]](https://arxiv.org/pdf/2305.06988.pdf), [[Code]](https://github.com/Yui010206/SeViLA)
 
@@ -1107,6 +1115,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 ### 2023.8
 
 <!-- - (arXiv 2023.8) , [[Paper]](), [[Code]]()-->
+
+- (arXiv 2023.8) Planting a SEED of **Vision** in **Large** Language Model, [[Paper]](https://arxiv.org/pdf/2307.08041), [[Code]](https://github.com/AILab-CVC/SEED)
 
 - (arXiv 2023.8) EVE: Efficient **Vision-Language** Pre-training with Masked Prediction and Modality-Aware MoE, [[Paper]](https://arxiv.org/pdf/2308.11971.pdf)
 
