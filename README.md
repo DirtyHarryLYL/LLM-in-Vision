@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.5) Grounded 3D-LLM with Referent Tokens, [[Paper]](https://arxiv.org/pdf/2405.10370), [[Project]](https://groundedscenellm.github.io/grounded_3d-llm.github.io)
+
 - (arXiv 2024.5) **Self-supervised Pre-training** for Transferable Multi-modal Perception, [[Paper]](https://arxiv.org/pdf/2405.17942v1)
 
 - (arXiv 2024.5) Multi-modal Generation via Cross-Modal **In-Context Learning**, [[Paper]](https://arxiv.org/pdf/2405.18304v1)
@@ -506,7 +508,7 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 - (arXiv 2023.12) See, Say, and **Segment**: Teaching LMMs to Overcome False Premises, [[Paper]](https://arxiv.org/pdf/2312.08366.pdf), [[Project]](https://see-say-segment.github.io/)
 
-- (arXiv 2023.12) Chat-3D v2: Bridging **3D Scene** and Large Language Models with Object Identifiers, [[Paper]](https://arxiv.org/pdf/2312.08168.pdf)
+- (arXiv 2023.12) Chat-3D v2: Bridging **3D Scene** and Large Language Models with Object Identifiers, [[Paper]](https://arxiv.org/pdf/2312.08168.pdf), [[Code]](https://github.com/Chat-3D/Chat-3D-v2)
 
 - (arXiv 2023.12) Interfacing Foundation Models’ **Embeddings**, [[Paper]](https://arxiv.org/pdf/2312.07532.pdf), [[Project]](https://github.com/UX-Decoder/FIND)
 
@@ -1133,6 +1135,8 @@ github.com/Vill-Lab/2024-AAAI-HPT)
 - (arXiv 2023.8) PointLLM: Empowering Large Language Models to Understand **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2308.16911.pdf), [[Project]](https://runsenxu.com/projects/PointLLM/)
 
 - (arXiv 2023.8) TouchStone: **Evaluating Vision-Language** Models by Language Models, [[Paper]](https://arxiv.org/pdf/2308.16890.pdf), [[Code]](https://github.com/OFA-Sys/TouchStone)
+
+- (arXiv 2023.8) Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes, [[Paper]](https://arxiv.org/pdf/2308.08769.pdf), [[Project]](https://chat-3d.github.io)
 
 - (arXiv 2023.8) WALL-E: Embodied **Robotic** WAiter Load Lifting with Large Language Model, [[Paper]](https://arxiv.org/pdf/2308.15962.pdf)
 
