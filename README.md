@@ -5,6 +5,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.5) VideoOFA: Two-Stage Pre-Training for **Video-to-Text** Generation, [[Paper]](https://arxiv.org/pdf/2305.03204)
+
 - (arXiv 2024.5) Grounded 3D-LLM with Referent Tokens, [[Paper]](https://arxiv.org/pdf/2405.10370), [[Project]](https://groundedscenellm.github.io/grounded_3d-llm.github.io)
 
 - (arXiv 2024.5) **Self-supervised Pre-training** for Transferable Multi-modal Perception, [[Paper]](https://arxiv.org/pdf/2405.17942v1)
@@ -220,6 +222,10 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) Dej´ a Vu Memorization in Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2402.02103)
+
+- (arXiv 2024.2) Lumos: Empowering Multimodal LLMs with **Scene Text Recognition**, [[Paper]](https://arxiv.org/pdf/2402.08017)
+
 - (arXiv 2024.2) MOSAIC: A Modular System for **Assistive** and Interactive Cooking, [[Paper]](https://arxiv.org/pdf/2402.18796.pdf), [[Project]](https://portal-cornell.github.io/MOSAIC/)
 
 - (arXiv 2024.2) Visual **Hallucinations** of **Multi-modal** Large Language Models, [[Paper]](https://arxiv.org/pdf/2402.14683.pdf), [[Project]](https://github.com/wenhuang2000/VHTest)
@@ -311,6 +317,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 ### 2024.1
 
 <!-- - (arXiv 2024.1) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.1) **Red Teaming** Visual Language Models, [[Paper]](https://arxiv.org/pdf/2401.12915), [[Project]](https://huggingface.co/datasets/MMInstruction/RedTeamingVLM)
 
 - (arXiv 2024.1) AUTORT: **EMBODIED** FOUNDATION MODELS FOR LARGE SCALE ORCHESTRATION OF ROBOTIC AGENTS, [[Paper]](https://arxiv.org/pdf/2401.12963), [[Project]](https://auto-rt.github.io/)
 
