@@ -1,6 +1,12 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
 
+### 2024.6
+
+<!-- - (arXiv 2024.6) , [[Paper]](), [[Project]]()-->
+
+- (arXiv 2024.6) Bootstrap3D: Improving **3D Content Creation** with Synthetic Data, [[Paper]](https://arxiv.org/pdf/2406.00093), [[Project]](https://sunzey.github.io/Bootstrap3D/)
+
 ### 2024.5
 
 <!-- - (arXiv 2024.5) , [[Paper]](), [[Project]]()-->
