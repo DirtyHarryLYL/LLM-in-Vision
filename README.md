@@ -228,6 +228,8 @@ Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to co
 
 <!-- - (arXiv 2024.2) , [[Paper]](), [[Project]]()-->
 
+- (arXiv 2024.2) **Efficient** Multimodal Learning from Data-centric Perspective, [[Paper]](https://arxiv.org/pdf/2402.11530), [[Project]](https://github.com/BAAI-DCAI/Bunny)
+
 - (arXiv 2024.2) Dej´ a Vu Memorization in Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2402.02103)
 
 - (arXiv 2024.2) Lumos: Empowering Multimodal LLMs with **Scene Text Recognition**, [[Paper]](https://arxiv.org/pdf/2402.08017)
