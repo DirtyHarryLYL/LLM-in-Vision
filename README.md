@@ -1,5 +1,7 @@
 # LLM-in-Vision
 Recent LLM (Large Language Models)-based CV and multi-modal works. Welcome to comment/contribute!
+### 2025.2
+- (CVPR 2025.2) Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection, [[Paper]](https://arxiv.org/abs/2412.04455), [[Project]](https://zhoues.github.io/Code-as-Monitor/)
 
 ### 2024.6
 
